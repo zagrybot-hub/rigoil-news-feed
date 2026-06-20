@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-06-20T18:41:59.972478+00:00",
+  "source": "rigoil-news-intelligence",
+  "assetCount": 3,
+  "assets": [
+    {
+      "assetRefId": "PLAT-0516",
+      "assetName": "Troll A",
+      "latestNewsCount": 4,
+      "items": [
+        {
+          "title": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy",
+          "url": "https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000002",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea",
+          "url": "https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000006",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Several North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy",
+          "url": "https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000008",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Expanding Troll: more gas to Europe - Equinor",
+          "url": "https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe",
+          "sourceName": "equinor.com",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000012",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0517",
+      "assetName": "Troll B",
+      "latestNewsCount": 4,
+      "items": [
+        {
+          "title": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy",
+          "url": "https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000002",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea",
+          "url": "https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000006",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Several North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy",
+          "url": "https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000008",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Expanding Troll: more gas to Europe - Equinor",
+          "url": "https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe",
+          "sourceName": "equinor.com",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000012",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0518",
+      "assetName": "Troll C",
+      "latestNewsCount": 4,
+      "items": [
+        {
+          "title": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy",
+          "url": "https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000002",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea",
+          "url": "https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000006",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Several North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy",
+          "url": "https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000008",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Expanding Troll: more gas to Europe - Equinor",
+          "url": "https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe",
+          "sourceName": "equinor.com",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000012",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div>"
+    }
+  ]
+}
