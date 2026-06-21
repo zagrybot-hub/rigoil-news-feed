@@ -1,14 +1,123 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-20T18:41:59.972478+00:00",
+  "updatedAt": "2026-06-21T10:25:54.310324+00:00",
   "source": "rigoil-news-intelligence",
-  "assetCount": 3,
+  "assetCount": 8,
   "assets": [
+    {
+      "assetRefId": "PLAT-0260",
+      "assetName": "Johan Sverdrup DP",
+      "latestNewsCount": 1,
+      "items": [
+        {
+          "title": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea",
+          "url": "https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Sun, 21 Jun 2026",
+          "articleId": "NEWS-000053",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0261",
+      "assetName": "Johan Sverdrup LQ",
+      "latestNewsCount": 1,
+      "items": [
+        {
+          "title": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea",
+          "url": "https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Sun, 21 Jun 2026",
+          "articleId": "NEWS-000053",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0262",
+      "assetName": "Johan Sverdrup P1",
+      "latestNewsCount": 1,
+      "items": [
+        {
+          "title": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea",
+          "url": "https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Sun, 21 Jun 2026",
+          "articleId": "NEWS-000053",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0263",
+      "assetName": "Johan Sverdrup P2",
+      "latestNewsCount": 1,
+      "items": [
+        {
+          "title": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea",
+          "url": "https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Sun, 21 Jun 2026",
+          "articleId": "NEWS-000053",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0264",
+      "assetName": "Johan Sverdrup RP",
+      "latestNewsCount": 1,
+      "items": [
+        {
+          "title": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea",
+          "url": "https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Sun, 21 Jun 2026",
+          "articleId": "NEWS-000053",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com</li></ul></div>"
+    },
     {
       "assetRefId": "PLAT-0516",
       "assetName": "Troll A",
-      "latestNewsCount": 4,
+      "latestNewsCount": 7,
       "items": [
+        {
+          "title": "equinor to invest usd400 million in north sea project with partners",
+          "url": "https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners",
+          "sourceName": "global.morningstar.com",
+          "publishedDate": "Sun, 21 Jun 2026",
+          "articleId": "NEWS-000045",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Norway's Giant Troll Field to Deliver Additional Gas Through TWIN Project",
+          "url": "https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Sat, 20 Jun 2026",
+          "articleId": "NEWS-000070",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Norway Deploys New Deep-Sea Mapping AUV on First",
+          "url": "https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Sat, 20 Jun 2026",
+          "articleId": "NEWS-000072",
+          "relationshipType": "Field-Level"
+        },
         {
           "title": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy",
           "url": "https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/",
@@ -42,14 +151,38 @@
           "relationshipType": "Field-Level"
         }
       ],
-      "latestNewsText": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div>"
+      "latestNewsText": "equinor to invest usd400 million in north sea project with partners — Sun, 21 Jun 2026 — global.morningstar.com\nNorway's Giant Troll Field to Deliver Additional Gas Through TWIN Project — Sat, 20 Jun 2026 — oedigital.com\nNorway Deploys New Deep-Sea Mapping AUV on First — Sat, 20 Jun 2026 — oedigital.com\nUp to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com</li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0517",
       "assetName": "Troll B",
-      "latestNewsCount": 4,
+      "latestNewsCount": 7,
       "items": [
+        {
+          "title": "equinor to invest usd400 million in north sea project with partners",
+          "url": "https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners",
+          "sourceName": "global.morningstar.com",
+          "publishedDate": "Sun, 21 Jun 2026",
+          "articleId": "NEWS-000045",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Norway's Giant Troll Field to Deliver Additional Gas Through TWIN Project",
+          "url": "https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Sat, 20 Jun 2026",
+          "articleId": "NEWS-000070",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Norway Deploys New Deep-Sea Mapping AUV on First",
+          "url": "https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Sat, 20 Jun 2026",
+          "articleId": "NEWS-000072",
+          "relationshipType": "Field-Level"
+        },
         {
           "title": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy",
           "url": "https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/",
@@ -83,14 +216,38 @@
           "relationshipType": "Field-Level"
         }
       ],
-      "latestNewsText": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div>"
+      "latestNewsText": "equinor to invest usd400 million in north sea project with partners — Sun, 21 Jun 2026 — global.morningstar.com\nNorway's Giant Troll Field to Deliver Additional Gas Through TWIN Project — Sat, 20 Jun 2026 — oedigital.com\nNorway Deploys New Deep-Sea Mapping AUV on First — Sat, 20 Jun 2026 — oedigital.com\nUp to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com</li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0518",
       "assetName": "Troll C",
-      "latestNewsCount": 4,
+      "latestNewsCount": 7,
       "items": [
+        {
+          "title": "equinor to invest usd400 million in north sea project with partners",
+          "url": "https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners",
+          "sourceName": "global.morningstar.com",
+          "publishedDate": "Sun, 21 Jun 2026",
+          "articleId": "NEWS-000045",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Norway's Giant Troll Field to Deliver Additional Gas Through TWIN Project",
+          "url": "https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Sat, 20 Jun 2026",
+          "articleId": "NEWS-000070",
+          "relationshipType": "Field-Level"
+        },
+        {
+          "title": "Norway Deploys New Deep-Sea Mapping AUV on First",
+          "url": "https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Sat, 20 Jun 2026",
+          "articleId": "NEWS-000072",
+          "relationshipType": "Field-Level"
+        },
         {
           "title": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy",
           "url": "https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/",
@@ -124,8 +281,8 @@
           "relationshipType": "Field-Level"
         }
       ],
-      "latestNewsText": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div>"
+      "latestNewsText": "equinor to invest usd400 million in north sea project with partners — Sun, 21 Jun 2026 — global.morningstar.com\nNorway's Giant Troll Field to Deliver Additional Gas Through TWIN Project — Sat, 20 Jun 2026 — oedigital.com\nNorway Deploys New Deep-Sea Mapping AUV on First — Sat, 20 Jun 2026 — oedigital.com\nUp to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com</li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div>"
     }
   ]
 }
