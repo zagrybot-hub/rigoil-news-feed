@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-21T10:25:54.310324+00:00",
+  "updatedAt": "2026-06-22T13:42:41.756582+00:00",
   "source": "rigoil-news-intelligence",
-  "assetCount": 8,
+  "assetCount": 11,
   "assets": [
     {
       "assetRefId": "PLAT-0260",
@@ -283,6 +283,57 @@
       ],
       "latestNewsText": "equinor to invest usd400 million in north sea project with partners — Sun, 21 Jun 2026 — global.morningstar.com\nNorway's Giant Troll Field to Deliver Additional Gas Through TWIN Project — Sat, 20 Jun 2026 — oedigital.com\nNorway Deploys New Deep-Sea Mapping AUV on First — Sat, 20 Jun 2026 — oedigital.com\nUp to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
       "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com</li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0736",
+      "assetName": "Auger (GB426) - Shell",
+      "latestNewsCount": 1,
+      "items": [
+        {
+          "title": "Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream",
+          "url": "https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192",
+          "sourceName": "upstreamonline.com",
+          "publishedDate": "Mon, 22 Jun 2026",
+          "articleId": "NEWS-000120",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream — Mon, 22 Jun 2026 — upstreamonline.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0756",
+      "assetName": "Great White (AC857) - Shell",
+      "latestNewsCount": 1,
+      "items": [
+        {
+          "title": "Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream",
+          "url": "https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192",
+          "sourceName": "upstreamonline.com",
+          "publishedDate": "Mon, 22 Jun 2026",
+          "articleId": "NEWS-000120",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream — Mon, 22 Jun 2026 — upstreamonline.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0767",
+      "assetName": "Mars-Ursa (MC807) - Shell",
+      "latestNewsCount": 1,
+      "items": [
+        {
+          "title": "Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream",
+          "url": "https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192",
+          "sourceName": "upstreamonline.com",
+          "publishedDate": "Mon, 22 Jun 2026",
+          "articleId": "NEWS-000120",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream — Mon, 22 Jun 2026 — upstreamonline.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>"
     }
   ]
 }
