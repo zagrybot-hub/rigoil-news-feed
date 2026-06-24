@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-23T10:11:44.419582+00:00",
+  "updatedAt": "2026-06-24T08:30:51.251910+00:00",
   "source": "rigoil-news-intelligence",
-  "assetCount": 18,
+  "assetCount": 21,
   "assets": [
     {
       "assetRefId": "PLAT-0260",
@@ -156,6 +156,57 @@
       ],
       "latestNewsText": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council — Tue, 23 Jun 2026 — angus.gov.uk",
       "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0420",
+      "assetName": "Njord A",
+      "latestNewsCount": 1,
+      "items": [
+        {
+          "title": "njord survey",
+          "url": "https://www.offshore-mag.com/resources/company/55381852/njord-survey",
+          "sourceName": "offshore-mag.com",
+          "publishedDate": "Wed, 24 Jun 2026",
+          "articleId": "NEWS-000243",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "njord survey — Wed, 24 Jun 2026 — offshore-mag.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">njord survey</a> — Wed, 24 Jun 2026 — offshore-mag.com</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0421",
+      "assetName": "Njord B",
+      "latestNewsCount": 1,
+      "items": [
+        {
+          "title": "njord survey",
+          "url": "https://www.offshore-mag.com/resources/company/55381852/njord-survey",
+          "sourceName": "offshore-mag.com",
+          "publishedDate": "Wed, 24 Jun 2026",
+          "articleId": "NEWS-000243",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "njord survey — Wed, 24 Jun 2026 — offshore-mag.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">njord survey</a> — Wed, 24 Jun 2026 — offshore-mag.com</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0422",
+      "assetName": "Njord STL",
+      "latestNewsCount": 1,
+      "items": [
+        {
+          "title": "njord survey",
+          "url": "https://www.offshore-mag.com/resources/company/55381852/njord-survey",
+          "sourceName": "offshore-mag.com",
+          "publishedDate": "Wed, 24 Jun 2026",
+          "articleId": "NEWS-000243",
+          "relationshipType": "Field-Level"
+        }
+      ],
+      "latestNewsText": "njord survey — Wed, 24 Jun 2026 — offshore-mag.com",
+      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">njord survey</a> — Wed, 24 Jun 2026 — offshore-mag.com</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0516",
