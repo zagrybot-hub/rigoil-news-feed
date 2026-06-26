@@ -1,13 +1,16 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-06-26T08:30:58.307031+00:00",
+  "schemaVersion": 2,
+  "updatedAt": "2026-06-26T09:44:00.728474+00:00",
   "source": "rigoil-news-intelligence",
   "assetCount": 22,
   "assets": [
     {
       "assetRefId": "PLAT-0260",
       "assetName": "Johan Sverdrup DP",
+      "totalNewsCount": 2,
       "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "540601 ineos engages semco maritime for long term services in danish north sea",
@@ -15,7 +18,13 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Thu, 25 Jun 2026",
           "articleId": "NEWS-000271",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea",
@@ -23,16 +32,27 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Sun, 21 Jun 2026",
           "articleId": "NEWS-000053",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0261",
       "assetName": "Johan Sverdrup LQ",
+      "totalNewsCount": 2,
       "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "540601 ineos engages semco maritime for long term services in danish north sea",
@@ -40,7 +60,13 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Thu, 25 Jun 2026",
           "articleId": "NEWS-000271",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea",
@@ -48,16 +74,27 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Sun, 21 Jun 2026",
           "articleId": "NEWS-000053",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0262",
       "assetName": "Johan Sverdrup P1",
+      "totalNewsCount": 2,
       "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "540601 ineos engages semco maritime for long term services in danish north sea",
@@ -65,7 +102,13 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Thu, 25 Jun 2026",
           "articleId": "NEWS-000271",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea",
@@ -73,16 +116,27 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Sun, 21 Jun 2026",
           "articleId": "NEWS-000053",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0263",
       "assetName": "Johan Sverdrup P2",
+      "totalNewsCount": 2,
       "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "540601 ineos engages semco maritime for long term services in danish north sea",
@@ -90,7 +144,13 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Thu, 25 Jun 2026",
           "articleId": "NEWS-000271",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea",
@@ -98,16 +158,27 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Sun, 21 Jun 2026",
           "articleId": "NEWS-000053",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0264",
       "assetName": "Johan Sverdrup RP",
+      "totalNewsCount": 2,
       "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "540601 ineos engages semco maritime for long term services in danish north sea",
@@ -115,7 +186,13 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Thu, 25 Jun 2026",
           "articleId": "NEWS-000271",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "New Wildcat Well on Equinor’s Drilling Agenda for North Sea",
@@ -123,16 +200,27 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Sun, 21 Jun 2026",
           "articleId": "NEWS-000053",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0400",
       "assetName": "Montrose A",
+      "totalNewsCount": 1,
       "latestNewsCount": 1,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council",
@@ -140,16 +228,27 @@
           "sourceName": "angus.gov.uk",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000137",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council — Tue, 23 Jun 2026 — angus.gov.uk",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0401",
       "assetName": "Montrose BLP",
+      "totalNewsCount": 1,
       "latestNewsCount": 1,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council",
@@ -157,16 +256,27 @@
           "sourceName": "angus.gov.uk",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000137",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council — Tue, 23 Jun 2026 — angus.gov.uk",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0402",
       "assetName": "Montrose BLP Import SSIV",
+      "totalNewsCount": 1,
       "latestNewsCount": 1,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council",
@@ -174,16 +284,27 @@
           "sourceName": "angus.gov.uk",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000137",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council — Tue, 23 Jun 2026 — angus.gov.uk",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0403",
       "assetName": "Montrose Flare",
+      "totalNewsCount": 1,
       "latestNewsCount": 1,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council",
@@ -191,16 +312,27 @@
           "sourceName": "angus.gov.uk",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000137",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council — Tue, 23 Jun 2026 — angus.gov.uk",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0420",
       "assetName": "Njord A",
+      "totalNewsCount": 1,
       "latestNewsCount": 1,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "njord survey",
@@ -208,16 +340,27 @@
           "sourceName": "offshore-mag.com",
           "publishedDate": "Wed, 24 Jun 2026",
           "articleId": "NEWS-000243",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "njord survey — Wed, 24 Jun 2026 — offshore-mag.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">njord survey</a> — Wed, 24 Jun 2026 — offshore-mag.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">njord survey</a> — Wed, 24 Jun 2026 — offshore-mag.com</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">njord survey</a> — Wed, 24 Jun 2026 — offshore-mag.com</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0421",
       "assetName": "Njord B",
+      "totalNewsCount": 1,
       "latestNewsCount": 1,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "njord survey",
@@ -225,16 +368,27 @@
           "sourceName": "offshore-mag.com",
           "publishedDate": "Wed, 24 Jun 2026",
           "articleId": "NEWS-000243",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "njord survey — Wed, 24 Jun 2026 — offshore-mag.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">njord survey</a> — Wed, 24 Jun 2026 — offshore-mag.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">njord survey</a> — Wed, 24 Jun 2026 — offshore-mag.com</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">njord survey</a> — Wed, 24 Jun 2026 — offshore-mag.com</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0422",
       "assetName": "Njord STL",
+      "totalNewsCount": 1,
       "latestNewsCount": 1,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "njord survey",
@@ -242,16 +396,27 @@
           "sourceName": "offshore-mag.com",
           "publishedDate": "Wed, 24 Jun 2026",
           "articleId": "NEWS-000243",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "njord survey — Wed, 24 Jun 2026 — offshore-mag.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">njord survey</a> — Wed, 24 Jun 2026 — offshore-mag.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">njord survey</a> — Wed, 24 Jun 2026 — offshore-mag.com</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">njord survey</a> — Wed, 24 Jun 2026 — offshore-mag.com</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0516",
       "assetName": "Troll A",
+      "totalNewsCount": 12,
       "latestNewsCount": 10,
+      "olderCount": 2,
+      "archiveCount": 0,
       "items": [
         {
           "title": "4605717 equinor to boost troll gas production with new 390m north sea subsea project",
@@ -259,7 +424,13 @@
           "sourceName": "seekingalpha.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000129",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "North Sea Carmen discovery confirmed with up to 107 MMboe recoverable",
@@ -267,7 +438,13 @@
           "sourceName": "worldoil.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000130",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Troll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine",
@@ -275,7 +452,13 @@
           "sourceName": "offshore-mag.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000132",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Wellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy",
@@ -283,7 +466,13 @@
           "sourceName": "offshore-energy.biz",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000133",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Ownership",
+          "isFeatured": "False",
+          "isArchived": "True",
+          "archiveGroup": "",
+          "displaySection": "Older",
+          "linkStatus": "Active"
         },
         {
           "title": "Equinor, Partners Agree Plan for Major North Sea Project | Rigzone",
@@ -291,7 +480,13 @@
           "sourceName": "rigzone.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000135",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Ownership",
+          "isFeatured": "False",
+          "isArchived": "True",
+          "archiveGroup": "",
+          "displaySection": "Older",
+          "linkStatus": "Active"
         },
         {
           "title": "equinor to invest usd400 million in north sea project with partners",
@@ -299,7 +494,13 @@
           "sourceName": "global.morningstar.com",
           "publishedDate": "Sun, 21 Jun 2026",
           "articleId": "NEWS-000045",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Ownership",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Norway's Giant Troll Field to Deliver Additional Gas Through TWIN Project",
@@ -307,7 +508,13 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Sat, 20 Jun 2026",
           "articleId": "NEWS-000070",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Norway Deploys New Deep-Sea Mapping AUV on First",
@@ -315,7 +522,13 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Sat, 20 Jun 2026",
           "articleId": "NEWS-000072",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy",
@@ -323,7 +536,13 @@
           "sourceName": "offshore-energy.biz",
           "publishedDate": "Fri, 19 Jun 2026",
           "articleId": "NEWS-000002",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea",
@@ -331,16 +550,55 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Fri, 19 Jun 2026",
           "articleId": "NEWS-000006",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
+        },
+        {
+          "title": "Several North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy",
+          "url": "https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000008",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
+        },
+        {
+          "title": "Expanding Troll: more gas to Europe - Equinor",
+          "url": "https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe",
+          "sourceName": "equinor.com",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000012",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
-      "latestNewsText": "4605717 equinor to boost troll gas production with new 390m north sea subsea project — Tue, 23 Jun 2026 — seekingalpha.com\nNorth Sea Carmen discovery confirmed with up to 107 MMboe recoverable — Tue, 23 Jun 2026 — worldoil.com\nTroll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine — Tue, 23 Jun 2026 — offshore-mag.com\nWellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy — Tue, 23 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Plan for Major North Sea Project | Rigzone — Tue, 23 Jun 2026 — rigzone.com\nequinor to invest usd400 million in north sea project with partners — Sun, 21 Jun 2026 — global.morningstar.com\nNorway's Giant Troll Field to Deliver Additional Gas Through TWIN Project — Sat, 20 Jun 2026 — oedigital.com\nNorway Deploys New Deep-Sea Mapping AUV on First — Sat, 20 Jun 2026 — oedigital.com\nUp to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://seekingalpha.com/news/4605717-equinor-to-boost-troll-gas-production-with-new-390m-north-sea-subsea-project\" target=\"_blank\" rel=\"noopener noreferrer\">4605717 equinor to boost troll gas production with new 390m north sea subsea project</a> — Tue, 23 Jun 2026 — seekingalpha.com</li><li><a href=\"https://www.worldoil.com/news/2026/6/22/north-sea-carmen-discovery-confirmed-with-up-to-107-mmboe-recoverable/\" target=\"_blank\" rel=\"noopener noreferrer\">North Sea Carmen discovery confirmed with up to 107 MMboe recoverable</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.offshore-mag.com/subsea/news/55385832/equinor-troll-partners-commit-to-next-phase-twin-subsea-project-in-the-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Troll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine</a> — Tue, 23 Jun 2026 — offshore-mag.com</li><li><a href=\"https://www.offshore-energy.biz/wellesley-petroleum-and-partners-confirm-gas-discovery-in-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Wellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.rigzone.com/news/equinor_partners_agree_plan_for_major_north_sea_project-22-jun-2026-183963-article/\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Plan for Major North Sea Project | Rigzone</a> — Tue, 23 Jun 2026 — rigzone.com</li><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com</li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li></ul></div>"
+      "latestNewsText": "4605717 equinor to boost troll gas production with new 390m north sea subsea project — Tue, 23 Jun 2026 — seekingalpha.com\nNorth Sea Carmen discovery confirmed with up to 107 MMboe recoverable — Tue, 23 Jun 2026 — worldoil.com\nTroll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine — Tue, 23 Jun 2026 — offshore-mag.com\nWellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy — Tue, 23 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Plan for Major North Sea Project | Rigzone — Tue, 23 Jun 2026 — rigzone.com\nequinor to invest usd400 million in north sea project with partners — Sun, 21 Jun 2026 — global.morningstar.com\nNorway's Giant Troll Field to Deliver Additional Gas Through TWIN Project — Sat, 20 Jun 2026 — oedigital.com\nNorway Deploys New Deep-Sea Mapping AUV on First — Sat, 20 Jun 2026 — oedigital.com\nUp to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://seekingalpha.com/news/4605717-equinor-to-boost-troll-gas-production-with-new-390m-north-sea-subsea-project\" target=\"_blank\" rel=\"noopener noreferrer\">4605717 equinor to boost troll gas production with new 390m north sea subsea project</a> — Tue, 23 Jun 2026 — seekingalpha.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.worldoil.com/news/2026/6/22/north-sea-carmen-discovery-confirmed-with-up-to-107-mmboe-recoverable/\" target=\"_blank\" rel=\"noopener noreferrer\">North Sea Carmen discovery confirmed with up to 107 MMboe recoverable</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.offshore-mag.com/subsea/news/55385832/equinor-troll-partners-commit-to-next-phase-twin-subsea-project-in-the-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Troll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine</a> — Tue, 23 Jun 2026 — offshore-mag.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div><div class=\"news-section news-older\" style=\"display:none\"><h3>Older Articles</h3><ul><li><a href=\"https://www.offshore-energy.biz/wellesley-petroleum-and-partners-confirm-gas-discovery-in-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Wellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.rigzone.com/news/equinor_partners_agree_plan_for_major_north_sea_project-22-jun-2026-183963-article/\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Plan for Major North Sea Project | Rigzone</a> — Tue, 23 Jun 2026 — rigzone.com <span class=\"news-category\">Ownership</span></li></ul></div><button class=\"news-toggle-older\" data-target=\".news-older\">Show older articles</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://seekingalpha.com/news/4605717-equinor-to-boost-troll-gas-production-with-new-390m-north-sea-subsea-project\" target=\"_blank\" rel=\"noopener noreferrer\">4605717 equinor to boost troll gas production with new 390m north sea subsea project</a> — Tue, 23 Jun 2026 — seekingalpha.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.worldoil.com/news/2026/6/22/north-sea-carmen-discovery-confirmed-with-up-to-107-mmboe-recoverable/\" target=\"_blank\" rel=\"noopener noreferrer\">North Sea Carmen discovery confirmed with up to 107 MMboe recoverable</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.offshore-mag.com/subsea/news/55385832/equinor-troll-partners-commit-to-next-phase-twin-subsea-project-in-the-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Troll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine</a> — Tue, 23 Jun 2026 — offshore-mag.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div><div class=\"news-section news-older\" style=\"display:none\"><h3>Older Articles</h3><ul><li><a href=\"https://www.offshore-energy.biz/wellesley-petroleum-and-partners-confirm-gas-discovery-in-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Wellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.rigzone.com/news/equinor_partners_agree_plan_for_major_north_sea_project-22-jun-2026-183963-article/\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Plan for Major North Sea Project | Rigzone</a> — Tue, 23 Jun 2026 — rigzone.com <span class=\"news-category\">Ownership</span></li></ul></div><button class=\"news-toggle-older\" data-target=\".news-older\">Show older articles</button>"
     },
     {
       "assetRefId": "PLAT-0517",
       "assetName": "Troll B",
+      "totalNewsCount": 12,
       "latestNewsCount": 10,
+      "olderCount": 2,
+      "archiveCount": 0,
       "items": [
         {
           "title": "4605717 equinor to boost troll gas production with new 390m north sea subsea project",
@@ -348,7 +606,13 @@
           "sourceName": "seekingalpha.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000129",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "North Sea Carmen discovery confirmed with up to 107 MMboe recoverable",
@@ -356,7 +620,13 @@
           "sourceName": "worldoil.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000130",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Troll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine",
@@ -364,7 +634,13 @@
           "sourceName": "offshore-mag.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000132",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Wellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy",
@@ -372,7 +648,13 @@
           "sourceName": "offshore-energy.biz",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000133",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Ownership",
+          "isFeatured": "False",
+          "isArchived": "True",
+          "archiveGroup": "",
+          "displaySection": "Older",
+          "linkStatus": "Active"
         },
         {
           "title": "Equinor, Partners Agree Plan for Major North Sea Project | Rigzone",
@@ -380,7 +662,13 @@
           "sourceName": "rigzone.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000135",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Ownership",
+          "isFeatured": "False",
+          "isArchived": "True",
+          "archiveGroup": "",
+          "displaySection": "Older",
+          "linkStatus": "Active"
         },
         {
           "title": "equinor to invest usd400 million in north sea project with partners",
@@ -388,7 +676,13 @@
           "sourceName": "global.morningstar.com",
           "publishedDate": "Sun, 21 Jun 2026",
           "articleId": "NEWS-000045",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Ownership",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Norway's Giant Troll Field to Deliver Additional Gas Through TWIN Project",
@@ -396,7 +690,13 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Sat, 20 Jun 2026",
           "articleId": "NEWS-000070",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Norway Deploys New Deep-Sea Mapping AUV on First",
@@ -404,7 +704,13 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Sat, 20 Jun 2026",
           "articleId": "NEWS-000072",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy",
@@ -412,7 +718,13 @@
           "sourceName": "offshore-energy.biz",
           "publishedDate": "Fri, 19 Jun 2026",
           "articleId": "NEWS-000002",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea",
@@ -420,16 +732,55 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Fri, 19 Jun 2026",
           "articleId": "NEWS-000006",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
+        },
+        {
+          "title": "Several North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy",
+          "url": "https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000008",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
+        },
+        {
+          "title": "Expanding Troll: more gas to Europe - Equinor",
+          "url": "https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe",
+          "sourceName": "equinor.com",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000012",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
-      "latestNewsText": "4605717 equinor to boost troll gas production with new 390m north sea subsea project — Tue, 23 Jun 2026 — seekingalpha.com\nNorth Sea Carmen discovery confirmed with up to 107 MMboe recoverable — Tue, 23 Jun 2026 — worldoil.com\nTroll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine — Tue, 23 Jun 2026 — offshore-mag.com\nWellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy — Tue, 23 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Plan for Major North Sea Project | Rigzone — Tue, 23 Jun 2026 — rigzone.com\nequinor to invest usd400 million in north sea project with partners — Sun, 21 Jun 2026 — global.morningstar.com\nNorway's Giant Troll Field to Deliver Additional Gas Through TWIN Project — Sat, 20 Jun 2026 — oedigital.com\nNorway Deploys New Deep-Sea Mapping AUV on First — Sat, 20 Jun 2026 — oedigital.com\nUp to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://seekingalpha.com/news/4605717-equinor-to-boost-troll-gas-production-with-new-390m-north-sea-subsea-project\" target=\"_blank\" rel=\"noopener noreferrer\">4605717 equinor to boost troll gas production with new 390m north sea subsea project</a> — Tue, 23 Jun 2026 — seekingalpha.com</li><li><a href=\"https://www.worldoil.com/news/2026/6/22/north-sea-carmen-discovery-confirmed-with-up-to-107-mmboe-recoverable/\" target=\"_blank\" rel=\"noopener noreferrer\">North Sea Carmen discovery confirmed with up to 107 MMboe recoverable</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.offshore-mag.com/subsea/news/55385832/equinor-troll-partners-commit-to-next-phase-twin-subsea-project-in-the-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Troll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine</a> — Tue, 23 Jun 2026 — offshore-mag.com</li><li><a href=\"https://www.offshore-energy.biz/wellesley-petroleum-and-partners-confirm-gas-discovery-in-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Wellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.rigzone.com/news/equinor_partners_agree_plan_for_major_north_sea_project-22-jun-2026-183963-article/\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Plan for Major North Sea Project | Rigzone</a> — Tue, 23 Jun 2026 — rigzone.com</li><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com</li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li></ul></div>"
+      "latestNewsText": "4605717 equinor to boost troll gas production with new 390m north sea subsea project — Tue, 23 Jun 2026 — seekingalpha.com\nNorth Sea Carmen discovery confirmed with up to 107 MMboe recoverable — Tue, 23 Jun 2026 — worldoil.com\nTroll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine — Tue, 23 Jun 2026 — offshore-mag.com\nWellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy — Tue, 23 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Plan for Major North Sea Project | Rigzone — Tue, 23 Jun 2026 — rigzone.com\nequinor to invest usd400 million in north sea project with partners — Sun, 21 Jun 2026 — global.morningstar.com\nNorway's Giant Troll Field to Deliver Additional Gas Through TWIN Project — Sat, 20 Jun 2026 — oedigital.com\nNorway Deploys New Deep-Sea Mapping AUV on First — Sat, 20 Jun 2026 — oedigital.com\nUp to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://seekingalpha.com/news/4605717-equinor-to-boost-troll-gas-production-with-new-390m-north-sea-subsea-project\" target=\"_blank\" rel=\"noopener noreferrer\">4605717 equinor to boost troll gas production with new 390m north sea subsea project</a> — Tue, 23 Jun 2026 — seekingalpha.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.worldoil.com/news/2026/6/22/north-sea-carmen-discovery-confirmed-with-up-to-107-mmboe-recoverable/\" target=\"_blank\" rel=\"noopener noreferrer\">North Sea Carmen discovery confirmed with up to 107 MMboe recoverable</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.offshore-mag.com/subsea/news/55385832/equinor-troll-partners-commit-to-next-phase-twin-subsea-project-in-the-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Troll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine</a> — Tue, 23 Jun 2026 — offshore-mag.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div><div class=\"news-section news-older\" style=\"display:none\"><h3>Older Articles</h3><ul><li><a href=\"https://www.offshore-energy.biz/wellesley-petroleum-and-partners-confirm-gas-discovery-in-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Wellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.rigzone.com/news/equinor_partners_agree_plan_for_major_north_sea_project-22-jun-2026-183963-article/\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Plan for Major North Sea Project | Rigzone</a> — Tue, 23 Jun 2026 — rigzone.com <span class=\"news-category\">Ownership</span></li></ul></div><button class=\"news-toggle-older\" data-target=\".news-older\">Show older articles</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://seekingalpha.com/news/4605717-equinor-to-boost-troll-gas-production-with-new-390m-north-sea-subsea-project\" target=\"_blank\" rel=\"noopener noreferrer\">4605717 equinor to boost troll gas production with new 390m north sea subsea project</a> — Tue, 23 Jun 2026 — seekingalpha.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.worldoil.com/news/2026/6/22/north-sea-carmen-discovery-confirmed-with-up-to-107-mmboe-recoverable/\" target=\"_blank\" rel=\"noopener noreferrer\">North Sea Carmen discovery confirmed with up to 107 MMboe recoverable</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.offshore-mag.com/subsea/news/55385832/equinor-troll-partners-commit-to-next-phase-twin-subsea-project-in-the-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Troll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine</a> — Tue, 23 Jun 2026 — offshore-mag.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div><div class=\"news-section news-older\" style=\"display:none\"><h3>Older Articles</h3><ul><li><a href=\"https://www.offshore-energy.biz/wellesley-petroleum-and-partners-confirm-gas-discovery-in-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Wellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.rigzone.com/news/equinor_partners_agree_plan_for_major_north_sea_project-22-jun-2026-183963-article/\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Plan for Major North Sea Project | Rigzone</a> — Tue, 23 Jun 2026 — rigzone.com <span class=\"news-category\">Ownership</span></li></ul></div><button class=\"news-toggle-older\" data-target=\".news-older\">Show older articles</button>"
     },
     {
       "assetRefId": "PLAT-0518",
       "assetName": "Troll C",
+      "totalNewsCount": 12,
       "latestNewsCount": 10,
+      "olderCount": 2,
+      "archiveCount": 0,
       "items": [
         {
           "title": "4605717 equinor to boost troll gas production with new 390m north sea subsea project",
@@ -437,7 +788,13 @@
           "sourceName": "seekingalpha.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000129",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "North Sea Carmen discovery confirmed with up to 107 MMboe recoverable",
@@ -445,7 +802,13 @@
           "sourceName": "worldoil.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000130",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Troll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine",
@@ -453,7 +816,13 @@
           "sourceName": "offshore-mag.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000132",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Wellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy",
@@ -461,7 +830,13 @@
           "sourceName": "offshore-energy.biz",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000133",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Ownership",
+          "isFeatured": "False",
+          "isArchived": "True",
+          "archiveGroup": "",
+          "displaySection": "Older",
+          "linkStatus": "Active"
         },
         {
           "title": "Equinor, Partners Agree Plan for Major North Sea Project | Rigzone",
@@ -469,7 +844,13 @@
           "sourceName": "rigzone.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000135",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Ownership",
+          "isFeatured": "False",
+          "isArchived": "True",
+          "archiveGroup": "",
+          "displaySection": "Older",
+          "linkStatus": "Active"
         },
         {
           "title": "equinor to invest usd400 million in north sea project with partners",
@@ -477,7 +858,13 @@
           "sourceName": "global.morningstar.com",
           "publishedDate": "Sun, 21 Jun 2026",
           "articleId": "NEWS-000045",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Ownership",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Norway's Giant Troll Field to Deliver Additional Gas Through TWIN Project",
@@ -485,7 +872,13 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Sat, 20 Jun 2026",
           "articleId": "NEWS-000070",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Norway Deploys New Deep-Sea Mapping AUV on First",
@@ -493,7 +886,13 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Sat, 20 Jun 2026",
           "articleId": "NEWS-000072",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy",
@@ -501,7 +900,13 @@
           "sourceName": "offshore-energy.biz",
           "publishedDate": "Fri, 19 Jun 2026",
           "articleId": "NEWS-000002",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea",
@@ -509,16 +914,55 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Fri, 19 Jun 2026",
           "articleId": "NEWS-000006",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
+        },
+        {
+          "title": "Several North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy",
+          "url": "https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000008",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
+        },
+        {
+          "title": "Expanding Troll: more gas to Europe - Equinor",
+          "url": "https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe",
+          "sourceName": "equinor.com",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "articleId": "NEWS-000012",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
-      "latestNewsText": "4605717 equinor to boost troll gas production with new 390m north sea subsea project — Tue, 23 Jun 2026 — seekingalpha.com\nNorth Sea Carmen discovery confirmed with up to 107 MMboe recoverable — Tue, 23 Jun 2026 — worldoil.com\nTroll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine — Tue, 23 Jun 2026 — offshore-mag.com\nWellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy — Tue, 23 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Plan for Major North Sea Project | Rigzone — Tue, 23 Jun 2026 — rigzone.com\nequinor to invest usd400 million in north sea project with partners — Sun, 21 Jun 2026 — global.morningstar.com\nNorway's Giant Troll Field to Deliver Additional Gas Through TWIN Project — Sat, 20 Jun 2026 — oedigital.com\nNorway Deploys New Deep-Sea Mapping AUV on First — Sat, 20 Jun 2026 — oedigital.com\nUp to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://seekingalpha.com/news/4605717-equinor-to-boost-troll-gas-production-with-new-390m-north-sea-subsea-project\" target=\"_blank\" rel=\"noopener noreferrer\">4605717 equinor to boost troll gas production with new 390m north sea subsea project</a> — Tue, 23 Jun 2026 — seekingalpha.com</li><li><a href=\"https://www.worldoil.com/news/2026/6/22/north-sea-carmen-discovery-confirmed-with-up-to-107-mmboe-recoverable/\" target=\"_blank\" rel=\"noopener noreferrer\">North Sea Carmen discovery confirmed with up to 107 MMboe recoverable</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.offshore-mag.com/subsea/news/55385832/equinor-troll-partners-commit-to-next-phase-twin-subsea-project-in-the-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Troll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine</a> — Tue, 23 Jun 2026 — offshore-mag.com</li><li><a href=\"https://www.offshore-energy.biz/wellesley-petroleum-and-partners-confirm-gas-discovery-in-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Wellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.rigzone.com/news/equinor_partners_agree_plan_for_major_north_sea_project-22-jun-2026-183963-article/\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Plan for Major North Sea Project | Rigzone</a> — Tue, 23 Jun 2026 — rigzone.com</li><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com</li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com</li></ul></div>"
+      "latestNewsText": "4605717 equinor to boost troll gas production with new 390m north sea subsea project — Tue, 23 Jun 2026 — seekingalpha.com\nNorth Sea Carmen discovery confirmed with up to 107 MMboe recoverable — Tue, 23 Jun 2026 — worldoil.com\nTroll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine — Tue, 23 Jun 2026 — offshore-mag.com\nWellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy — Tue, 23 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Plan for Major North Sea Project | Rigzone — Tue, 23 Jun 2026 — rigzone.com\nequinor to invest usd400 million in north sea project with partners — Sun, 21 Jun 2026 — global.morningstar.com\nNorway's Giant Troll Field to Deliver Additional Gas Through TWIN Project — Sat, 20 Jun 2026 — oedigital.com\nNorway Deploys New Deep-Sea Mapping AUV on First — Sat, 20 Jun 2026 — oedigital.com\nUp to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nEquinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea — Fri, 19 Jun 2026 — oedigital.com\nSeveral North Sea oil & gas discoveries fusing into large subsea tie-back project - Offshore Energy — Fri, 19 Jun 2026 — offshore-energy.biz\nExpanding Troll: more gas to Europe - Equinor — Fri, 19 Jun 2026 — equinor.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://seekingalpha.com/news/4605717-equinor-to-boost-troll-gas-production-with-new-390m-north-sea-subsea-project\" target=\"_blank\" rel=\"noopener noreferrer\">4605717 equinor to boost troll gas production with new 390m north sea subsea project</a> — Tue, 23 Jun 2026 — seekingalpha.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.worldoil.com/news/2026/6/22/north-sea-carmen-discovery-confirmed-with-up-to-107-mmboe-recoverable/\" target=\"_blank\" rel=\"noopener noreferrer\">North Sea Carmen discovery confirmed with up to 107 MMboe recoverable</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.offshore-mag.com/subsea/news/55385832/equinor-troll-partners-commit-to-next-phase-twin-subsea-project-in-the-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Troll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine</a> — Tue, 23 Jun 2026 — offshore-mag.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div><div class=\"news-section news-older\" style=\"display:none\"><h3>Older Articles</h3><ul><li><a href=\"https://www.offshore-energy.biz/wellesley-petroleum-and-partners-confirm-gas-discovery-in-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Wellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.rigzone.com/news/equinor_partners_agree_plan_for_major_north_sea_project-22-jun-2026-183963-article/\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Plan for Major North Sea Project | Rigzone</a> — Tue, 23 Jun 2026 — rigzone.com <span class=\"news-category\">Ownership</span></li></ul></div><button class=\"news-toggle-older\" data-target=\".news-older\">Show older articles</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://seekingalpha.com/news/4605717-equinor-to-boost-troll-gas-production-with-new-390m-north-sea-subsea-project\" target=\"_blank\" rel=\"noopener noreferrer\">4605717 equinor to boost troll gas production with new 390m north sea subsea project</a> — Tue, 23 Jun 2026 — seekingalpha.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.worldoil.com/news/2026/6/22/north-sea-carmen-discovery-confirmed-with-up-to-107-mmboe-recoverable/\" target=\"_blank\" rel=\"noopener noreferrer\">North Sea Carmen discovery confirmed with up to 107 MMboe recoverable</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.offshore-mag.com/subsea/news/55385832/equinor-troll-partners-commit-to-next-phase-twin-subsea-project-in-the-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Troll partners commit to next-phase TWIN subsea project in the North Sea | Offshore Magazine</a> — Tue, 23 Jun 2026 — offshore-mag.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://global.morningstar.com/en-gb/news/alliance-news/1781872410955087700/equinor-to-invest-usd400-million-in-north-sea-project-with-partners\" target=\"_blank\" rel=\"noopener noreferrer\">equinor to invest usd400 million in north sea project with partners</a> — Sun, 21 Jun 2026 — global.morningstar.com <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.oedigital.com/news/540480-norway-s-giant-troll-field-to-deliver-additional-gas-through-twin-project\" target=\"_blank\" rel=\"noopener noreferrer\">Norway&#x27;s Giant Troll Field to Deliver Additional Gas Through TWIN Project</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540483-norway-deploys-new-deep-sea-mapping-auv-on-first-expedition\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Deploys New Deep-Sea Mapping AUV on First</a> — Sat, 20 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/up-to-420-million-investment-in-north-sea-subsea-project-unleashing-more-european-gas/\" target=\"_blank\" rel=\"noopener noreferrer\">Up to $420 million investment in North Sea subsea project unleashing more European gas - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540436-equinor-partners-agree-concept-for-large-subsea-tieback-scheme-in-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Concept for Large Subsea Tieback Scheme in North Sea</a> — Fri, 19 Jun 2026 — oedigital.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.offshore-energy.biz/several-north-sea-oil-gas-discoveries-fusing-into-large-subsea-tie-back-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Several North Sea oil &amp; gas discoveries fusing into large subsea tie-back project - Offshore Energy</a> — Fri, 19 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.equinor.com/news/20260619-expanding-troll-more-gas-to-europe\" target=\"_blank\" rel=\"noopener noreferrer\">Expanding Troll: more gas to Europe - Equinor</a> — Fri, 19 Jun 2026 — equinor.com</li></ul></div><div class=\"news-section news-older\" style=\"display:none\"><h3>Older Articles</h3><ul><li><a href=\"https://www.offshore-energy.biz/wellesley-petroleum-and-partners-confirm-gas-discovery-in-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Wellesley Petroleum and partners confirm gas discovery in North Sea - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.rigzone.com/news/equinor_partners_agree_plan_for_major_north_sea_project-22-jun-2026-183963-article/\" target=\"_blank\" rel=\"noopener noreferrer\">Equinor, Partners Agree Plan for Major North Sea Project | Rigzone</a> — Tue, 23 Jun 2026 — rigzone.com <span class=\"news-category\">Ownership</span></li></ul></div><button class=\"news-toggle-older\" data-target=\".news-older\">Show older articles</button>"
     },
     {
       "assetRefId": "PLAT-0639",
       "assetName": "Angel platform",
+      "totalNewsCount": 1,
       "latestNewsCount": 1,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "2 1 2007958",
@@ -526,16 +970,27 @@
           "sourceName": "upstreamonline.com",
           "publishedDate": "Wed, 24 Jun 2026",
           "articleId": "NEWS-000278",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "2 1 2007958 — Wed, 24 Jun 2026 — upstreamonline.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/people/no-pasta-and-plastic-cutlery-threat-to-woodside-s-offshore-workers/2-1-2007958\" target=\"_blank\" rel=\"noopener noreferrer\">2 1 2007958</a> — Wed, 24 Jun 2026 — upstreamonline.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/people/no-pasta-and-plastic-cutlery-threat-to-woodside-s-offshore-workers/2-1-2007958\" target=\"_blank\" rel=\"noopener noreferrer\">2 1 2007958</a> — Wed, 24 Jun 2026 — upstreamonline.com</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/people/no-pasta-and-plastic-cutlery-threat-to-woodside-s-offshore-workers/2-1-2007958\" target=\"_blank\" rel=\"noopener noreferrer\">2 1 2007958</a> — Wed, 24 Jun 2026 — upstreamonline.com</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0736",
       "assetName": "Auger (GB426) - Shell",
+      "totalNewsCount": 2,
       "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy",
@@ -543,7 +998,13 @@
           "sourceName": "offshore-energy.biz",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000183",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream",
@@ -551,16 +1012,27 @@
           "sourceName": "upstreamonline.com",
           "publishedDate": "Mon, 22 Jun 2026",
           "articleId": "NEWS-000120",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy — Tue, 23 Jun 2026 — offshore-energy.biz\nHanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream — Mon, 22 Jun 2026 — upstreamonline.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0740",
       "assetName": "Big Foot (WR029) - Chevron",
+      "totalNewsCount": 2,
       "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "2 1 2008557",
@@ -568,7 +1040,13 @@
           "sourceName": "upstreamonline.com",
           "publishedDate": "Wed, 24 Jun 2026",
           "articleId": "NEWS-000307",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Chevron signs power agreement for Microsoft data centre | Upstream",
@@ -576,16 +1054,27 @@
           "sourceName": "upstreamonline.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000206",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "2 1 2008557 — Wed, 24 Jun 2026 — upstreamonline.com\nChevron signs power agreement for Microsoft data centre | Upstream — Tue, 23 Jun 2026 — upstreamonline.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/finance/chevron-worked-for-years-on-turbine-orders-for-power-project-with-microsoft/2-1-2008557\" target=\"_blank\" rel=\"noopener noreferrer\">2 1 2008557</a> — Wed, 24 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.upstreamonline.com/energy-security/chevron-signs-power-agreement-for-microsoft-data-centre/2-1-2007679\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron signs power agreement for Microsoft data centre | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/finance/chevron-worked-for-years-on-turbine-orders-for-power-project-with-microsoft/2-1-2008557\" target=\"_blank\" rel=\"noopener noreferrer\">2 1 2008557</a> — Wed, 24 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.upstreamonline.com/energy-security/chevron-signs-power-agreement-for-microsoft-data-centre/2-1-2007679\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron signs power agreement for Microsoft data centre | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/finance/chevron-worked-for-years-on-turbine-orders-for-power-project-with-microsoft/2-1-2008557\" target=\"_blank\" rel=\"noopener noreferrer\">2 1 2008557</a> — Wed, 24 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.upstreamonline.com/energy-security/chevron-signs-power-agreement-for-microsoft-data-centre/2-1-2007679\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron signs power agreement for Microsoft data centre | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0756",
       "assetName": "Great White (AC857) - Shell",
+      "totalNewsCount": 2,
       "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy",
@@ -593,7 +1082,13 @@
           "sourceName": "offshore-energy.biz",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000183",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream",
@@ -601,16 +1096,27 @@
           "sourceName": "upstreamonline.com",
           "publishedDate": "Mon, 22 Jun 2026",
           "articleId": "NEWS-000120",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy — Tue, 23 Jun 2026 — offshore-energy.biz\nHanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream — Mon, 22 Jun 2026 — upstreamonline.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0767",
       "assetName": "Mars-Ursa (MC807) - Shell",
+      "totalNewsCount": 2,
       "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy",
@@ -618,7 +1124,13 @@
           "sourceName": "offshore-energy.biz",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000183",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream",
@@ -626,16 +1138,27 @@
           "sourceName": "upstreamonline.com",
           "publishedDate": "Mon, 22 Jun 2026",
           "articleId": "NEWS-000120",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy — Tue, 23 Jun 2026 — offshore-energy.biz\nHanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream — Mon, 22 Jun 2026 — upstreamonline.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0768",
       "assetName": "Medusa (MC582) - Murphy",
+      "totalNewsCount": 4,
       "latestNewsCount": 4,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "540549 murphy strikes oil offshore west africa",
@@ -643,7 +1166,13 @@
           "sourceName": "oedigital.com",
           "publishedDate": "Wed, 24 Jun 2026",
           "articleId": "NEWS-000294",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Third time’s the charm for Murphy Oil’s latest exploration well off Ivory Coast | Upstream",
@@ -651,7 +1180,13 @@
           "sourceName": "upstreamonline.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000150",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire",
@@ -659,7 +1194,13 @@
           "sourceName": "worldoil.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000152",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Murphy Oil Corporation Announces Oil Discovery At Bubale-1X Offshore Côte D?Ivoire | MarketScreener",
@@ -667,16 +1208,27 @@
           "sourceName": "marketscreener.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000156",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "540549 murphy strikes oil offshore west africa — Wed, 24 Jun 2026 — oedigital.com\nThird time’s the charm for Murphy Oil’s latest exploration well off Ivory Coast | Upstream — Tue, 23 Jun 2026 — upstreamonline.com\nMurphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire — Tue, 23 Jun 2026 — worldoil.com\nMurphy Oil Corporation Announces Oil Discovery At Bubale-1X Offshore Côte D?Ivoire | MarketScreener — Tue, 23 Jun 2026 — marketscreener.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/news/540549-murphy-strikes-oil-offshore-west-africa\" target=\"_blank\" rel=\"noopener noreferrer\">540549 murphy strikes oil offshore west africa</a> — Wed, 24 Jun 2026 — oedigital.com</li><li><a href=\"https://www.upstreamonline.com/exploration/third-time-s-the-charm-for-murphy-oil-s-wildcatting-offshore-ivory-coast/2-1-2007857\" target=\"_blank\" rel=\"noopener noreferrer\">Third time’s the charm for Murphy Oil’s latest exploration well off Ivory Coast | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.worldoil.com/news/2026/6/22/murphy-oil-discovers-light-oil-at-bubale-1x-offshore-cote-d-ivoire/\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Oil discovers light oil at Bubale-1X offshore Côte d&#x27;Ivoire</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.marketscreener.com/news/murphy-oil-corporation-announces-oil-discovery-at-bubale-1x-offshore-cote-d-ivoire-ce7f5fdad881fe22\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Oil Corporation Announces Oil Discovery At Bubale-1X Offshore Côte D?Ivoire | MarketScreener</a> — Tue, 23 Jun 2026 — marketscreener.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/news/540549-murphy-strikes-oil-offshore-west-africa\" target=\"_blank\" rel=\"noopener noreferrer\">540549 murphy strikes oil offshore west africa</a> — Wed, 24 Jun 2026 — oedigital.com</li><li><a href=\"https://www.upstreamonline.com/exploration/third-time-s-the-charm-for-murphy-oil-s-wildcatting-offshore-ivory-coast/2-1-2007857\" target=\"_blank\" rel=\"noopener noreferrer\">Third time’s the charm for Murphy Oil’s latest exploration well off Ivory Coast | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.worldoil.com/news/2026/6/22/murphy-oil-discovers-light-oil-at-bubale-1x-offshore-cote-d-ivoire/\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Oil discovers light oil at Bubale-1X offshore Côte d&#x27;Ivoire</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.marketscreener.com/news/murphy-oil-corporation-announces-oil-discovery-at-bubale-1x-offshore-cote-d-ivoire-ce7f5fdad881fe22\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Oil Corporation Announces Oil Discovery At Bubale-1X Offshore Côte D?Ivoire | MarketScreener</a> — Tue, 23 Jun 2026 — marketscreener.com</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/news/540549-murphy-strikes-oil-offshore-west-africa\" target=\"_blank\" rel=\"noopener noreferrer\">540549 murphy strikes oil offshore west africa</a> — Wed, 24 Jun 2026 — oedigital.com</li><li><a href=\"https://www.upstreamonline.com/exploration/third-time-s-the-charm-for-murphy-oil-s-wildcatting-offshore-ivory-coast/2-1-2007857\" target=\"_blank\" rel=\"noopener noreferrer\">Third time’s the charm for Murphy Oil’s latest exploration well off Ivory Coast | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.worldoil.com/news/2026/6/22/murphy-oil-discovers-light-oil-at-bubale-1x-offshore-cote-d-ivoire/\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Oil discovers light oil at Bubale-1X offshore Côte d&#x27;Ivoire</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.marketscreener.com/news/murphy-oil-corporation-announces-oil-discovery-at-bubale-1x-offshore-cote-d-ivoire-ce7f5fdad881fe22\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Oil Corporation Announces Oil Discovery At Bubale-1X Offshore Côte D?Ivoire | MarketScreener</a> — Tue, 23 Jun 2026 — marketscreener.com</li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0777",
       "assetName": "Petronius (VK786) - Chevron",
+      "totalNewsCount": 2,
       "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
       "items": [
         {
           "title": "2 1 2008557",
@@ -684,7 +1236,13 @@
           "sourceName": "upstreamonline.com",
           "publishedDate": "Wed, 24 Jun 2026",
           "articleId": "NEWS-000307",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         },
         {
           "title": "Chevron signs power agreement for Microsoft data centre | Upstream",
@@ -692,11 +1250,19 @@
           "sourceName": "upstreamonline.com",
           "publishedDate": "Tue, 23 Jun 2026",
           "articleId": "NEWS-000206",
-          "relationshipType": "Field-Level"
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active"
         }
       ],
       "latestNewsText": "2 1 2008557 — Wed, 24 Jun 2026 — upstreamonline.com\nChevron signs power agreement for Microsoft data centre | Upstream — Tue, 23 Jun 2026 — upstreamonline.com",
-      "latestNewsHtml": "<div class=\"latest-news\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/finance/chevron-worked-for-years-on-turbine-orders-for-power-project-with-microsoft/2-1-2008557\" target=\"_blank\" rel=\"noopener noreferrer\">2 1 2008557</a> — Wed, 24 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.upstreamonline.com/energy-security/chevron-signs-power-agreement-for-microsoft-data-centre/2-1-2007679\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron signs power agreement for Microsoft data centre | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li></ul></div>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/finance/chevron-worked-for-years-on-turbine-orders-for-power-project-with-microsoft/2-1-2008557\" target=\"_blank\" rel=\"noopener noreferrer\">2 1 2008557</a> — Wed, 24 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.upstreamonline.com/energy-security/chevron-signs-power-agreement-for-microsoft-data-centre/2-1-2007679\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron signs power agreement for Microsoft data centre | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/finance/chevron-worked-for-years-on-turbine-orders-for-power-project-with-microsoft/2-1-2008557\" target=\"_blank\" rel=\"noopener noreferrer\">2 1 2008557</a> — Wed, 24 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.upstreamonline.com/energy-security/chevron-signs-power-agreement-for-microsoft-data-centre/2-1-2007679\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron signs power agreement for Microsoft data centre | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li></ul></div>"
     }
   ]
 }
