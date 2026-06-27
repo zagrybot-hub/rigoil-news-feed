@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-27T12:06:48.924560+00:00",
+  "updatedAt": "2026-06-27T12:11:12.493703+00:00",
   "source": "rigoil-news-intelligence",
-  "assetCount": 33,
+  "assetCount": 28,
   "assets": [
     {
       "assetRefId": "1090",
@@ -14,28 +14,11 @@
       "sourceAssetNames": [
         "Medusa (MC582) - Murphy"
       ],
-      "totalNewsCount": 7,
-      "latestNewsCount": 7,
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
       "olderCount": 0,
       "archiveCount": 0,
       "items": [
-        {
-          "title": "540596 yinson production names fso for murphy s lac da vang project off vietnam",
-          "url": "https://www.oedigital.com/news/540596-yinson-production-names-fso-for-murphy-s-lac-da-vang-project-off-vietnam",
-          "sourceName": "oedigital.com",
-          "publishedDate": "Fri, 26 Jun 2026",
-          "sortDate": "2026-06-26T09:24:29+00:00",
-          "articleId": "NEWS-000366",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Production",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0768",
-          "sourceAssetName": "Medusa (MC582) - Murphy"
-        },
         {
           "title": "Murphy Offshore News Update",
           "url": "https://www.upstreamonline.com/field-development/new-fpso-on-murphys-radar-after-ivory-coast-discovery/2-1-2008935",
@@ -43,23 +26,6 @@
           "publishedDate": "Fri, 26 Jun 2026",
           "sortDate": "2026-06-26T09:24:29+00:00",
           "articleId": "NEWS-000363",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0768",
-          "sourceAssetName": "Medusa (MC582) - Murphy"
-        },
-        {
-          "title": "540549 murphy strikes oil offshore west africa",
-          "url": "https://www.oedigital.com/news/540549-murphy-strikes-oil-offshore-west-africa",
-          "sourceName": "oedigital.com",
-          "publishedDate": "Wed, 24 Jun 2026",
-          "sortDate": "2026-06-24T09:31:47+00:00",
-          "articleId": "NEWS-000294",
           "relationshipType": "Field-Level",
           "categoryLabel": "General",
           "isFeatured": "True",
@@ -86,224 +52,12 @@
           "linkStatus": "Active",
           "sourceAssetRefId": "PLAT-0768",
           "sourceAssetName": "Medusa (MC582) - Murphy"
-        },
-        {
-          "title": "Murphy Oil Corporation Announces Oil Discovery At Bubale-1X Offshore Côte D?Ivoire | MarketScreener",
-          "url": "https://www.marketscreener.com/news/murphy-oil-corporation-announces-oil-discovery-at-bubale-1x-offshore-cote-d-ivoire-ce7f5fdad881fe22",
-          "sourceName": "marketscreener.com",
-          "publishedDate": "Tue, 23 Jun 2026",
-          "sortDate": "2026-06-23T07:15:26+00:00",
-          "articleId": "NEWS-000156",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0768",
-          "sourceAssetName": "Medusa (MC582) - Murphy"
-        },
-        {
-          "title": "Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire",
-          "url": "https://www.worldoil.com/news/2026/6/22/murphy-oil-discovers-light-oil-at-bubale-1x-offshore-cote-d-ivoire/",
-          "sourceName": "worldoil.com",
-          "publishedDate": "Tue, 23 Jun 2026",
-          "sortDate": "2026-06-23T07:15:26+00:00",
-          "articleId": "NEWS-000152",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0768",
-          "sourceAssetName": "Medusa (MC582) - Murphy"
-        },
-        {
-          "title": "Third time’s the charm for Murphy Oil’s latest exploration well off Ivory Coast | Upstream",
-          "url": "https://www.upstreamonline.com/exploration/third-time-s-the-charm-for-murphy-oil-s-wildcatting-offshore-ivory-coast/2-1-2007857",
-          "sourceName": "upstreamonline.com",
-          "publishedDate": "Tue, 23 Jun 2026",
-          "sortDate": "2026-06-23T07:15:26+00:00",
-          "articleId": "NEWS-000150",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0768",
-          "sourceAssetName": "Medusa (MC582) - Murphy"
         }
       ],
-      "latestNewsText": "540596 yinson production names fso for murphy s lac da vang project off vietnam — Fri, 26 Jun 2026 — oedigital.com\nMurphy Offshore News Update — Fri, 26 Jun 2026 — upstreamonline.com\n540549 murphy strikes oil offshore west africa — Wed, 24 Jun 2026 — oedigital.com\nAsian Drilling Campaign Continues with Third Well After First Came Online Second Set to Follow Suit — Wed, 24 Jun 2026 — offshore-energy.biz\nMurphy Oil Corporation Announces Oil Discovery At Bubale-1X Offshore Côte D?Ivoire | MarketScreener — Tue, 23 Jun 2026 — marketscreener.com\nMurphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire — Tue, 23 Jun 2026 — worldoil.com\nThird time’s the charm for Murphy Oil’s latest exploration well off Ivory Coast | Upstream — Tue, 23 Jun 2026 — upstreamonline.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/news/540596-yinson-production-names-fso-for-murphy-s-lac-da-vang-project-off-vietnam\" target=\"_blank\" rel=\"noopener noreferrer\">540596 yinson production names fso for murphy s lac da vang project off vietnam</a> — Fri, 26 Jun 2026 — oedigital.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.upstreamonline.com/field-development/new-fpso-on-murphys-radar-after-ivory-coast-discovery/2-1-2008935\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Offshore News Update</a> — Fri, 26 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.oedigital.com/news/540549-murphy-strikes-oil-offshore-west-africa\" target=\"_blank\" rel=\"noopener noreferrer\">540549 murphy strikes oil offshore west africa</a> — Wed, 24 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/asian-drilling-campaign-continues-with-third-well-after-first-came-online-second-set-to-follow-suit/\" target=\"_blank\" rel=\"noopener noreferrer\">Asian Drilling Campaign Continues with Third Well After First Came Online Second Set to Follow Suit</a> — Wed, 24 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.marketscreener.com/news/murphy-oil-corporation-announces-oil-discovery-at-bubale-1x-offshore-cote-d-ivoire-ce7f5fdad881fe22\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Oil Corporation Announces Oil Discovery At Bubale-1X Offshore Côte D?Ivoire | MarketScreener</a> — Tue, 23 Jun 2026 — marketscreener.com</li><li><a href=\"https://www.worldoil.com/news/2026/6/22/murphy-oil-discovers-light-oil-at-bubale-1x-offshore-cote-d-ivoire/\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Oil discovers light oil at Bubale-1X offshore Côte d&#x27;Ivoire</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.upstreamonline.com/exploration/third-time-s-the-charm-for-murphy-oil-s-wildcatting-offshore-ivory-coast/2-1-2007857\" target=\"_blank\" rel=\"noopener noreferrer\">Third time’s the charm for Murphy Oil’s latest exploration well off Ivory Coast | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li></ul></div>",
+      "latestNewsText": "Murphy Offshore News Update — Fri, 26 Jun 2026 — upstreamonline.com\nAsian Drilling Campaign Continues with Third Well After First Came Online Second Set to Follow Suit — Wed, 24 Jun 2026 — offshore-energy.biz",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/field-development/new-fpso-on-murphys-radar-after-ivory-coast-discovery/2-1-2008935\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Offshore News Update</a> — Fri, 26 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.offshore-energy.biz/asian-drilling-campaign-continues-with-third-well-after-first-came-online-second-set-to-follow-suit/\" target=\"_blank\" rel=\"noopener noreferrer\">Asian Drilling Campaign Continues with Third Well After First Came Online Second Set to Follow Suit</a> — Wed, 24 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/news/540596-yinson-production-names-fso-for-murphy-s-lac-da-vang-project-off-vietnam\" target=\"_blank\" rel=\"noopener noreferrer\">540596 yinson production names fso for murphy s lac da vang project off vietnam</a> — Fri, 26 Jun 2026 — oedigital.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.upstreamonline.com/field-development/new-fpso-on-murphys-radar-after-ivory-coast-discovery/2-1-2008935\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Offshore News Update</a> — Fri, 26 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.oedigital.com/news/540549-murphy-strikes-oil-offshore-west-africa\" target=\"_blank\" rel=\"noopener noreferrer\">540549 murphy strikes oil offshore west africa</a> — Wed, 24 Jun 2026 — oedigital.com</li><li><a href=\"https://www.offshore-energy.biz/asian-drilling-campaign-continues-with-third-well-after-first-came-online-second-set-to-follow-suit/\" target=\"_blank\" rel=\"noopener noreferrer\">Asian Drilling Campaign Continues with Third Well After First Came Online Second Set to Follow Suit</a> — Wed, 24 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.marketscreener.com/news/murphy-oil-corporation-announces-oil-discovery-at-bubale-1x-offshore-cote-d-ivoire-ce7f5fdad881fe22\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Oil Corporation Announces Oil Discovery At Bubale-1X Offshore Côte D?Ivoire | MarketScreener</a> — Tue, 23 Jun 2026 — marketscreener.com</li><li><a href=\"https://www.worldoil.com/news/2026/6/22/murphy-oil-discovers-light-oil-at-bubale-1x-offshore-cote-d-ivoire/\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Oil discovers light oil at Bubale-1X offshore Côte d&#x27;Ivoire</a> — Tue, 23 Jun 2026 — worldoil.com</li><li><a href=\"https://www.upstreamonline.com/exploration/third-time-s-the-charm-for-murphy-oil-s-wildcatting-offshore-ivory-coast/2-1-2007857\" target=\"_blank\" rel=\"noopener noreferrer\">Third time’s the charm for Murphy Oil’s latest exploration well off Ivory Coast | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li></ul></div>"
-    },
-    {
-      "assetRefId": "183",
-      "assetName": "Hoover",
-      "siteSlug": "183",
-      "sourceAssetRefIds": [
-        "PLAT-0760"
-      ],
-      "sourceAssetNames": [
-        "Hoover (AC025) - Exxon Mobil"
-      ],
-      "totalNewsCount": 5,
-      "latestNewsCount": 0,
-      "olderCount": 0,
-      "archiveCount": 5,
-      "items": [
-        {
-          "title": "sable offshore corp soc secures loan agreement extension with exxon mobil",
-          "url": "https://www.gurufocus.com/news/8925004/sable-offshore-corp-soc-secures-loan-agreement-extension-with-exxon-mobil?mobile=true",
-          "sourceName": "gurufocus.com",
-          "publishedDate": "Tue, 23 Jun 2026",
-          "sortDate": "2026-06-23T18:30:22+00:00",
-          "articleId": "NEWS-000263",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "False",
-          "isArchived": "True",
-          "archiveGroup": "",
-          "displaySection": "Archive",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0760",
-          "sourceAssetName": "Hoover (AC025) - Exxon Mobil"
-        },
-        {
-          "title": "Exxon Mobil Xom Support Sable",
-          "url": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-support-sable-170745056.html",
-          "sourceName": "finance.yahoo.com",
-          "publishedDate": "Tue, 23 Jun 2026",
-          "sortDate": "2026-06-23T18:30:22+00:00",
-          "articleId": "NEWS-000256",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "False",
-          "isArchived": "True",
-          "archiveGroup": "",
-          "displaySection": "Archive",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0760",
-          "sourceAssetName": "Hoover (AC025) - Exxon Mobil"
-        },
-        {
-          "title": "Exxon Mobil Stock - Sunday background on a diversified oil major",
-          "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/exxon-mobil-stock-sunday-background-on-a-diversified-oil-major/69597909",
-          "sourceName": "ad-hoc-news.de",
-          "publishedDate": "Mon, 22 Jun 2026",
-          "sortDate": "2026-06-22T19:31:03+00:00",
-          "articleId": "NEWS-000175",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "False",
-          "isArchived": "True",
-          "archiveGroup": "",
-          "displaySection": "Archive",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0760",
-          "sourceAssetName": "Hoover (AC025) - Exxon Mobil"
-        },
-        {
-          "title": "Exxon Mobil (XOM) Upgraded at BofA. Here is Why",
-          "url": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-upgraded-bofa-011407343.html",
-          "sourceName": "finance.yahoo.com",
-          "publishedDate": "Mon, 22 Jun 2026",
-          "sortDate": "2026-06-22T19:31:03+00:00",
-          "articleId": "NEWS-000174",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "False",
-          "isArchived": "True",
-          "archiveGroup": "",
-          "displaySection": "Archive",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0760",
-          "sourceAssetName": "Hoover (AC025) - Exxon Mobil"
-        },
-        {
-          "title": "Exxon Mobil Stock - Long-term strategy and low-carbon bets under scrutiny",
-          "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/exxon-mobil-stock-long-term-strategy-and-low-carbon-bets-under-scrutiny/69590327",
-          "sourceName": "ad-hoc-news.de",
-          "publishedDate": "Sat, 20 Jun 2026",
-          "sortDate": "2026-06-20T20:05:29+00:00",
-          "articleId": "NEWS-000062",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "False",
-          "isArchived": "True",
-          "archiveGroup": "",
-          "displaySection": "Archive",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0760",
-          "sourceAssetName": "Hoover (AC025) - Exxon Mobil"
-        }
-      ],
-      "latestNewsText": "sable offshore corp soc secures loan agreement extension with exxon mobil — Tue, 23 Jun 2026 — gurufocus.com\nExxon Mobil Xom Support Sable — Tue, 23 Jun 2026 — finance.yahoo.com\nExxon Mobil Stock - Sunday background on a diversified oil major — Mon, 22 Jun 2026 — ad-hoc-news.de\nExxon Mobil (XOM) Upgraded at BofA. Here is Why — Mon, 22 Jun 2026 — finance.yahoo.com\nExxon Mobil Stock - Long-term strategy and low-carbon bets under scrutiny — Sat, 20 Jun 2026 — ad-hoc-news.de",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (5 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.gurufocus.com/news/8925004/sable-offshore-corp-soc-secures-loan-agreement-extension-with-exxon-mobil?mobile=true\" target=\"_blank\" rel=\"noopener noreferrer\">sable offshore corp soc secures loan agreement extension with exxon mobil</a> — Tue, 23 Jun 2026 — gurufocus.com</li><li><a href=\"https://finance.yahoo.com/energy/articles/exxon-mobil-xom-support-sable-170745056.html\" target=\"_blank\" rel=\"noopener noreferrer\">Exxon Mobil Xom Support Sable</a> — Tue, 23 Jun 2026 — finance.yahoo.com</li><li><a href=\"https://www.ad-hoc-news.de/boerse/news/ueberblick/exxon-mobil-stock-sunday-background-on-a-diversified-oil-major/69597909\" target=\"_blank\" rel=\"noopener noreferrer\">Exxon Mobil Stock - Sunday background on a diversified oil major</a> — Mon, 22 Jun 2026 — ad-hoc-news.de</li><li><a href=\"https://finance.yahoo.com/energy/articles/exxon-mobil-xom-upgraded-bofa-011407343.html\" target=\"_blank\" rel=\"noopener noreferrer\">Exxon Mobil (XOM) Upgraded at BofA. Here is Why</a> — Mon, 22 Jun 2026 — finance.yahoo.com</li><li><a href=\"https://www.ad-hoc-news.de/boerse/news/ueberblick/exxon-mobil-stock-long-term-strategy-and-low-carbon-bets-under-scrutiny/69590327\" target=\"_blank\" rel=\"noopener noreferrer\">Exxon Mobil Stock - Long-term strategy and low-carbon bets under scrutiny</a> — Sat, 20 Jun 2026 — ad-hoc-news.de</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
-      "hasArchive": true,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (5 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.gurufocus.com/news/8925004/sable-offshore-corp-soc-secures-loan-agreement-extension-with-exxon-mobil?mobile=true\" target=\"_blank\" rel=\"noopener noreferrer\">sable offshore corp soc secures loan agreement extension with exxon mobil</a> — Tue, 23 Jun 2026 — gurufocus.com</li><li><a href=\"https://finance.yahoo.com/energy/articles/exxon-mobil-xom-support-sable-170745056.html\" target=\"_blank\" rel=\"noopener noreferrer\">Exxon Mobil Xom Support Sable</a> — Tue, 23 Jun 2026 — finance.yahoo.com</li><li><a href=\"https://www.ad-hoc-news.de/boerse/news/ueberblick/exxon-mobil-stock-sunday-background-on-a-diversified-oil-major/69597909\" target=\"_blank\" rel=\"noopener noreferrer\">Exxon Mobil Stock - Sunday background on a diversified oil major</a> — Mon, 22 Jun 2026 — ad-hoc-news.de</li><li><a href=\"https://finance.yahoo.com/energy/articles/exxon-mobil-xom-upgraded-bofa-011407343.html\" target=\"_blank\" rel=\"noopener noreferrer\">Exxon Mobil (XOM) Upgraded at BofA. Here is Why</a> — Mon, 22 Jun 2026 — finance.yahoo.com</li><li><a href=\"https://www.ad-hoc-news.de/boerse/news/ueberblick/exxon-mobil-stock-long-term-strategy-and-low-carbon-bets-under-scrutiny/69590327\" target=\"_blank\" rel=\"noopener noreferrer\">Exxon Mobil Stock - Long-term strategy and low-carbon bets under scrutiny</a> — Sat, 20 Jun 2026 — ad-hoc-news.de</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
-    },
-    {
-      "assetRefId": "2008",
-      "assetName": "Perdido",
-      "siteSlug": "2008",
-      "sourceAssetRefIds": [
-        "PLAT-0756"
-      ],
-      "sourceAssetNames": [
-        "Great White (AC857) - Shell"
-      ],
-      "totalNewsCount": 2,
-      "latestNewsCount": 2,
-      "olderCount": 0,
-      "archiveCount": 0,
-      "items": [
-        {
-          "title": "Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy",
-          "url": "https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/",
-          "sourceName": "offshore-energy.biz",
-          "publishedDate": "Tue, 23 Jun 2026",
-          "sortDate": "2026-06-23T09:12:57+00:00",
-          "articleId": "NEWS-000183",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0756",
-          "sourceAssetName": "Great White (AC857) - Shell"
-        },
-        {
-          "title": "Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream",
-          "url": "https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192",
-          "sourceName": "upstreamonline.com",
-          "publishedDate": "Mon, 22 Jun 2026",
-          "sortDate": "2026-06-22T09:13:27+00:00",
-          "articleId": "NEWS-000120",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0756",
-          "sourceAssetName": "Great White (AC857) - Shell"
-        }
-      ],
-      "latestNewsText": "Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy — Tue, 23 Jun 2026 — offshore-energy.biz\nHanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream — Mon, 22 Jun 2026 — upstreamonline.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>"
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/field-development/new-fpso-on-murphys-radar-after-ivory-coast-discovery/2-1-2008935\" target=\"_blank\" rel=\"noopener noreferrer\">Murphy Offshore News Update</a> — Fri, 26 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.offshore-energy.biz/asian-drilling-campaign-continues-with-third-well-after-first-came-online-second-set-to-follow-suit/\" target=\"_blank\" rel=\"noopener noreferrer\">Asian Drilling Campaign Continues with Third Well After First Came Online Second Set to Follow Suit</a> — Wed, 24 Jun 2026 — offshore-energy.biz <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "2229",
@@ -342,61 +96,6 @@
       "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Thu, 25 Jun 2026 — oedigital.com</li></ul></div>",
       "hasArchive": false,
       "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Thu, 25 Jun 2026 — oedigital.com</li></ul></div>"
-    },
-    {
-      "assetRefId": "24080",
-      "assetName": "Auger",
-      "siteSlug": "24080",
-      "sourceAssetRefIds": [
-        "PLAT-0736"
-      ],
-      "sourceAssetNames": [
-        "Auger (GB426) - Shell"
-      ],
-      "totalNewsCount": 2,
-      "latestNewsCount": 2,
-      "olderCount": 0,
-      "archiveCount": 0,
-      "items": [
-        {
-          "title": "Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy",
-          "url": "https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/",
-          "sourceName": "offshore-energy.biz",
-          "publishedDate": "Tue, 23 Jun 2026",
-          "sortDate": "2026-06-23T09:12:57+00:00",
-          "articleId": "NEWS-000183",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0736",
-          "sourceAssetName": "Auger (GB426) - Shell"
-        },
-        {
-          "title": "Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream",
-          "url": "https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192",
-          "sourceName": "upstreamonline.com",
-          "publishedDate": "Mon, 22 Jun 2026",
-          "sortDate": "2026-06-22T09:13:27+00:00",
-          "articleId": "NEWS-000120",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0736",
-          "sourceAssetName": "Auger (GB426) - Shell"
-        }
-      ],
-      "latestNewsText": "Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy — Tue, 23 Jun 2026 — offshore-energy.biz\nHanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream — Mon, 22 Jun 2026 — upstreamonline.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div>"
     },
     {
       "assetRefId": "24129",
@@ -441,15 +140,13 @@
       "assetName": "Mars",
       "siteSlug": "24199",
       "sourceAssetRefIds": [
-        "PLAT-0603",
-        "PLAT-0767"
+        "PLAT-0603"
       ],
       "sourceAssetNames": [
-        "Mars",
-        "Mars-Ursa (MC807) - Shell"
+        "Mars"
       ],
-      "totalNewsCount": 4,
-      "latestNewsCount": 2,
+      "totalNewsCount": 2,
+      "latestNewsCount": 0,
       "olderCount": 0,
       "archiveCount": 2,
       "items": [
@@ -471,23 +168,6 @@
           "sourceAssetName": "Mars"
         },
         {
-          "title": "Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy",
-          "url": "https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/",
-          "sourceName": "offshore-energy.biz",
-          "publishedDate": "Tue, 23 Jun 2026",
-          "sortDate": "2026-06-23T09:12:57+00:00",
-          "articleId": "NEWS-000183",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0767",
-          "sourceAssetName": "Mars-Ursa (MC807) - Shell"
-        },
-        {
           "title": "NASA Tests Rover with Lizard-Like Suspension and Independent Wheel Traction, Aiming for Speed Ten Times Faster than Perseverance on Mars - CPG Click Oil and Gas",
           "url": "https://en.clickpetroleoegas.com.br/nasa-tests-rover-with-lizard-like-suspension-and-independent-wheel-traction-aiming-for-speed-ten-times-faster-than-perseverance-on-mars-mhbb01/",
           "sourceName": "en.clickpetroleoegas.com.br",
@@ -503,118 +183,12 @@
           "linkStatus": "Active",
           "sourceAssetRefId": "PLAT-0603",
           "sourceAssetName": "Mars"
-        },
-        {
-          "title": "Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream",
-          "url": "https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192",
-          "sourceName": "upstreamonline.com",
-          "publishedDate": "Mon, 22 Jun 2026",
-          "sortDate": "2026-06-22T09:13:27+00:00",
-          "articleId": "NEWS-000120",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0767",
-          "sourceAssetName": "Mars-Ursa (MC807) - Shell"
         }
       ],
-      "latestNewsText": "Us Mars Oil Pipe Flows Climb a Second Month in April — Fri, 26 Jun 2026 — qcintel.com\nShell-Equinor joint venture hires Shearwater for more work - Offshore Energy — Tue, 23 Jun 2026 — offshore-energy.biz\nNASA Tests Rover with Lizard-Like Suspension and Independent Wheel Traction, Aiming for Speed Ten Times Faster than Perseverance on Mars - CPG Click Oil and Gas — Tue, 23 Jun 2026 — en.clickpetroleoegas.com.br\nHanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream — Mon, 22 Jun 2026 — upstreamonline.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (2 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.qcintel.com/article/us-mars-oil-pipe-flows-climb-a-second-month-in-april-67590.html\" target=\"_blank\" rel=\"noopener noreferrer\">Us Mars Oil Pipe Flows Climb a Second Month in April</a> — Fri, 26 Jun 2026 — qcintel.com</li><li><a href=\"https://en.clickpetroleoegas.com.br/nasa-tests-rover-with-lizard-like-suspension-and-independent-wheel-traction-aiming-for-speed-ten-times-faster-than-perseverance-on-mars-mhbb01/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Tests Rover with Lizard-Like Suspension and Independent Wheel Traction, Aiming for Speed Ten Times Faster than Perseverance on Mars - CPG Click Oil and Gas</a> — Tue, 23 Jun 2026 — en.clickpetroleoegas.com.br</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "latestNewsText": "Us Mars Oil Pipe Flows Climb a Second Month in April — Fri, 26 Jun 2026 — qcintel.com\nNASA Tests Rover with Lizard-Like Suspension and Independent Wheel Traction, Aiming for Speed Ten Times Faster than Perseverance on Mars - CPG Click Oil and Gas — Tue, 23 Jun 2026 — en.clickpetroleoegas.com.br",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (2 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.qcintel.com/article/us-mars-oil-pipe-flows-climb-a-second-month-in-april-67590.html\" target=\"_blank\" rel=\"noopener noreferrer\">Us Mars Oil Pipe Flows Climb a Second Month in April</a> — Fri, 26 Jun 2026 — qcintel.com</li><li><a href=\"https://en.clickpetroleoegas.com.br/nasa-tests-rover-with-lizard-like-suspension-and-independent-wheel-traction-aiming-for-speed-ten-times-faster-than-perseverance-on-mars-mhbb01/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Tests Rover with Lizard-Like Suspension and Independent Wheel Traction, Aiming for Speed Ten Times Faster than Perseverance on Mars - CPG Click Oil and Gas</a> — Tue, 23 Jun 2026 — en.clickpetroleoegas.com.br</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
       "hasArchive": true,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.offshore-energy.biz/shell-equinor-joint-venture-hires-shearwater-for-more-work/\" target=\"_blank\" rel=\"noopener noreferrer\">Shell-Equinor joint venture hires Shearwater for more work - Offshore Energy</a> — Tue, 23 Jun 2026 — offshore-energy.biz</li><li><a href=\"https://www.upstreamonline.com/lng/hanwha-ocean-on-board-proposed-15-7-billion-canada-flng-project/2-1-2007192\" target=\"_blank\" rel=\"noopener noreferrer\">Hanwha Ocean and Kanata team up for proposed $15.7 billion Canada floating LNG project | Upstream</a> — Mon, 22 Jun 2026 — upstreamonline.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (2 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.qcintel.com/article/us-mars-oil-pipe-flows-climb-a-second-month-in-april-67590.html\" target=\"_blank\" rel=\"noopener noreferrer\">Us Mars Oil Pipe Flows Climb a Second Month in April</a> — Fri, 26 Jun 2026 — qcintel.com</li><li><a href=\"https://en.clickpetroleoegas.com.br/nasa-tests-rover-with-lizard-like-suspension-and-independent-wheel-traction-aiming-for-speed-ten-times-faster-than-perseverance-on-mars-mhbb01/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Tests Rover with Lizard-Like Suspension and Independent Wheel Traction, Aiming for Speed Ten Times Faster than Perseverance on Mars - CPG Click Oil and Gas</a> — Tue, 23 Jun 2026 — en.clickpetroleoegas.com.br</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
-    },
-    {
-      "assetRefId": "2422",
-      "assetName": "Big Foot",
-      "siteSlug": "2422",
-      "sourceAssetRefIds": [
-        "PLAT-0740"
-      ],
-      "sourceAssetNames": [
-        "Big Foot (WR029) - Chevron"
-      ],
-      "totalNewsCount": 4,
-      "latestNewsCount": 2,
-      "olderCount": 0,
-      "archiveCount": 2,
-      "items": [
-        {
-          "title": "Chevron Offshore News Update",
-          "url": "https://www.upstreamonline.com/finance/chevron-worked-for-years-on-turbine-orders-for-power-project-with-microsoft/2-1-2008557",
-          "sourceName": "upstreamonline.com",
-          "publishedDate": "Wed, 24 Jun 2026",
-          "sortDate": "2026-06-24T09:04:40+00:00",
-          "articleId": "NEWS-000307",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0740",
-          "sourceAssetName": "Big Foot (WR029) - Chevron"
-        },
-        {
-          "title": "Chevron signs power agreement for Microsoft data centre | Upstream",
-          "url": "https://www.upstreamonline.com/energy-security/chevron-signs-power-agreement-for-microsoft-data-centre/2-1-2007679",
-          "sourceName": "upstreamonline.com",
-          "publishedDate": "Tue, 23 Jun 2026",
-          "sortDate": "2026-06-23T09:06:56+00:00",
-          "articleId": "NEWS-000206",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0740",
-          "sourceAssetName": "Big Foot (WR029) - Chevron"
-        },
-        {
-          "title": "Chevron Expands Footprint in Greek Offshore Sector - Insider Monkey",
-          "url": "https://www.insidermonkey.com/blog/chevron-expands-footprint-in-greek-offshore-sector-1785929/",
-          "sourceName": "insidermonkey.com",
-          "publishedDate": "Sun, 21 Jun 2026",
-          "sortDate": "2026-06-21T09:04:08+00:00",
-          "articleId": "NEWS-000039",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "False",
-          "isArchived": "True",
-          "archiveGroup": "",
-          "displaySection": "Archive",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0740",
-          "sourceAssetName": "Big Foot (WR029) - Chevron"
-        },
-        {
-          "title": "Chevron Expands Footprint in Greek Offshore Sector",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-expands-footprint-greek-offshore-011354657.html",
-          "sourceName": "finance.yahoo.com",
-          "publishedDate": "Sun, 21 Jun 2026",
-          "sortDate": "2026-06-21T09:04:08+00:00",
-          "articleId": "NEWS-000038",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "False",
-          "isArchived": "True",
-          "archiveGroup": "",
-          "displaySection": "Archive",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0740",
-          "sourceAssetName": "Big Foot (WR029) - Chevron"
-        }
-      ],
-      "latestNewsText": "Chevron Offshore News Update — Wed, 24 Jun 2026 — upstreamonline.com\nChevron signs power agreement for Microsoft data centre | Upstream — Tue, 23 Jun 2026 — upstreamonline.com\nChevron Expands Footprint in Greek Offshore Sector - Insider Monkey — Sun, 21 Jun 2026 — insidermonkey.com\nChevron Expands Footprint in Greek Offshore Sector — Sun, 21 Jun 2026 — finance.yahoo.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/finance/chevron-worked-for-years-on-turbine-orders-for-power-project-with-microsoft/2-1-2008557\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron Offshore News Update</a> — Wed, 24 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.upstreamonline.com/energy-security/chevron-signs-power-agreement-for-microsoft-data-centre/2-1-2007679\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron signs power agreement for Microsoft data centre | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (2 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.insidermonkey.com/blog/chevron-expands-footprint-in-greek-offshore-sector-1785929/\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron Expands Footprint in Greek Offshore Sector - Insider Monkey</a> — Sun, 21 Jun 2026 — insidermonkey.com</li><li><a href=\"https://finance.yahoo.com/energy/articles/chevron-expands-footprint-greek-offshore-011354657.html\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron Expands Footprint in Greek Offshore Sector</a> — Sun, 21 Jun 2026 — finance.yahoo.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
-      "hasArchive": true,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/finance/chevron-worked-for-years-on-turbine-orders-for-power-project-with-microsoft/2-1-2008557\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron Offshore News Update</a> — Wed, 24 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.upstreamonline.com/energy-security/chevron-signs-power-agreement-for-microsoft-data-centre/2-1-2007679\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron signs power agreement for Microsoft data centre | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (2 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.insidermonkey.com/blog/chevron-expands-footprint-in-greek-offshore-sector-1785929/\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron Expands Footprint in Greek Offshore Sector - Insider Monkey</a> — Sun, 21 Jun 2026 — insidermonkey.com</li><li><a href=\"https://finance.yahoo.com/energy/articles/chevron-expands-footprint-greek-offshore-011354657.html\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron Expands Footprint in Greek Offshore Sector</a> — Sun, 21 Jun 2026 — finance.yahoo.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (2 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.qcintel.com/article/us-mars-oil-pipe-flows-climb-a-second-month-in-april-67590.html\" target=\"_blank\" rel=\"noopener noreferrer\">Us Mars Oil Pipe Flows Climb a Second Month in April</a> — Fri, 26 Jun 2026 — qcintel.com</li><li><a href=\"https://en.clickpetroleoegas.com.br/nasa-tests-rover-with-lizard-like-suspension-and-independent-wheel-traction-aiming-for-speed-ten-times-faster-than-perseverance-on-mars-mhbb01/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Tests Rover with Lizard-Like Suspension and Independent Wheel Traction, Aiming for Speed Ten Times Faster than Perseverance on Mars - CPG Click Oil and Gas</a> — Tue, 23 Jun 2026 — en.clickpetroleoegas.com.br</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "2660",
@@ -653,61 +227,6 @@
       "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.ad-hoc-news.de/boerse/news/ueberblick/quietly-efficient-offshore-workhorse-hess-s-stampede-platform-keeps/69586464\" target=\"_blank\" rel=\"noopener noreferrer\">Quietly efficient offshore workhorse, Hess&#x27;s Stampede platform keeps pumping in deep water</a> — Sat, 20 Jun 2026 — ad-hoc-news.de</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
       "hasArchive": true,
       "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.ad-hoc-news.de/boerse/news/ueberblick/quietly-efficient-offshore-workhorse-hess-s-stampede-platform-keeps/69586464\" target=\"_blank\" rel=\"noopener noreferrer\">Quietly efficient offshore workhorse, Hess&#x27;s Stampede platform keeps pumping in deep water</a> — Sat, 20 Jun 2026 — ad-hoc-news.de</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
-    },
-    {
-      "assetRefId": "70012",
-      "assetName": "Petronius",
-      "siteSlug": "70012",
-      "sourceAssetRefIds": [
-        "PLAT-0777"
-      ],
-      "sourceAssetNames": [
-        "Petronius (VK786) - Chevron"
-      ],
-      "totalNewsCount": 2,
-      "latestNewsCount": 2,
-      "olderCount": 0,
-      "archiveCount": 0,
-      "items": [
-        {
-          "title": "Chevron Offshore News Update",
-          "url": "https://www.upstreamonline.com/finance/chevron-worked-for-years-on-turbine-orders-for-power-project-with-microsoft/2-1-2008557",
-          "sourceName": "upstreamonline.com",
-          "publishedDate": "Wed, 24 Jun 2026",
-          "sortDate": "2026-06-24T09:04:40+00:00",
-          "articleId": "NEWS-000307",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0777",
-          "sourceAssetName": "Petronius (VK786) - Chevron"
-        },
-        {
-          "title": "Chevron signs power agreement for Microsoft data centre | Upstream",
-          "url": "https://www.upstreamonline.com/energy-security/chevron-signs-power-agreement-for-microsoft-data-centre/2-1-2007679",
-          "sourceName": "upstreamonline.com",
-          "publishedDate": "Tue, 23 Jun 2026",
-          "sortDate": "2026-06-23T09:06:56+00:00",
-          "articleId": "NEWS-000206",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0777",
-          "sourceAssetName": "Petronius (VK786) - Chevron"
-        }
-      ],
-      "latestNewsText": "Chevron Offshore News Update — Wed, 24 Jun 2026 — upstreamonline.com\nChevron signs power agreement for Microsoft data centre | Upstream — Tue, 23 Jun 2026 — upstreamonline.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/finance/chevron-worked-for-years-on-turbine-orders-for-power-project-with-microsoft/2-1-2008557\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron Offshore News Update</a> — Wed, 24 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.upstreamonline.com/energy-security/chevron-signs-power-agreement-for-microsoft-data-centre/2-1-2007679\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron signs power agreement for Microsoft data centre | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.upstreamonline.com/finance/chevron-worked-for-years-on-turbine-orders-for-power-project-with-microsoft/2-1-2008557\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron Offshore News Update</a> — Wed, 24 Jun 2026 — upstreamonline.com</li><li><a href=\"https://www.upstreamonline.com/energy-security/chevron-signs-power-agreement-for-microsoft-data-centre/2-1-2007679\" target=\"_blank\" rel=\"noopener noreferrer\">Chevron signs power agreement for Microsoft data centre | Upstream</a> — Tue, 23 Jun 2026 — upstreamonline.com</li></ul></div>"
     },
     {
       "assetRefId": "angel-platform",
