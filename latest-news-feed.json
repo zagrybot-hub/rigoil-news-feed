@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-27T12:01:43.283834+00:00",
+  "updatedAt": "2026-06-27T12:02:32.075847+00:00",
   "source": "rigoil-news-intelligence",
-  "assetCount": 34,
+  "assetCount": 33,
   "assets": [
     {
       "assetRefId": "1090",
@@ -3258,63 +3258,6 @@
       "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>",
       "hasArchive": false,
       "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk</li></ul></div>"
-    },
-    {
-      "assetRefId": "uk0694",
-      "assetName": "Bruce D",
-      "siteSlug": "uk0694",
-      "sourceAssetRefIds": [
-        "PLAT-0059",
-        "PLAT-0798"
-      ],
-      "sourceAssetNames": [
-        "Bruce D",
-        "Bruce platform"
-      ],
-      "totalNewsCount": 2,
-      "latestNewsCount": 0,
-      "olderCount": 0,
-      "archiveCount": 2,
-      "items": [
-        {
-          "title": "Rod Stewart Bruce Springsteen More",
-          "url": "https://www.yahoo.com/news/videos/rod-stewart-bruce-springsteen-more-101500158.html",
-          "sourceName": "yahoo.com",
-          "publishedDate": "Wed, 24 Jun 2026",
-          "sortDate": "2026-06-24T08:06:38+00:00",
-          "articleId": "NEWS-000241",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "False",
-          "isArchived": "True",
-          "archiveGroup": "",
-          "displaySection": "Archive",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0059",
-          "sourceAssetName": "Bruce D"
-        },
-        {
-          "title": "Rod Stewart Bruce Springsteen More",
-          "url": "https://www.yahoo.com/news/videos/rod-stewart-bruce-springsteen-more-101500158.html",
-          "sourceName": "yahoo.com",
-          "publishedDate": "Wed, 24 Jun 2026",
-          "sortDate": "2026-06-24T08:06:38+00:00",
-          "articleId": "NEWS-000241",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "General",
-          "isFeatured": "False",
-          "isArchived": "True",
-          "archiveGroup": "",
-          "displaySection": "Archive",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0798",
-          "sourceAssetName": "Bruce platform"
-        }
-      ],
-      "latestNewsText": "Rod Stewart Bruce Springsteen More — Wed, 24 Jun 2026 — yahoo.com\nRod Stewart Bruce Springsteen More — Wed, 24 Jun 2026 — yahoo.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (2 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.yahoo.com/news/videos/rod-stewart-bruce-springsteen-more-101500158.html\" target=\"_blank\" rel=\"noopener noreferrer\">Rod Stewart Bruce Springsteen More</a> — Wed, 24 Jun 2026 — yahoo.com</li><li><a href=\"https://www.yahoo.com/news/videos/rod-stewart-bruce-springsteen-more-101500158.html\" target=\"_blank\" rel=\"noopener noreferrer\">Rod Stewart Bruce Springsteen More</a> — Wed, 24 Jun 2026 — yahoo.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
-      "hasArchive": true,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2>Latest News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (2 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.yahoo.com/news/videos/rod-stewart-bruce-springsteen-more-101500158.html\" target=\"_blank\" rel=\"noopener noreferrer\">Rod Stewart Bruce Springsteen More</a> — Wed, 24 Jun 2026 — yahoo.com</li><li><a href=\"https://www.yahoo.com/news/videos/rod-stewart-bruce-springsteen-more-101500158.html\" target=\"_blank\" rel=\"noopener noreferrer\">Rod Stewart Bruce Springsteen More</a> — Wed, 24 Jun 2026 — yahoo.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "uk0728",
