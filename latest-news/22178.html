@@ -1,1 +1,27 @@
-<!doctype html><html><head><meta charset="utf-8"><base target="_blank"><style>body{font-family:Montserrat,Arial,sans-serif;margin:0;padding:0;color:#101820;background:#fff}h2{font-size:18px;line-height:1.35;margin:0 0 14px;font-weight:700}.item{padding:0 0 14px;margin:0 0 14px;border-bottom:1px solid #e3e8ee}.item a{font-size:16px;line-height:1.35;font-weight:700;color:#0b4f71;text-decoration:underline}.meta{font-size:13px;line-height:1.4;color:#5a6670;margin-top:5px}.empty{font-size:14px;color:#5a6670}</style></head><body><h2>Latest News</h2><div class="item"><a href="https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/2584946/chevron-vs-bp-which-stock-wins-the-gulf-of-america-growth-race/">Chevron Vs Bp Which Stock Wins The Gulf Of America Growth Race</a><div class="meta">theglobeandmail.com • Fri, 19 Jun 2026</div></div></body></html>
+<!doctype html><html><head><meta charset="utf-8"><base target="_blank"><style>
+body{font-family:Montserrat,Arial,sans-serif;margin:0;padding:0;color:#101820;background:#fff}
+h2{font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700}
+.filter{box-sizing:border-box;width:100%;border:1px solid #d8e0e7;border-radius:6px;padding:8px 10px;margin:0 0 14px;font-size:13px;color:#101820;outline:none}
+.filter:focus{border-color:#0b4f71;box-shadow:0 0 0 2px rgba(11,79,113,.08)}
+.item{padding:0 0 14px;margin:0 0 14px;border-bottom:1px solid #e3e8ee}
+.item a{font-size:16px;line-height:1.35;font-weight:700;color:#0b4f71;text-decoration:underline}
+.meta{font-size:13px;line-height:1.4;color:#5a6670;margin-top:5px}
+.empty,.no-results{font-size:14px;color:#5a6670;line-height:1.45}
+</style></head><body><h2>News</h2><input id="newsFilter" class="filter" type="search" placeholder="Filter news…" aria-label="Filter news articles"><div id="newsList"><div class="item" data-search="chevron vs bp which stock wins the gulf of america growth race theglobeandmail.com fri, 19 jun 2026 general"><a href="https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/2584946/chevron-vs-bp-which-stock-wins-the-gulf-of-america-growth-race/">Chevron Vs Bp Which Stock Wins The Gulf Of America Growth Race</a><div class="meta">theglobeandmail.com • Fri, 19 Jun 2026</div></div></div><div id="noResults" class="no-results" style="display:none">No matching news articles.</div><script>
+(function(){
+  var input=document.getElementById('newsFilter');
+  var items=[].slice.call(document.querySelectorAll('.item'));
+  var noResults=document.getElementById('noResults');
+  if(!input) return;
+  input.addEventListener('input',function(){
+    var q=input.value.toLowerCase().trim();
+    var shown=0;
+    items.forEach(function(it){
+      var ok=!q || (it.getAttribute('data-search')||'').indexOf(q)!==-1;
+      it.style.display=ok?'':'none';
+      if(ok) shown++;
+    });
+    if(noResults) noResults.style.display=shown?'none':'';
+  });
+})();
+</script></body></html>
