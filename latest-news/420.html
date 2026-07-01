@@ -1,27 +1,44 @@
 <!doctype html><html><head><meta charset="utf-8"><base target="_blank"><style>
 body{font-family:Montserrat,Arial,sans-serif;margin:0;padding:0;color:#101820;background:#fff}
 h2{font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700}
-.filter{box-sizing:border-box;width:100%;border:1px solid #d8e0e7;border-radius:6px;padding:8px 10px;margin:0 0 14px;font-size:13px;color:#101820;outline:none}
+.filter{box-sizing:border-box;width:100%;border:1px solid #d8e0e7;border-radius:6px;padding:8px 10px;margin:0 0 12px;font-size:13px;color:#101820;outline:none}
 .filter:focus{border-color:#0b4f71;box-shadow:0 0 0 2px rgba(11,79,113,.08)}
+.category-filters{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 14px}
+.category-filter{border:1px solid #d8e0e7;border-radius:999px;background:#fff;color:#33424d;padding:5px 10px;font:600 12px Montserrat,Arial,sans-serif;cursor:pointer}
+.category-filter:hover{border-color:#9cafbd;background:#f6f9fb}
+.category-filter.active{border-color:#0b4f71;background:#0b4f71;color:#fff}
 .item{padding:0 0 14px;margin:0 0 14px;border-bottom:1px solid #e3e8ee}
 .item a{font-size:16px;line-height:1.35;font-weight:700;color:#0b4f71;text-decoration:underline}
-.meta{font-size:13px;line-height:1.4;color:#5a6670;margin-top:5px}
+.meta{font-size:13px;line-height:1.4;color:#5a6670;margin-top:5px}.cat{font-weight:600;color:#33424d}
 .empty,.no-results{font-size:14px;color:#5a6670;line-height:1.45}
-</style></head><body><h2>News</h2><input id="newsFilter" class="filter" type="search" placeholder="Filter news…" aria-label="Filter news articles"><div id="newsList"><div class="item" data-search="chevron vs bp which stock wins the gulf of america growth race theglobeandmail.com fri, 19 jun 2026 general"><a href="https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/2584946/chevron-vs-bp-which-stock-wins-the-gulf-of-america-growth-race/">Chevron Vs Bp Which Stock Wins The Gulf Of America Growth Race</a><div class="meta">theglobeandmail.com • Fri, 19 Jun 2026</div></div></div><div id="noResults" class="no-results" style="display:none">No matching news articles.</div><script>
+</style></head><body><h2>News</h2><input id="newsFilter" class="filter" type="search" placeholder="Filter news…" aria-label="Filter news articles"><div class="category-filters" role="group" aria-label="News category filters"><button type="button" class="category-filter active" data-category="All">All</button><button type="button" class="category-filter" data-category="Operations">Operations</button><button type="button" class="category-filter" data-category="Production">Production</button><button type="button" class="category-filter" data-category="Decommissioning">Decommissioning</button><button type="button" class="category-filter" data-category="Incidents">Incidents</button><button type="button" class="category-filter" data-category="Regulatory">Regulatory</button></div><div id="newsList"><div class="item" data-category="Operations" data-search="chevron vs bp which stock wins the gulf of america growth race theglobeandmail.com fri, 19 jun 2026 operations field-level"><a href="https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/2584946/chevron-vs-bp-which-stock-wins-the-gulf-of-america-growth-race/">Chevron Vs Bp Which Stock Wins The Gulf Of America Growth Race</a><div class="meta">theglobeandmail.com • Fri, 19 Jun 2026 • <span class="cat">Operations</span></div></div></div><div id="noResults" class="no-results" style="display:none">No articles found for this category.</div><script>
 (function(){
   var input=document.getElementById('newsFilter');
+  var buttons=[].slice.call(document.querySelectorAll('.category-filter'));
   var items=[].slice.call(document.querySelectorAll('.item'));
   var noResults=document.getElementById('noResults');
-  if(!input) return;
-  input.addEventListener('input',function(){
-    var q=input.value.toLowerCase().trim();
+  var active='All';
+  function applyFilters(){
+    var q=input ? input.value.toLowerCase().trim() : '';
     var shown=0;
     items.forEach(function(it){
-      var ok=!q || (it.getAttribute('data-search')||'').indexOf(q)!==-1;
+      var cat=it.getAttribute('data-category')||'Operations';
+      var okCat=(active==='All'||cat===active);
+      var okText=!q || (it.getAttribute('data-search')||'').indexOf(q)!==-1;
+      var ok=okCat && okText;
       it.style.display=ok?'':'none';
       if(ok) shown++;
     });
     if(noResults) noResults.style.display=shown?'none':'';
+  }
+  buttons.forEach(function(btn){
+    btn.addEventListener('click',function(){
+      active=btn.getAttribute('data-category')||'All';
+      buttons.forEach(function(b){b.classList.toggle('active', b===btn);});
+      applyFilters();
+    });
   });
+  if(input) input.addEventListener('input',applyFilters);
+  applyFilters();
 })();
 </script></body></html>
