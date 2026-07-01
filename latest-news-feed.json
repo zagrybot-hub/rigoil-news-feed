@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-01T09:01:31.333778+00:00",
+  "updatedAt": "2026-07-01T09:03:57.880742+00:00",
   "source": "rigoil-news-intelligence",
   "assetCount": 33,
   "assets": [
@@ -14,11 +14,79 @@
       "sourceAssetNames": [
         "Na Kika"
       ],
-      "totalNewsCount": 2,
+      "totalNewsCount": 6,
       "latestNewsCount": 2,
       "olderCount": 0,
-      "archiveCount": 0,
+      "archiveCount": 4,
       "items": [
+        {
+          "title": "shell sells 50 interest in na kika platform for 17b",
+          "url": "https://intellectia.ai/news/stock/shell-sells-50-interest-in-na-kika-platform-for-17b",
+          "sourceName": "intellectia.ai",
+          "publishedDate": "Tue, 30 Jun 2026",
+          "sortDate": "2026-07-01T06:12:14+00:00",
+          "articleId": "NEWS-000582",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0608",
+          "sourceAssetName": "Na Kika"
+        },
+        {
+          "title": "he shell deepwater goa sale",
+          "url": "https://www.hartenergy.com/energy-market-transactions/acquisitions-and-divestitures/he-shell-deepwater-goa-sale",
+          "sourceName": "hartenergy.com",
+          "publishedDate": "Tue, 30 Jun 2026",
+          "sortDate": "2026-07-01T06:12:14+00:00",
+          "articleId": "NEWS-000581",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "Ownership",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0608",
+          "sourceAssetName": "Na Kika"
+        },
+        {
+          "title": "talos energy to acquire us gulf assets from shell for 850 million",
+          "url": "https://www.workboat.com/talos-energy-to-acquire-us-gulf-assets-from-shell-for-850-million",
+          "sourceName": "workboat.com",
+          "publishedDate": "Tue, 30 Jun 2026",
+          "sortDate": "2026-07-01T06:12:14+00:00",
+          "articleId": "NEWS-000580",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0608",
+          "sourceAssetName": "Na Kika"
+        },
+        {
+          "title": "Shell Sells 50 Stake in Na Kika Gulf of America Platform and Coulomb Tieback",
+          "url": "https://vir.com.vn/shell-sells-50-stake-in-na-kika-gulf-of-america-platform-and-coulomb-tieback-155849.html",
+          "sourceName": "vir.com.vn",
+          "publishedDate": "Tue, 30 Jun 2026",
+          "sortDate": "2026-07-01T06:12:14+00:00",
+          "articleId": "NEWS-000579",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "Ownership",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0608",
+          "sourceAssetName": "Na Kika"
+        },
         {
           "title": "Shell to Sell Interest in Gulf of America Platform",
           "url": "https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2026/shell-to-sell-interest-in-gulf-of-america-platform.html",
@@ -54,10 +122,10 @@
           "sourceAssetName": "Na Kika"
         }
       ],
-      "latestNewsText": "Shell to Sell Interest in Gulf of America Platform — Tue, 30 Jun 2026 — shell.com\nEni Bp Venture Approves Major Offshore Angola Development — Tue, 30 Jun 2026 — worldoil.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2026/shell-to-sell-interest-in-gulf-of-america-platform.html\" target=\"_blank\" rel=\"noopener noreferrer\">Shell to Sell Interest in Gulf of America Platform</a> — Tue, 30 Jun 2026 — shell.com</li><li><a href=\"https://www.worldoil.com/news/2026/6/23/eni-bp-venture-approves-major-offshore-angola-development/\" target=\"_blank\" rel=\"noopener noreferrer\">Eni Bp Venture Approves Major Offshore Angola Development</a> — Tue, 30 Jun 2026 — worldoil.com</li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2026/shell-to-sell-interest-in-gulf-of-america-platform.html\" target=\"_blank\" rel=\"noopener noreferrer\">Shell to Sell Interest in Gulf of America Platform</a> — Tue, 30 Jun 2026 — shell.com</li><li><a href=\"https://www.worldoil.com/news/2026/6/23/eni-bp-venture-approves-major-offshore-angola-development/\" target=\"_blank\" rel=\"noopener noreferrer\">Eni Bp Venture Approves Major Offshore Angola Development</a> — Tue, 30 Jun 2026 — worldoil.com</li></ul></div>"
+      "latestNewsText": "shell sells 50 interest in na kika platform for 17b — Tue, 30 Jun 2026 — intellectia.ai\nhe shell deepwater goa sale — Tue, 30 Jun 2026 — hartenergy.com\ntalos energy to acquire us gulf assets from shell for 850 million — Tue, 30 Jun 2026 — workboat.com\nShell Sells 50 Stake in Na Kika Gulf of America Platform and Coulomb Tieback — Tue, 30 Jun 2026 — vir.com.vn\nShell to Sell Interest in Gulf of America Platform — Tue, 30 Jun 2026 — shell.com\nEni Bp Venture Approves Major Offshore Angola Development — Tue, 30 Jun 2026 — worldoil.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2026/shell-to-sell-interest-in-gulf-of-america-platform.html\" target=\"_blank\" rel=\"noopener noreferrer\">Shell to Sell Interest in Gulf of America Platform</a> — Tue, 30 Jun 2026 — shell.com</li><li><a href=\"https://www.worldoil.com/news/2026/6/23/eni-bp-venture-approves-major-offshore-angola-development/\" target=\"_blank\" rel=\"noopener noreferrer\">Eni Bp Venture Approves Major Offshore Angola Development</a> — Tue, 30 Jun 2026 — worldoil.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (4 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://intellectia.ai/news/stock/shell-sells-50-interest-in-na-kika-platform-for-17b\" target=\"_blank\" rel=\"noopener noreferrer\">shell sells 50 interest in na kika platform for 17b</a> — Tue, 30 Jun 2026 — intellectia.ai</li><li><a href=\"https://www.hartenergy.com/energy-market-transactions/acquisitions-and-divestitures/he-shell-deepwater-goa-sale\" target=\"_blank\" rel=\"noopener noreferrer\">he shell deepwater goa sale</a> — Tue, 30 Jun 2026 — hartenergy.com <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.workboat.com/talos-energy-to-acquire-us-gulf-assets-from-shell-for-850-million\" target=\"_blank\" rel=\"noopener noreferrer\">talos energy to acquire us gulf assets from shell for 850 million</a> — Tue, 30 Jun 2026 — workboat.com</li><li><a href=\"https://vir.com.vn/shell-sells-50-stake-in-na-kika-gulf-of-america-platform-and-coulomb-tieback-155849.html\" target=\"_blank\" rel=\"noopener noreferrer\">Shell Sells 50 Stake in Na Kika Gulf of America Platform and Coulomb Tieback</a> — Tue, 30 Jun 2026 — vir.com.vn <span class=\"news-category\">Ownership</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2026/shell-to-sell-interest-in-gulf-of-america-platform.html\" target=\"_blank\" rel=\"noopener noreferrer\">Shell to Sell Interest in Gulf of America Platform</a> — Tue, 30 Jun 2026 — shell.com</li><li><a href=\"https://www.worldoil.com/news/2026/6/23/eni-bp-venture-approves-major-offshore-angola-development/\" target=\"_blank\" rel=\"noopener noreferrer\">Eni Bp Venture Approves Major Offshore Angola Development</a> — Tue, 30 Jun 2026 — worldoil.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (4 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://intellectia.ai/news/stock/shell-sells-50-interest-in-na-kika-platform-for-17b\" target=\"_blank\" rel=\"noopener noreferrer\">shell sells 50 interest in na kika platform for 17b</a> — Tue, 30 Jun 2026 — intellectia.ai</li><li><a href=\"https://www.hartenergy.com/energy-market-transactions/acquisitions-and-divestitures/he-shell-deepwater-goa-sale\" target=\"_blank\" rel=\"noopener noreferrer\">he shell deepwater goa sale</a> — Tue, 30 Jun 2026 — hartenergy.com <span class=\"news-category\">Ownership</span></li><li><a href=\"https://www.workboat.com/talos-energy-to-acquire-us-gulf-assets-from-shell-for-850-million\" target=\"_blank\" rel=\"noopener noreferrer\">talos energy to acquire us gulf assets from shell for 850 million</a> — Tue, 30 Jun 2026 — workboat.com</li><li><a href=\"https://vir.com.vn/shell-sells-50-stake-in-na-kika-gulf-of-america-platform-and-coulomb-tieback-155849.html\" target=\"_blank\" rel=\"noopener noreferrer\">Shell Sells 50 Stake in Na Kika Gulf of America Platform and Coulomb Tieback</a> — Tue, 30 Jun 2026 — vir.com.vn <span class=\"news-category\">Ownership</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "1290",
@@ -259,11 +327,62 @@
       "sourceAssetNames": [
         "Coral Sul FLNG"
       ],
-      "totalNewsCount": 2,
+      "totalNewsCount": 5,
       "latestNewsCount": 2,
       "olderCount": 0,
-      "archiveCount": 0,
+      "archiveCount": 3,
       "items": [
+        {
+          "title": "Africas Floating Lng Revolution Understanding the Offshore Vessels Powering the Continents Energy Future",
+          "url": "https://trendsnafrica.com/africas-floating-lng-revolution-understanding-the-offshore-vessels-powering-the-continents-energy-future/",
+          "sourceName": "trendsnafrica.com",
+          "publishedDate": "Tue, 30 Jun 2026",
+          "sortDate": "2026-07-01T04:12:15+00:00",
+          "articleId": "NEWS-000594",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0680",
+          "sourceAssetName": "Coral Sul FLNG"
+        },
+        {
+          "title": "Eni Expands Mozambique Lng Ambitions with Tender for Worlds Largest Floating Gas Facility",
+          "url": "https://africasustainabilitymatters.com/eni-expands-mozambique-lng-ambitions-with-tender-for-worlds-largest-floating-gas-facility/",
+          "sourceName": "africasustainabilitymatters.com",
+          "publishedDate": "Tue, 30 Jun 2026",
+          "sortDate": "2026-07-01T04:12:15+00:00",
+          "articleId": "NEWS-000593",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0680",
+          "sourceAssetName": "Coral Sul FLNG"
+        },
+        {
+          "title": "Floating Lng Vessels Africa Flng Fpso Investment 2026",
+          "url": "https://discoveryalert.com.au/floating-lng-vessels-africa-flng-fpso-investment-2026/",
+          "sourceName": "discoveryalert.com.au",
+          "publishedDate": "Tue, 30 Jun 2026",
+          "sortDate": "2026-07-01T04:12:15+00:00",
+          "articleId": "NEWS-000592",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0680",
+          "sourceAssetName": "Coral Sul FLNG"
+        },
         {
           "title": "japans jgc awarded contract for coral north flng in mozambique",
           "url": "https://jpt.spe.org/japans-jgc-awarded-contract-for-coral-north-flng-in-mozambique",
@@ -299,10 +418,10 @@
           "sourceAssetName": "Coral Sul FLNG"
         }
       ],
-      "latestNewsText": "japans jgc awarded contract for coral north flng in mozambique — Fri, 26 Jun 2026 — jpt.spe.org\nmodec to deliver sofec%C2%AE internal turret mooring system for coral norte flng 204365 — Wed, 24 Jun 2026 — energy-pedia.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://jpt.spe.org/japans-jgc-awarded-contract-for-coral-north-flng-in-mozambique\" target=\"_blank\" rel=\"noopener noreferrer\">japans jgc awarded contract for coral north flng in mozambique</a> — Fri, 26 Jun 2026 — jpt.spe.org</li><li><a href=\"https://www.energy-pedia.com/news/mozambique/modec-to-deliver-sofec%C2%AE-internal-turret-mooring-system-for-coral-norte-flng-204365\" target=\"_blank\" rel=\"noopener noreferrer\">modec to deliver sofec%C2%AE internal turret mooring system for coral norte flng 204365</a> — Wed, 24 Jun 2026 — energy-pedia.com</li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://jpt.spe.org/japans-jgc-awarded-contract-for-coral-north-flng-in-mozambique\" target=\"_blank\" rel=\"noopener noreferrer\">japans jgc awarded contract for coral north flng in mozambique</a> — Fri, 26 Jun 2026 — jpt.spe.org</li><li><a href=\"https://www.energy-pedia.com/news/mozambique/modec-to-deliver-sofec%C2%AE-internal-turret-mooring-system-for-coral-norte-flng-204365\" target=\"_blank\" rel=\"noopener noreferrer\">modec to deliver sofec%C2%AE internal turret mooring system for coral norte flng 204365</a> — Wed, 24 Jun 2026 — energy-pedia.com</li></ul></div>"
+      "latestNewsText": "Africas Floating Lng Revolution Understanding the Offshore Vessels Powering the Continents Energy Future — Tue, 30 Jun 2026 — trendsnafrica.com\nEni Expands Mozambique Lng Ambitions with Tender for Worlds Largest Floating Gas Facility — Tue, 30 Jun 2026 — africasustainabilitymatters.com\nFloating Lng Vessels Africa Flng Fpso Investment 2026 — Tue, 30 Jun 2026 — discoveryalert.com.au\njapans jgc awarded contract for coral north flng in mozambique — Fri, 26 Jun 2026 — jpt.spe.org\nmodec to deliver sofec%C2%AE internal turret mooring system for coral norte flng 204365 — Wed, 24 Jun 2026 — energy-pedia.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://jpt.spe.org/japans-jgc-awarded-contract-for-coral-north-flng-in-mozambique\" target=\"_blank\" rel=\"noopener noreferrer\">japans jgc awarded contract for coral north flng in mozambique</a> — Fri, 26 Jun 2026 — jpt.spe.org</li><li><a href=\"https://www.energy-pedia.com/news/mozambique/modec-to-deliver-sofec%C2%AE-internal-turret-mooring-system-for-coral-norte-flng-204365\" target=\"_blank\" rel=\"noopener noreferrer\">modec to deliver sofec%C2%AE internal turret mooring system for coral norte flng 204365</a> — Wed, 24 Jun 2026 — energy-pedia.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (3 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://trendsnafrica.com/africas-floating-lng-revolution-understanding-the-offshore-vessels-powering-the-continents-energy-future/\" target=\"_blank\" rel=\"noopener noreferrer\">Africas Floating Lng Revolution Understanding the Offshore Vessels Powering the Continents Energy Future</a> — Tue, 30 Jun 2026 — trendsnafrica.com</li><li><a href=\"https://africasustainabilitymatters.com/eni-expands-mozambique-lng-ambitions-with-tender-for-worlds-largest-floating-gas-facility/\" target=\"_blank\" rel=\"noopener noreferrer\">Eni Expands Mozambique Lng Ambitions with Tender for Worlds Largest Floating Gas Facility</a> — Tue, 30 Jun 2026 — africasustainabilitymatters.com</li><li><a href=\"https://discoveryalert.com.au/floating-lng-vessels-africa-flng-fpso-investment-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Floating Lng Vessels Africa Flng Fpso Investment 2026</a> — Tue, 30 Jun 2026 — discoveryalert.com.au</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://jpt.spe.org/japans-jgc-awarded-contract-for-coral-north-flng-in-mozambique\" target=\"_blank\" rel=\"noopener noreferrer\">japans jgc awarded contract for coral north flng in mozambique</a> — Fri, 26 Jun 2026 — jpt.spe.org</li><li><a href=\"https://www.energy-pedia.com/news/mozambique/modec-to-deliver-sofec%C2%AE-internal-turret-mooring-system-for-coral-norte-flng-204365\" target=\"_blank\" rel=\"noopener noreferrer\">modec to deliver sofec%C2%AE internal turret mooring system for coral norte flng 204365</a> — Wed, 24 Jun 2026 — energy-pedia.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (3 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://trendsnafrica.com/africas-floating-lng-revolution-understanding-the-offshore-vessels-powering-the-continents-energy-future/\" target=\"_blank\" rel=\"noopener noreferrer\">Africas Floating Lng Revolution Understanding the Offshore Vessels Powering the Continents Energy Future</a> — Tue, 30 Jun 2026 — trendsnafrica.com</li><li><a href=\"https://africasustainabilitymatters.com/eni-expands-mozambique-lng-ambitions-with-tender-for-worlds-largest-floating-gas-facility/\" target=\"_blank\" rel=\"noopener noreferrer\">Eni Expands Mozambique Lng Ambitions with Tender for Worlds Largest Floating Gas Facility</a> — Tue, 30 Jun 2026 — africasustainabilitymatters.com</li><li><a href=\"https://discoveryalert.com.au/floating-lng-vessels-africa-flng-fpso-investment-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Floating Lng Vessels Africa Flng Fpso Investment 2026</a> — Tue, 30 Jun 2026 — discoveryalert.com.au</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "hibernia-platform",
@@ -314,11 +433,79 @@
       "sourceAssetNames": [
         "Hibernia platform"
       ],
-      "totalNewsCount": 1,
+      "totalNewsCount": 7,
       "latestNewsCount": 1,
       "olderCount": 0,
-      "archiveCount": 0,
+      "archiveCount": 6,
       "items": [
+        {
+          "title": "Report Hibernia Platform Spill Could Have Caused Serious Casualty",
+          "url": "https://starconcord.com.sg/report-hibernia-platform-spill-could-have-caused-serious-casualty/",
+          "sourceName": "starconcord.com.sg",
+          "publishedDate": "Tue, 30 Jun 2026",
+          "sortDate": "2026-07-01T04:10:12+00:00",
+          "articleId": "NEWS-000596",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "Incident",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0647",
+          "sourceAssetName": "Hibernia platform"
+        },
+        {
+          "title": "Investigation Continues After Hibernia Hydrocarbon Release Raises Explosion Risk",
+          "url": "https://www.hazardexonthenet.net/article/222817/Investigation-continues-after-Hibernia-hydrocarbon-release-raises-explosion-risk.aspx",
+          "sourceName": "hazardexonthenet.net",
+          "publishedDate": "Tue, 30 Jun 2026",
+          "sortDate": "2026-07-01T04:10:12+00:00",
+          "articleId": "NEWS-000595",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Incident",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0647",
+          "sourceAssetName": "Hibernia platform"
+        },
+        {
+          "title": "gas leak and crude spill intercepted on hibernia platform",
+          "url": "https://ground.news/article/gas-leak-and-crude-spill-intercepted-on-hibernia-platform",
+          "sourceName": "ground.news",
+          "publishedDate": "Mon, 29 Jun 2026",
+          "sortDate": "2026-06-30T04:11:42+00:00",
+          "articleId": "NEWS-000531",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "Incident",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0647",
+          "sourceAssetName": "Hibernia platform"
+        },
+        {
+          "title": "Hibernia Platform Offshore News Update",
+          "url": "https://www.thesafetymag.com/ca/topics/ohs-law-and-legislation/crude-breach-on-hibernia-platform-triggers-regulator-review/547660",
+          "sourceName": "thesafetymag.com",
+          "publishedDate": "Mon, 29 Jun 2026",
+          "sortDate": "2026-06-30T04:11:42+00:00",
+          "articleId": "NEWS-000530",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0647",
+          "sourceAssetName": "Hibernia platform"
+        },
         {
           "title": "Hibernia Platform Offshore News Update",
           "url": "https://www.upstreamonline.com/safety/major-hydrocarbon-release-being-investigated-at-canada-platform/2-1-2010851",
@@ -335,12 +522,46 @@
           "linkStatus": "Active",
           "sourceAssetRefId": "PLAT-0647",
           "sourceAssetName": "Hibernia platform"
+        },
+        {
+          "title": "No Injuries But Hibernia Oil Spill Posed Threat of Deadly Blast and Fire Regulator",
+          "url": "https://northeastnow.com/2026/06/28/no-injuries-but-hibernia-oil-spill-posed-threat-of-deadly-blast-and-fire-regulator/",
+          "sourceName": "northeastnow.com",
+          "publishedDate": "Mon, 29 Jun 2026",
+          "sortDate": "2026-06-30T04:11:42+00:00",
+          "articleId": "NEWS-000528",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Incident",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0647",
+          "sourceAssetName": "Hibernia platform"
+        },
+        {
+          "title": "report hibernia platform spill could have caused serious casualty",
+          "url": "https://maritime-executive.com/article/report-hibernia-platform-spill-could-have-caused-serious-casualty",
+          "sourceName": "maritime-executive.com",
+          "publishedDate": "Mon, 29 Jun 2026",
+          "sortDate": "2026-06-30T04:11:42+00:00",
+          "articleId": "NEWS-000527",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "Incident",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0647",
+          "sourceAssetName": "Hibernia platform"
         }
       ],
-      "latestNewsText": "Hibernia Platform Offshore News Update — Mon, 29 Jun 2026 — upstreamonline.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/safety/major-hydrocarbon-release-being-investigated-at-canada-platform/2-1-2010851\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> — Mon, 29 Jun 2026 — upstreamonline.com</li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/safety/major-hydrocarbon-release-being-investigated-at-canada-platform/2-1-2010851\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> — Mon, 29 Jun 2026 — upstreamonline.com</li></ul></div>"
+      "latestNewsText": "Report Hibernia Platform Spill Could Have Caused Serious Casualty — Tue, 30 Jun 2026 — starconcord.com.sg\nInvestigation Continues After Hibernia Hydrocarbon Release Raises Explosion Risk — Tue, 30 Jun 2026 — hazardexonthenet.net\ngas leak and crude spill intercepted on hibernia platform — Mon, 29 Jun 2026 — ground.news\nHibernia Platform Offshore News Update — Mon, 29 Jun 2026 — thesafetymag.com\nHibernia Platform Offshore News Update — Mon, 29 Jun 2026 — upstreamonline.com\nNo Injuries But Hibernia Oil Spill Posed Threat of Deadly Blast and Fire Regulator — Mon, 29 Jun 2026 — northeastnow.com\nreport hibernia platform spill could have caused serious casualty — Mon, 29 Jun 2026 — maritime-executive.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/safety/major-hydrocarbon-release-being-investigated-at-canada-platform/2-1-2010851\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> — Mon, 29 Jun 2026 — upstreamonline.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (6 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://starconcord.com.sg/report-hibernia-platform-spill-could-have-caused-serious-casualty/\" target=\"_blank\" rel=\"noopener noreferrer\">Report Hibernia Platform Spill Could Have Caused Serious Casualty</a> — Tue, 30 Jun 2026 — starconcord.com.sg <span class=\"news-category\">Incident</span></li><li><a href=\"https://www.hazardexonthenet.net/article/222817/Investigation-continues-after-Hibernia-hydrocarbon-release-raises-explosion-risk.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Investigation Continues After Hibernia Hydrocarbon Release Raises Explosion Risk</a> — Tue, 30 Jun 2026 — hazardexonthenet.net <span class=\"news-category\">Incident</span></li><li><a href=\"https://ground.news/article/gas-leak-and-crude-spill-intercepted-on-hibernia-platform\" target=\"_blank\" rel=\"noopener noreferrer\">gas leak and crude spill intercepted on hibernia platform</a> — Mon, 29 Jun 2026 — ground.news <span class=\"news-category\">Incident</span></li><li><a href=\"https://www.thesafetymag.com/ca/topics/ohs-law-and-legislation/crude-breach-on-hibernia-platform-triggers-regulator-review/547660\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> — Mon, 29 Jun 2026 — thesafetymag.com</li><li><a href=\"https://northeastnow.com/2026/06/28/no-injuries-but-hibernia-oil-spill-posed-threat-of-deadly-blast-and-fire-regulator/\" target=\"_blank\" rel=\"noopener noreferrer\">No Injuries But Hibernia Oil Spill Posed Threat of Deadly Blast and Fire Regulator</a> — Mon, 29 Jun 2026 — northeastnow.com <span class=\"news-category\">Incident</span></li><li><a href=\"https://maritime-executive.com/article/report-hibernia-platform-spill-could-have-caused-serious-casualty\" target=\"_blank\" rel=\"noopener noreferrer\">report hibernia platform spill could have caused serious casualty</a> — Mon, 29 Jun 2026 — maritime-executive.com <span class=\"news-category\">Incident</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/safety/major-hydrocarbon-release-being-investigated-at-canada-platform/2-1-2010851\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> — Mon, 29 Jun 2026 — upstreamonline.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (6 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://starconcord.com.sg/report-hibernia-platform-spill-could-have-caused-serious-casualty/\" target=\"_blank\" rel=\"noopener noreferrer\">Report Hibernia Platform Spill Could Have Caused Serious Casualty</a> — Tue, 30 Jun 2026 — starconcord.com.sg <span class=\"news-category\">Incident</span></li><li><a href=\"https://www.hazardexonthenet.net/article/222817/Investigation-continues-after-Hibernia-hydrocarbon-release-raises-explosion-risk.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Investigation Continues After Hibernia Hydrocarbon Release Raises Explosion Risk</a> — Tue, 30 Jun 2026 — hazardexonthenet.net <span class=\"news-category\">Incident</span></li><li><a href=\"https://ground.news/article/gas-leak-and-crude-spill-intercepted-on-hibernia-platform\" target=\"_blank\" rel=\"noopener noreferrer\">gas leak and crude spill intercepted on hibernia platform</a> — Mon, 29 Jun 2026 — ground.news <span class=\"news-category\">Incident</span></li><li><a href=\"https://www.thesafetymag.com/ca/topics/ohs-law-and-legislation/crude-breach-on-hibernia-platform-triggers-regulator-review/547660\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> — Mon, 29 Jun 2026 — thesafetymag.com</li><li><a href=\"https://northeastnow.com/2026/06/28/no-injuries-but-hibernia-oil-spill-posed-threat-of-deadly-blast-and-fire-regulator/\" target=\"_blank\" rel=\"noopener noreferrer\">No Injuries But Hibernia Oil Spill Posed Threat of Deadly Blast and Fire Regulator</a> — Mon, 29 Jun 2026 — northeastnow.com <span class=\"news-category\">Incident</span></li><li><a href=\"https://maritime-executive.com/article/report-hibernia-platform-spill-could-have-caused-serious-casualty\" target=\"_blank\" rel=\"noopener noreferrer\">report hibernia platform spill could have caused serious casualty</a> — Mon, 29 Jun 2026 — maritime-executive.com <span class=\"news-category\">Incident</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "nl104",
@@ -466,11 +687,28 @@
       "sourceAssetNames": [
         "Johan Sverdrup RP"
       ],
-      "totalNewsCount": 4,
+      "totalNewsCount": 5,
       "latestNewsCount": 4,
       "olderCount": 0,
-      "archiveCount": 0,
+      "archiveCount": 1,
       "items": [
+        {
+          "title": "Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling",
+          "url": "https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html",
+          "sourceName": "cnbc.com",
+          "publishedDate": "Mon, 29 Jun 2026",
+          "sortDate": "2026-06-29T08:50:08+00:00",
+          "articleId": "NEWS-000563",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0264",
+          "sourceAssetName": "Johan Sverdrup RP"
+        },
         {
           "title": "540640 britain s political shake up opens door to north sea rethink",
           "url": "https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink",
@@ -540,10 +778,10 @@
           "sourceAssetName": "Johan Sverdrup RP"
         }
       ],
-      "latestNewsText": "540640 britain s political shake up opens door to north sea rethink — Sat, 27 Jun 2026 — oedigital.com\n540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nequinor advances subsea development plan at johan sverdrup toward maturity — Wed, 24 Jun 2026 — jpt.spe.org\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>"
+      "latestNewsText": "Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling — Mon, 29 Jun 2026 — cnbc.com\n540640 britain s political shake up opens door to north sea rethink — Sat, 27 Jun 2026 — oedigital.com\n540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nequinor advances subsea development plan at johan sverdrup toward maturity — Wed, 24 Jun 2026 — jpt.spe.org\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling</a> — Mon, 29 Jun 2026 — cnbc.com <span class=\"news-category\">Operations</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling</a> — Mon, 29 Jun 2026 — cnbc.com <span class=\"news-category\">Operations</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "no077",
@@ -555,11 +793,28 @@
       "sourceAssetNames": [
         "Johan Sverdrup DP"
       ],
-      "totalNewsCount": 4,
+      "totalNewsCount": 5,
       "latestNewsCount": 4,
       "olderCount": 0,
-      "archiveCount": 0,
+      "archiveCount": 1,
       "items": [
+        {
+          "title": "Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling",
+          "url": "https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html",
+          "sourceName": "cnbc.com",
+          "publishedDate": "Mon, 29 Jun 2026",
+          "sortDate": "2026-06-29T08:50:08+00:00",
+          "articleId": "NEWS-000563",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0260",
+          "sourceAssetName": "Johan Sverdrup DP"
+        },
         {
           "title": "540640 britain s political shake up opens door to north sea rethink",
           "url": "https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink",
@@ -629,10 +884,10 @@
           "sourceAssetName": "Johan Sverdrup DP"
         }
       ],
-      "latestNewsText": "540640 britain s political shake up opens door to north sea rethink — Sat, 27 Jun 2026 — oedigital.com\n540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nequinor advances subsea development plan at johan sverdrup toward maturity — Wed, 24 Jun 2026 — jpt.spe.org\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>"
+      "latestNewsText": "Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling — Mon, 29 Jun 2026 — cnbc.com\n540640 britain s political shake up opens door to north sea rethink — Sat, 27 Jun 2026 — oedigital.com\n540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nequinor advances subsea development plan at johan sverdrup toward maturity — Wed, 24 Jun 2026 — jpt.spe.org\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling</a> — Mon, 29 Jun 2026 — cnbc.com <span class=\"news-category\">Operations</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling</a> — Mon, 29 Jun 2026 — cnbc.com <span class=\"news-category\">Operations</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "no078",
@@ -644,11 +899,28 @@
       "sourceAssetNames": [
         "Johan Sverdrup LQ"
       ],
-      "totalNewsCount": 4,
+      "totalNewsCount": 5,
       "latestNewsCount": 4,
       "olderCount": 0,
-      "archiveCount": 0,
+      "archiveCount": 1,
       "items": [
+        {
+          "title": "Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling",
+          "url": "https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html",
+          "sourceName": "cnbc.com",
+          "publishedDate": "Mon, 29 Jun 2026",
+          "sortDate": "2026-06-29T08:50:08+00:00",
+          "articleId": "NEWS-000563",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0261",
+          "sourceAssetName": "Johan Sverdrup LQ"
+        },
         {
           "title": "540640 britain s political shake up opens door to north sea rethink",
           "url": "https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink",
@@ -718,10 +990,10 @@
           "sourceAssetName": "Johan Sverdrup LQ"
         }
       ],
-      "latestNewsText": "540640 britain s political shake up opens door to north sea rethink — Sat, 27 Jun 2026 — oedigital.com\n540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nequinor advances subsea development plan at johan sverdrup toward maturity — Wed, 24 Jun 2026 — jpt.spe.org\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>"
+      "latestNewsText": "Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling — Mon, 29 Jun 2026 — cnbc.com\n540640 britain s political shake up opens door to north sea rethink — Sat, 27 Jun 2026 — oedigital.com\n540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nequinor advances subsea development plan at johan sverdrup toward maturity — Wed, 24 Jun 2026 — jpt.spe.org\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling</a> — Mon, 29 Jun 2026 — cnbc.com <span class=\"news-category\">Operations</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling</a> — Mon, 29 Jun 2026 — cnbc.com <span class=\"news-category\">Operations</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "no079",
@@ -733,11 +1005,28 @@
       "sourceAssetNames": [
         "Johan Sverdrup P1"
       ],
-      "totalNewsCount": 4,
+      "totalNewsCount": 5,
       "latestNewsCount": 4,
       "olderCount": 0,
-      "archiveCount": 0,
+      "archiveCount": 1,
       "items": [
+        {
+          "title": "Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling",
+          "url": "https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html",
+          "sourceName": "cnbc.com",
+          "publishedDate": "Mon, 29 Jun 2026",
+          "sortDate": "2026-06-29T08:50:08+00:00",
+          "articleId": "NEWS-000563",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0262",
+          "sourceAssetName": "Johan Sverdrup P1"
+        },
         {
           "title": "540640 britain s political shake up opens door to north sea rethink",
           "url": "https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink",
@@ -807,10 +1096,10 @@
           "sourceAssetName": "Johan Sverdrup P1"
         }
       ],
-      "latestNewsText": "540640 britain s political shake up opens door to north sea rethink — Sat, 27 Jun 2026 — oedigital.com\n540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nequinor advances subsea development plan at johan sverdrup toward maturity — Wed, 24 Jun 2026 — jpt.spe.org\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>"
+      "latestNewsText": "Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling — Mon, 29 Jun 2026 — cnbc.com\n540640 britain s political shake up opens door to north sea rethink — Sat, 27 Jun 2026 — oedigital.com\n540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nequinor advances subsea development plan at johan sverdrup toward maturity — Wed, 24 Jun 2026 — jpt.spe.org\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling</a> — Mon, 29 Jun 2026 — cnbc.com <span class=\"news-category\">Operations</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling</a> — Mon, 29 Jun 2026 — cnbc.com <span class=\"news-category\">Operations</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "no094",
@@ -822,11 +1111,28 @@
       "sourceAssetNames": [
         "Johan Sverdrup P2"
       ],
-      "totalNewsCount": 4,
+      "totalNewsCount": 5,
       "latestNewsCount": 4,
       "olderCount": 0,
-      "archiveCount": 0,
+      "archiveCount": 1,
       "items": [
+        {
+          "title": "Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling",
+          "url": "https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html",
+          "sourceName": "cnbc.com",
+          "publishedDate": "Mon, 29 Jun 2026",
+          "sortDate": "2026-06-29T08:50:08+00:00",
+          "articleId": "NEWS-000563",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0263",
+          "sourceAssetName": "Johan Sverdrup P2"
+        },
         {
           "title": "540640 britain s political shake up opens door to north sea rethink",
           "url": "https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink",
@@ -896,10 +1202,10 @@
           "sourceAssetName": "Johan Sverdrup P2"
         }
       ],
-      "latestNewsText": "540640 britain s political shake up opens door to north sea rethink — Sat, 27 Jun 2026 — oedigital.com\n540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nequinor advances subsea development plan at johan sverdrup toward maturity — Wed, 24 Jun 2026 — jpt.spe.org\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div>"
+      "latestNewsText": "Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling — Mon, 29 Jun 2026 — cnbc.com\n540640 britain s political shake up opens door to north sea rethink — Sat, 27 Jun 2026 — oedigital.com\n540601 ineos engages semco maritime for long term services in danish north sea — Thu, 25 Jun 2026 — oedigital.com\nequinor advances subsea development plan at johan sverdrup toward maturity — Wed, 24 Jun 2026 — jpt.spe.org\nNew Wildcat Well on Equinor’s Drilling Agenda for North Sea — Sun, 21 Jun 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling</a> — Mon, 29 Jun 2026 — cnbc.com <span class=\"news-category\">Operations</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540640-britain-s-political-shake-up-opens-door-to-north-sea-rethink\" target=\"_blank\" rel=\"noopener noreferrer\">540640 britain s political shake up opens door to north sea rethink</a> — Sat, 27 Jun 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/540601-ineos-engages-semco-maritime-for-long-term-services-in-danish-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">540601 ineos engages semco maritime for long term services in danish north sea</a> — Thu, 25 Jun 2026 — oedigital.com</li><li><a href=\"https://jpt.spe.org/equinor-advances-subsea-development-plan-at-johan-sverdrup-toward-maturity\" target=\"_blank\" rel=\"noopener noreferrer\">equinor advances subsea development plan at johan sverdrup toward maturity</a> — Wed, 24 Jun 2026 — jpt.spe.org <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea\" target=\"_blank\" rel=\"noopener noreferrer\">New Wildcat Well on Equinor’s Drilling Agenda for North Sea</a> — Sun, 21 Jun 2026 — oedigital.com <span class=\"news-category\">Operations</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.cnbc.com/2026/06/27/norway-oil-service-lockout-takes-effect-disrupts-offshore-drilling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Norway Oil Service Lockout Takes Effect Disrupts Offshore Drilling</a> — Mon, 29 Jun 2026 — cnbc.com <span class=\"news-category\">Operations</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "no183",
