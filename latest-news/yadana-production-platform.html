@@ -11,4 +11,34 @@ h2{font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700}
 .item a{font-size:16px;line-height:1.35;font-weight:700;color:#0b4f71;text-decoration:underline}
 .meta{font-size:13px;line-height:1.4;color:#5a6670;margin-top:5px}.cat{font-weight:600;color:#33424d}
 .empty,.no-results{font-size:14px;color:#5a6670;line-height:1.45}
-</style></head><body><h2>News</h2><div class="empty">No news articles for this platform.</div></body></html>
+</style></head><body><input id="newsFilter" class="filter" type="search" placeholder="Filter news…" aria-label="Filter news articles"><div class="category-filters" role="group" aria-label="News category filters"><button type="button" class="category-filter active" data-category="All">All</button><button type="button" class="category-filter" data-category="Operations">Operations</button><button type="button" class="category-filter" data-category="Production">Production</button><button type="button" class="category-filter" data-category="Decommissioning">Decommissioning</button><button type="button" class="category-filter" data-category="Incidents">Incidents</button><button type="button" class="category-filter" data-category="Regulatory">Regulatory</button></div><div id="newsList"><div class="item" data-category="Operations" data-search="yadana offshore gas platform emergency shutdown triggers temporary power load management in elevenmyanmar.com thu, 02 jul 2026 operations field-level"><a href="https://elevenmyanmar.com/news/yadana-offshore-gas-platform-emergency-shutdown-triggers-temporary-power-load-management-in">Yadana Offshore Gas Platform Emergency Shutdown Triggers Temporary Power Load Management In</a><div class="meta">elevenmyanmar.com • Thu, 02 Jul 2026 • <span class="cat">Operations</span></div></div></div><div id="noResults" class="no-results" style="display:none">No articles found for this category.</div><script>
+(function(){
+  var input=document.getElementById('newsFilter');
+  var buttons=[].slice.call(document.querySelectorAll('.category-filter'));
+  var items=[].slice.call(document.querySelectorAll('.item'));
+  var noResults=document.getElementById('noResults');
+  var active='All';
+  function applyFilters(){
+    var q=input ? input.value.toLowerCase().trim() : '';
+    var shown=0;
+    items.forEach(function(it){
+      var cat=it.getAttribute('data-category')||'Operations';
+      var okCat=(active==='All'||cat===active);
+      var okText=!q || (it.getAttribute('data-search')||'').indexOf(q)!==-1;
+      var ok=okCat && okText;
+      it.style.display=ok?'':'none';
+      if(ok) shown++;
+    });
+    if(noResults) noResults.style.display=shown?'none':'';
+  }
+  buttons.forEach(function(btn){
+    btn.addEventListener('click',function(){
+      active=btn.getAttribute('data-category')||'All';
+      buttons.forEach(function(b){b.classList.toggle('active', b===btn);});
+      applyFilters();
+    });
+  });
+  if(input) input.addEventListener('input',applyFilters);
+  applyFilters();
+})();
+</script></body></html>

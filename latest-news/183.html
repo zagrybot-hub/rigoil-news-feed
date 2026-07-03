@@ -11,34 +11,4 @@ h2{font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700}
 .item a{font-size:16px;line-height:1.35;font-weight:700;color:#0b4f71;text-decoration:underline}
 .meta{font-size:13px;line-height:1.4;color:#5a6670;margin-top:5px}.cat{font-weight:600;color:#33424d}
 .empty,.no-results{font-size:14px;color:#5a6670;line-height:1.45}
-</style></head><body><h2>News</h2><input id="newsFilter" class="filter" type="search" placeholder="Filter news…" aria-label="Filter news articles"><div class="category-filters" role="group" aria-label="News category filters"><button type="button" class="category-filter active" data-category="All">All</button><button type="button" class="category-filter" data-category="Operations">Operations</button><button type="button" class="category-filter" data-category="Production">Production</button><button type="button" class="category-filter" data-category="Decommissioning">Decommissioning</button><button type="button" class="category-filter" data-category="Incidents">Incidents</button><button type="button" class="category-filter" data-category="Regulatory">Regulatory</button></div><div id="newsList"><div class="item" data-category="Operations" data-search="us supreme court clears exxon to seek over 1 billion claim against cuba energynews.pro thu, 25 jun 2026 operations field-level"><a href="https://energynews.pro/en/us-supreme-court-clears-exxon-to-seek-over-1-billion-claim-against-cuba">Us Supreme Court Clears Exxon To Seek Over 1 Billion Claim Against Cuba</a><div class="meta">energynews.pro • Thu, 25 Jun 2026 • <span class="cat">Operations</span></div></div><div class="item" data-category="Operations" data-search="update 1 brazil antitrust agency approves subsea7 saipem merger without restrictions 2026 06 23 sahmcapital.com thu, 25 jun 2026 operations field-level"><a href="https://www.sahmcapital.com/news/content/update-1-brazil-antitrust-agency-approves-subsea7-saipem-merger-without-restrictions-2026-06-23">Update 1 Brazil Antitrust Agency Approves Subsea7 Saipem Merger Without Restrictions 2026 06 23</a><div class="meta">sahmcapital.com • Thu, 25 Jun 2026 • <span class="cat">Operations</span></div></div><div class="item" data-category="Operations" data-search="californias bonta says court wrongly let exxon suit proceed news.bloomberglaw.com thu, 25 jun 2026 operations field-level"><a href="https://news.bloomberglaw.com/environment-and-energy/californias-bonta-says-court-wrongly-let-exxon-suit-proceed">Californias Bonta Says Court Wrongly Let Exxon Suit Proceed</a><div class="meta">news.bloomberglaw.com • Thu, 25 Jun 2026 • <span class="cat">Operations</span></div></div><div class="item" data-category="Operations" data-search="exxon mobil applies expand footprint finance.yahoo.com thu, 25 jun 2026 operations field-level"><a href="https://finance.yahoo.com/energy/articles/exxon-mobil-applies-expand-footprint-192009586.html">Exxon Mobil Applies Expand Footprint</a><div class="meta">finance.yahoo.com • Thu, 25 Jun 2026 • <span class="cat">Operations</span></div></div><div class="item" data-category="Operations" data-search="supreme court revives exxon mobil lawsuit against cuba whlpdu4vwekqyil5osiu wsj.com thu, 25 jun 2026 operations field-level"><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026/card/supreme-court-revives-exxon-mobil-lawsuit-against-cuba-wHlpdU4VWekqYIl5OSiu">Supreme Court Revives Exxon Mobil Lawsuit Against Cuba Whlpdu4Vwekqyil5Osiu</a><div class="meta">wsj.com • Thu, 25 Jun 2026 • <span class="cat">Operations</span></div></div><div class="item" data-category="Operations" data-search="supreme court cuba exxon castro 3872baa7bbdf40d78a918e4dd013797d apnews.com thu, 25 jun 2026 operations field-level"><a href="https://apnews.com/article/supreme-court-cuba-exxon-castro-3872baa7bbdf40d78a918e4dd013797d">Supreme Court Cuba Exxon Castro 3872Baa7Bbdf40D78A918E4Dd013797D</a><div class="meta">apnews.com • Thu, 25 Jun 2026 • <span class="cat">Operations</span></div></div><div class="item" data-category="Operations" data-search="supreme court revives 1b exxon mobil suit over cuban seizures news.bloomberglaw.com thu, 25 jun 2026 operations field-level"><a href="https://news.bloomberglaw.com/us-law-week/supreme-court-revives-1b-exxon-mobil-suit-over-cuban-seizures">Supreme Court Revives 1B Exxon Mobil Suit Over Cuban Seizures</a><div class="meta">news.bloomberglaw.com • Thu, 25 Jun 2026 • <span class="cat">Operations</span></div></div><div class="item" data-category="Operations" data-search="chevron vs bp which stock wins the gulf of america growth race theglobeandmail.com thu, 25 jun 2026 operations field-level"><a href="https://www.theglobeandmail.com/investing/markets/stocks/CVX-N/pressreleases/2584946/chevron-vs-bp-which-stock-wins-the-gulf-of-america-growth-race/">Chevron Vs Bp Which Stock Wins The Gulf Of America Growth Race</a><div class="meta">theglobeandmail.com • Thu, 25 Jun 2026 • <span class="cat">Operations</span></div></div><div class="item" data-category="Operations" data-search="hoover (ac025) - exxon mobil offshore news update insidermonkey.com thu, 25 jun 2026 operations field-level"><a href="https://www.insidermonkey.com/blog/helleniq-energy-to-grant-chevron-cvx-70-interest-in-block-10-offshore-concession-1785998/?amp=1">Hoover (Ac025) - Exxon Mobil Offshore News Update</a><div class="meta">insidermonkey.com • Thu, 25 Jun 2026 • <span class="cat">Operations</span></div></div></div><div id="noResults" class="no-results" style="display:none">No articles found for this category.</div><script>
-(function(){
-  var input=document.getElementById('newsFilter');
-  var buttons=[].slice.call(document.querySelectorAll('.category-filter'));
-  var items=[].slice.call(document.querySelectorAll('.item'));
-  var noResults=document.getElementById('noResults');
-  var active='All';
-  function applyFilters(){
-    var q=input ? input.value.toLowerCase().trim() : '';
-    var shown=0;
-    items.forEach(function(it){
-      var cat=it.getAttribute('data-category')||'Operations';
-      var okCat=(active==='All'||cat===active);
-      var okText=!q || (it.getAttribute('data-search')||'').indexOf(q)!==-1;
-      var ok=okCat && okText;
-      it.style.display=ok?'':'none';
-      if(ok) shown++;
-    });
-    if(noResults) noResults.style.display=shown?'none':'';
-  }
-  buttons.forEach(function(btn){
-    btn.addEventListener('click',function(){
-      active=btn.getAttribute('data-category')||'All';
-      buttons.forEach(function(b){b.classList.toggle('active', b===btn);});
-      applyFilters();
-    });
-  });
-  if(input) input.addEventListener('input',applyFilters);
-  applyFilters();
-})();
-</script></body></html>
+</style></head><body><div class="empty">No news articles for this platform.</div></body></html>
