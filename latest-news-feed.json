@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-04T08:48:22.422423+00:00",
+  "updatedAt": "2026-07-05T08:30:06.566225+00:00",
   "source": "rigoil-news-intelligence",
   "assetCount": 59,
   "assets": [
@@ -706,6 +706,366 @@
       "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> — Wed, 01 Jul 2026 — offshore-energy.biz</li></ul></div>",
       "hasArchive": false,
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> — Wed, 01 Jul 2026 — offshore-energy.biz</li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0062",
+      "assetName": "Buzzard Production Platform",
+      "siteSlug": "PLAT-0062",
+      "sourceAssetRefIds": [
+        "PLAT-0062"
+      ],
+      "sourceAssetNames": [
+        "Buzzard Production Platform"
+      ],
+      "totalNewsCount": 3,
+      "latestNewsCount": 3,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
+          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
+          "sourceName": "energyvoice.com",
+          "publishedDate": "Thu, 02 Jul 2026",
+          "sortDate": "2026-07-02T08:27:46+00:00",
+          "articleId": "NEWS-000765",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0062",
+          "sourceAssetName": "Buzzard Production Platform"
+        },
+        {
+          "title": "ABB modernizes the automation of the Buzzard platform",
+          "url": "https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/",
+          "sourceName": "inspenet.com",
+          "publishedDate": "Mon, 22 Jun 2026",
+          "sortDate": "2026-06-22T08:02:57+00:00",
+          "articleId": "NEWS-000103",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0062",
+          "sourceAssetName": "Buzzard Production Platform"
+        },
+        {
+          "title": "Buzzard platform drives a new phase of automation",
+          "url": "https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/",
+          "sourceName": "inspenet.com",
+          "publishedDate": "Sun, 21 Jun 2026",
+          "sortDate": "2026-06-21T08:05:03+00:00",
+          "articleId": "NEWS-000055",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0062",
+          "sourceAssetName": "Buzzard Production Platform"
+        }
+      ],
+      "latestNewsText": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production — Thu, 02 Jul 2026 — energyvoice.com\nABB modernizes the automation of the Buzzard platform — Mon, 22 Jun 2026 — inspenet.com\nBuzzard platform drives a new phase of automation — Sun, 21 Jun 2026 — inspenet.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0063",
+      "assetName": "Buzzard Sweetening Platform",
+      "siteSlug": "PLAT-0063",
+      "sourceAssetRefIds": [
+        "PLAT-0063"
+      ],
+      "sourceAssetNames": [
+        "Buzzard Sweetening Platform"
+      ],
+      "totalNewsCount": 3,
+      "latestNewsCount": 3,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
+          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
+          "sourceName": "energyvoice.com",
+          "publishedDate": "Thu, 02 Jul 2026",
+          "sortDate": "2026-07-02T08:27:46+00:00",
+          "articleId": "NEWS-000765",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0063",
+          "sourceAssetName": "Buzzard Sweetening Platform"
+        },
+        {
+          "title": "ABB modernizes the automation of the Buzzard platform",
+          "url": "https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/",
+          "sourceName": "inspenet.com",
+          "publishedDate": "Mon, 22 Jun 2026",
+          "sortDate": "2026-06-22T08:02:57+00:00",
+          "articleId": "NEWS-000103",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0063",
+          "sourceAssetName": "Buzzard Sweetening Platform"
+        },
+        {
+          "title": "Buzzard platform drives a new phase of automation",
+          "url": "https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/",
+          "sourceName": "inspenet.com",
+          "publishedDate": "Sun, 21 Jun 2026",
+          "sortDate": "2026-06-21T08:05:03+00:00",
+          "articleId": "NEWS-000055",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0063",
+          "sourceAssetName": "Buzzard Sweetening Platform"
+        }
+      ],
+      "latestNewsText": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production — Thu, 02 Jul 2026 — energyvoice.com\nABB modernizes the automation of the Buzzard platform — Mon, 22 Jun 2026 — inspenet.com\nBuzzard platform drives a new phase of automation — Sun, 21 Jun 2026 — inspenet.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0064",
+      "assetName": "Buzzard Utilities Platform",
+      "siteSlug": "PLAT-0064",
+      "sourceAssetRefIds": [
+        "PLAT-0064"
+      ],
+      "sourceAssetNames": [
+        "Buzzard Utilities Platform"
+      ],
+      "totalNewsCount": 3,
+      "latestNewsCount": 3,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
+          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
+          "sourceName": "energyvoice.com",
+          "publishedDate": "Thu, 02 Jul 2026",
+          "sortDate": "2026-07-02T08:27:46+00:00",
+          "articleId": "NEWS-000765",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0064",
+          "sourceAssetName": "Buzzard Utilities Platform"
+        },
+        {
+          "title": "ABB modernizes the automation of the Buzzard platform",
+          "url": "https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/",
+          "sourceName": "inspenet.com",
+          "publishedDate": "Mon, 22 Jun 2026",
+          "sortDate": "2026-06-22T08:02:57+00:00",
+          "articleId": "NEWS-000103",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0064",
+          "sourceAssetName": "Buzzard Utilities Platform"
+        },
+        {
+          "title": "Buzzard platform drives a new phase of automation",
+          "url": "https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/",
+          "sourceName": "inspenet.com",
+          "publishedDate": "Sun, 21 Jun 2026",
+          "sortDate": "2026-06-21T08:05:03+00:00",
+          "articleId": "NEWS-000055",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0064",
+          "sourceAssetName": "Buzzard Utilities Platform"
+        }
+      ],
+      "latestNewsText": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production — Thu, 02 Jul 2026 — energyvoice.com\nABB modernizes the automation of the Buzzard platform — Mon, 22 Jun 2026 — inspenet.com\nBuzzard platform drives a new phase of automation — Sun, 21 Jun 2026 — inspenet.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0065",
+      "assetName": "Buzzard Wellhead Platform",
+      "siteSlug": "PLAT-0065",
+      "sourceAssetRefIds": [
+        "PLAT-0065"
+      ],
+      "sourceAssetNames": [
+        "Buzzard Wellhead Platform"
+      ],
+      "totalNewsCount": 3,
+      "latestNewsCount": 3,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
+          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
+          "sourceName": "energyvoice.com",
+          "publishedDate": "Thu, 02 Jul 2026",
+          "sortDate": "2026-07-02T08:27:46+00:00",
+          "articleId": "NEWS-000765",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0065",
+          "sourceAssetName": "Buzzard Wellhead Platform"
+        },
+        {
+          "title": "ABB modernizes the automation of the Buzzard platform",
+          "url": "https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/",
+          "sourceName": "inspenet.com",
+          "publishedDate": "Mon, 22 Jun 2026",
+          "sortDate": "2026-06-22T08:02:57+00:00",
+          "articleId": "NEWS-000103",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0065",
+          "sourceAssetName": "Buzzard Wellhead Platform"
+        },
+        {
+          "title": "Buzzard platform drives a new phase of automation",
+          "url": "https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/",
+          "sourceName": "inspenet.com",
+          "publishedDate": "Sun, 21 Jun 2026",
+          "sortDate": "2026-06-21T08:05:03+00:00",
+          "articleId": "NEWS-000055",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0065",
+          "sourceAssetName": "Buzzard Wellhead Platform"
+        }
+      ],
+      "latestNewsText": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production — Thu, 02 Jul 2026 — energyvoice.com\nABB modernizes the automation of the Buzzard platform — Mon, 22 Jun 2026 — inspenet.com\nBuzzard platform drives a new phase of automation — Sun, 21 Jun 2026 — inspenet.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>"
+    },
+    {
+      "assetRefId": "PLAT-0402",
+      "assetName": "Montrose BLP Import SSIV",
+      "siteSlug": "PLAT-0402",
+      "sourceAssetRefIds": [
+        "PLAT-0402"
+      ],
+      "sourceAssetNames": [
+        "Montrose BLP Import SSIV"
+      ],
+      "totalNewsCount": 3,
+      "latestNewsCount": 3,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council",
+          "url": "https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose",
+          "sourceName": "angus.gov.uk",
+          "publishedDate": "Tue, 23 Jun 2026",
+          "sortDate": "2026-06-23T08:14:10+00:00",
+          "articleId": "NEWS-000137",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0402",
+          "sourceAssetName": "Montrose BLP Import SSIV"
+        },
+        {
+          "title": "scotlands widest high street ancient 37316029",
+          "url": "https://www.scottishdailyexpress.co.uk/lifestyle/scotlands-widest-high-street-ancient-37316029",
+          "sourceName": "scottishdailyexpress.co.uk",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "sortDate": "2026-06-19T09:58:04+00:00",
+          "articleId": "NEWS-000750",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0402",
+          "sourceAssetName": "Montrose BLP Import SSIV"
+        },
+        {
+          "title": "montrose port project allocated funding under reshaped tay cities programme 8749599",
+          "url": "https://www.anguscountyworld.co.uk/business/montrose-port-project-allocated-funding-under-reshaped-tay-cities-programme-8749599",
+          "sourceName": "anguscountyworld.co.uk",
+          "publishedDate": "Fri, 19 Jun 2026",
+          "sortDate": "2026-06-19T09:58:04+00:00",
+          "articleId": "NEWS-000749",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0402",
+          "sourceAssetName": "Montrose BLP Import SSIV"
+        }
+      ],
+      "latestNewsText": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council — Tue, 23 Jun 2026 — angus.gov.uk\nscotlands widest high street ancient 37316029 — Fri, 19 Jun 2026 — scottishdailyexpress.co.uk\nmontrose port project allocated funding under reshaped tay cities programme 8749599 — Fri, 19 Jun 2026 — anguscountyworld.co.uk",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.scottishdailyexpress.co.uk/lifestyle/scotlands-widest-high-street-ancient-37316029\" target=\"_blank\" rel=\"noopener noreferrer\">scotlands widest high street ancient 37316029</a> — Fri, 19 Jun 2026 — scottishdailyexpress.co.uk <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.anguscountyworld.co.uk/business/montrose-port-project-allocated-funding-under-reshaped-tay-cities-programme-8749599\" target=\"_blank\" rel=\"noopener noreferrer\">montrose port project allocated funding under reshaped tay cities programme 8749599</a> — Fri, 19 Jun 2026 — anguscountyworld.co.uk <span class=\"news-category\">Operations</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.scottishdailyexpress.co.uk/lifestyle/scotlands-widest-high-street-ancient-37316029\" target=\"_blank\" rel=\"noopener noreferrer\">scotlands widest high street ancient 37316029</a> — Fri, 19 Jun 2026 — scottishdailyexpress.co.uk <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.anguscountyworld.co.uk/business/montrose-port-project-allocated-funding-under-reshaped-tay-cities-programme-8749599\" target=\"_blank\" rel=\"noopener noreferrer\">montrose port project allocated funding under reshaped tay cities programme 8749599</a> — Fri, 19 Jun 2026 — anguscountyworld.co.uk <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "PLAT-0762",
@@ -5555,7 +5915,7 @@
     },
     {
       "assetRefId": "uk0118",
-      "assetName": "Forties Unity Riser Platform",
+      "assetName": "Forties Unity Riser",
       "siteSlug": "uk0118",
       "sourceAssetRefIds": [
         "PLAT-0180"
@@ -5592,9 +5952,9 @@
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> — Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
-      "assetRefId": "uk0192",
-      "assetName": "Montrose BLP",
-      "siteSlug": "uk0192",
+      "assetRefId": "uk0194",
+      "assetName": "Montrose BLP (SSIV)",
+      "siteSlug": "uk0194",
       "sourceAssetRefIds": [
         "PLAT-0401"
       ],
@@ -5656,78 +6016,6 @@
           "linkStatus": "Active",
           "sourceAssetRefId": "PLAT-0401",
           "sourceAssetName": "Montrose BLP"
-        }
-      ],
-      "latestNewsText": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council — Tue, 23 Jun 2026 — angus.gov.uk\nscotlands widest high street ancient 37316029 — Fri, 19 Jun 2026 — scottishdailyexpress.co.uk\nmontrose port project allocated funding under reshaped tay cities programme 8749599 — Fri, 19 Jun 2026 — anguscountyworld.co.uk",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.scottishdailyexpress.co.uk/lifestyle/scotlands-widest-high-street-ancient-37316029\" target=\"_blank\" rel=\"noopener noreferrer\">scotlands widest high street ancient 37316029</a> — Fri, 19 Jun 2026 — scottishdailyexpress.co.uk <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.anguscountyworld.co.uk/business/montrose-port-project-allocated-funding-under-reshaped-tay-cities-programme-8749599\" target=\"_blank\" rel=\"noopener noreferrer\">montrose port project allocated funding under reshaped tay cities programme 8749599</a> — Fri, 19 Jun 2026 — anguscountyworld.co.uk <span class=\"news-category\">Operations</span></li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose\" target=\"_blank\" rel=\"noopener noreferrer\">Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council</a> — Tue, 23 Jun 2026 — angus.gov.uk <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.scottishdailyexpress.co.uk/lifestyle/scotlands-widest-high-street-ancient-37316029\" target=\"_blank\" rel=\"noopener noreferrer\">scotlands widest high street ancient 37316029</a> — Fri, 19 Jun 2026 — scottishdailyexpress.co.uk <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.anguscountyworld.co.uk/business/montrose-port-project-allocated-funding-under-reshaped-tay-cities-programme-8749599\" target=\"_blank\" rel=\"noopener noreferrer\">montrose port project allocated funding under reshaped tay cities programme 8749599</a> — Fri, 19 Jun 2026 — anguscountyworld.co.uk <span class=\"news-category\">Operations</span></li></ul></div>"
-    },
-    {
-      "assetRefId": "uk0194",
-      "assetName": "Montrose BLP Import SSIV",
-      "siteSlug": "uk0194",
-      "sourceAssetRefIds": [
-        "PLAT-0402"
-      ],
-      "sourceAssetNames": [
-        "Montrose BLP Import SSIV"
-      ],
-      "totalNewsCount": 3,
-      "latestNewsCount": 3,
-      "olderCount": 0,
-      "archiveCount": 0,
-      "items": [
-        {
-          "title": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council",
-          "url": "https://www.angus.gov.uk/news/green_light_for_multi_million_pound_offshore_skills_academy_in_montrose",
-          "sourceName": "angus.gov.uk",
-          "publishedDate": "Tue, 23 Jun 2026",
-          "sortDate": "2026-06-23T08:14:10+00:00",
-          "articleId": "NEWS-000137",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Operations",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0402",
-          "sourceAssetName": "Montrose BLP Import SSIV"
-        },
-        {
-          "title": "scotlands widest high street ancient 37316029",
-          "url": "https://www.scottishdailyexpress.co.uk/lifestyle/scotlands-widest-high-street-ancient-37316029",
-          "sourceName": "scottishdailyexpress.co.uk",
-          "publishedDate": "Fri, 19 Jun 2026",
-          "sortDate": "2026-06-19T09:58:04+00:00",
-          "articleId": "NEWS-000750",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Operations",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0402",
-          "sourceAssetName": "Montrose BLP Import SSIV"
-        },
-        {
-          "title": "montrose port project allocated funding under reshaped tay cities programme 8749599",
-          "url": "https://www.anguscountyworld.co.uk/business/montrose-port-project-allocated-funding-under-reshaped-tay-cities-programme-8749599",
-          "sourceName": "anguscountyworld.co.uk",
-          "publishedDate": "Fri, 19 Jun 2026",
-          "sortDate": "2026-06-19T09:58:04+00:00",
-          "articleId": "NEWS-000749",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Operations",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0402",
-          "sourceAssetName": "Montrose BLP Import SSIV"
         }
       ],
       "latestNewsText": "Green light for multi-million-pound Offshore Skills Academy in Montrose | Angus Council — Tue, 23 Jun 2026 — angus.gov.uk\nscotlands widest high street ancient 37316029 — Fri, 19 Jun 2026 — scottishdailyexpress.co.uk\nmontrose port project allocated funding under reshaped tay cities programme 8749599 — Fri, 19 Jun 2026 — anguscountyworld.co.uk",
@@ -6229,294 +6517,6 @@
       "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://bharatfast.com/english/brand-post/t-krishna-goud-the-driving-force-behind-eaglespeed-overseas-logistics-rising-success/33274/\" target=\"_blank\" rel=\"noopener noreferrer\">Nelson Offshore News Update</a> — Thu, 25 Jun 2026 — bharatfast.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://briefglance.com/articles/deepwater-dominance-baker-hughes-anchors-angolas-51b-energy-future\" target=\"_blank\" rel=\"noopener noreferrer\">deepwater dominance baker hughes anchors angolas 51b energy future</a> — Thu, 25 Jun 2026 — briefglance.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.abc.net.au/news/2026-06-25/john-stinker-clarke-fisherman-rescued-fingal-bay/106841080\" target=\"_blank\" rel=\"noopener noreferrer\">Nelson Offshore News Update</a> — Thu, 25 Jun 2026 — abc.net.au <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://bharatfast.com/english/brand-post/t-krishna-goud-the-driving-force-behind-eaglespeed-overseas-logistics-rising-success/33274/\" target=\"_blank\" rel=\"noopener noreferrer\">Nelson Offshore News Update</a> — Thu, 25 Jun 2026 — bharatfast.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://briefglance.com/articles/deepwater-dominance-baker-hughes-anchors-angolas-51b-energy-future\" target=\"_blank\" rel=\"noopener noreferrer\">deepwater dominance baker hughes anchors angolas 51b energy future</a> — Thu, 25 Jun 2026 — briefglance.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.abc.net.au/news/2026-06-25/john-stinker-clarke-fisherman-rescued-fingal-bay/106841080\" target=\"_blank\" rel=\"noopener noreferrer\">Nelson Offshore News Update</a> — Thu, 25 Jun 2026 — abc.net.au <span class=\"news-category\">Operations</span></li></ul></div>"
-    },
-    {
-      "assetRefId": "uk0975",
-      "assetName": "Buzzard Production Platform",
-      "siteSlug": "uk0975",
-      "sourceAssetRefIds": [
-        "PLAT-0062"
-      ],
-      "sourceAssetNames": [
-        "Buzzard Production Platform"
-      ],
-      "totalNewsCount": 3,
-      "latestNewsCount": 3,
-      "olderCount": 0,
-      "archiveCount": 0,
-      "items": [
-        {
-          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
-          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
-          "sourceName": "energyvoice.com",
-          "publishedDate": "Thu, 02 Jul 2026",
-          "sortDate": "2026-07-02T08:27:46+00:00",
-          "articleId": "NEWS-000765",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Production",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0062",
-          "sourceAssetName": "Buzzard Production Platform"
-        },
-        {
-          "title": "ABB modernizes the automation of the Buzzard platform",
-          "url": "https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/",
-          "sourceName": "inspenet.com",
-          "publishedDate": "Mon, 22 Jun 2026",
-          "sortDate": "2026-06-22T08:02:57+00:00",
-          "articleId": "NEWS-000103",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Operations",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0062",
-          "sourceAssetName": "Buzzard Production Platform"
-        },
-        {
-          "title": "Buzzard platform drives a new phase of automation",
-          "url": "https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/",
-          "sourceName": "inspenet.com",
-          "publishedDate": "Sun, 21 Jun 2026",
-          "sortDate": "2026-06-21T08:05:03+00:00",
-          "articleId": "NEWS-000055",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Operations",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0062",
-          "sourceAssetName": "Buzzard Production Platform"
-        }
-      ],
-      "latestNewsText": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production — Thu, 02 Jul 2026 — energyvoice.com\nABB modernizes the automation of the Buzzard platform — Mon, 22 Jun 2026 — inspenet.com\nBuzzard platform drives a new phase of automation — Sun, 21 Jun 2026 — inspenet.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>"
-    },
-    {
-      "assetRefId": "uk0976",
-      "assetName": "Buzzard Utilities Platform",
-      "siteSlug": "uk0976",
-      "sourceAssetRefIds": [
-        "PLAT-0064"
-      ],
-      "sourceAssetNames": [
-        "Buzzard Utilities Platform"
-      ],
-      "totalNewsCount": 3,
-      "latestNewsCount": 3,
-      "olderCount": 0,
-      "archiveCount": 0,
-      "items": [
-        {
-          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
-          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
-          "sourceName": "energyvoice.com",
-          "publishedDate": "Thu, 02 Jul 2026",
-          "sortDate": "2026-07-02T08:27:46+00:00",
-          "articleId": "NEWS-000765",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Production",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0064",
-          "sourceAssetName": "Buzzard Utilities Platform"
-        },
-        {
-          "title": "ABB modernizes the automation of the Buzzard platform",
-          "url": "https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/",
-          "sourceName": "inspenet.com",
-          "publishedDate": "Mon, 22 Jun 2026",
-          "sortDate": "2026-06-22T08:02:57+00:00",
-          "articleId": "NEWS-000103",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Operations",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0064",
-          "sourceAssetName": "Buzzard Utilities Platform"
-        },
-        {
-          "title": "Buzzard platform drives a new phase of automation",
-          "url": "https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/",
-          "sourceName": "inspenet.com",
-          "publishedDate": "Sun, 21 Jun 2026",
-          "sortDate": "2026-06-21T08:05:03+00:00",
-          "articleId": "NEWS-000055",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Operations",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0064",
-          "sourceAssetName": "Buzzard Utilities Platform"
-        }
-      ],
-      "latestNewsText": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production — Thu, 02 Jul 2026 — energyvoice.com\nABB modernizes the automation of the Buzzard platform — Mon, 22 Jun 2026 — inspenet.com\nBuzzard platform drives a new phase of automation — Sun, 21 Jun 2026 — inspenet.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>"
-    },
-    {
-      "assetRefId": "uk0977",
-      "assetName": "Buzzard Wellhead Platform",
-      "siteSlug": "uk0977",
-      "sourceAssetRefIds": [
-        "PLAT-0065"
-      ],
-      "sourceAssetNames": [
-        "Buzzard Wellhead Platform"
-      ],
-      "totalNewsCount": 3,
-      "latestNewsCount": 3,
-      "olderCount": 0,
-      "archiveCount": 0,
-      "items": [
-        {
-          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
-          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
-          "sourceName": "energyvoice.com",
-          "publishedDate": "Thu, 02 Jul 2026",
-          "sortDate": "2026-07-02T08:27:46+00:00",
-          "articleId": "NEWS-000765",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Production",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0065",
-          "sourceAssetName": "Buzzard Wellhead Platform"
-        },
-        {
-          "title": "ABB modernizes the automation of the Buzzard platform",
-          "url": "https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/",
-          "sourceName": "inspenet.com",
-          "publishedDate": "Mon, 22 Jun 2026",
-          "sortDate": "2026-06-22T08:02:57+00:00",
-          "articleId": "NEWS-000103",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Operations",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0065",
-          "sourceAssetName": "Buzzard Wellhead Platform"
-        },
-        {
-          "title": "Buzzard platform drives a new phase of automation",
-          "url": "https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/",
-          "sourceName": "inspenet.com",
-          "publishedDate": "Sun, 21 Jun 2026",
-          "sortDate": "2026-06-21T08:05:03+00:00",
-          "articleId": "NEWS-000055",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Operations",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0065",
-          "sourceAssetName": "Buzzard Wellhead Platform"
-        }
-      ],
-      "latestNewsText": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production — Thu, 02 Jul 2026 — energyvoice.com\nABB modernizes the automation of the Buzzard platform — Mon, 22 Jun 2026 — inspenet.com\nBuzzard platform drives a new phase of automation — Sun, 21 Jun 2026 — inspenet.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>"
-    },
-    {
-      "assetRefId": "uk1083",
-      "assetName": "Buzzard Sweetening Platform",
-      "siteSlug": "uk1083",
-      "sourceAssetRefIds": [
-        "PLAT-0063"
-      ],
-      "sourceAssetNames": [
-        "Buzzard Sweetening Platform"
-      ],
-      "totalNewsCount": 3,
-      "latestNewsCount": 3,
-      "olderCount": 0,
-      "archiveCount": 0,
-      "items": [
-        {
-          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
-          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
-          "sourceName": "energyvoice.com",
-          "publishedDate": "Thu, 02 Jul 2026",
-          "sortDate": "2026-07-02T08:27:46+00:00",
-          "articleId": "NEWS-000765",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Production",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0063",
-          "sourceAssetName": "Buzzard Sweetening Platform"
-        },
-        {
-          "title": "ABB modernizes the automation of the Buzzard platform",
-          "url": "https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/",
-          "sourceName": "inspenet.com",
-          "publishedDate": "Mon, 22 Jun 2026",
-          "sortDate": "2026-06-22T08:02:57+00:00",
-          "articleId": "NEWS-000103",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Operations",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0063",
-          "sourceAssetName": "Buzzard Sweetening Platform"
-        },
-        {
-          "title": "Buzzard platform drives a new phase of automation",
-          "url": "https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/",
-          "sourceName": "inspenet.com",
-          "publishedDate": "Sun, 21 Jun 2026",
-          "sortDate": "2026-06-21T08:05:03+00:00",
-          "articleId": "NEWS-000055",
-          "relationshipType": "Field-Level",
-          "categoryLabel": "Operations",
-          "isFeatured": "True",
-          "isArchived": "False",
-          "archiveGroup": "",
-          "displaySection": "Latest",
-          "linkStatus": "Active",
-          "sourceAssetRefId": "PLAT-0063",
-          "sourceAssetName": "Buzzard Sweetening Platform"
-        }
-      ],
-      "latestNewsText": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production — Thu, 02 Jul 2026 — energyvoice.com\nABB modernizes the automation of the Buzzard platform — Mon, 22 Jun 2026 — inspenet.com\nBuzzard platform drives a new phase of automation — Sun, 21 Jun 2026 — inspenet.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> — Thu, 02 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://inspenet.com/en/news/abb-modernizes-automation-buzzard-platfor/\" target=\"_blank\" rel=\"noopener noreferrer\">ABB modernizes the automation of the Buzzard platform</a> — Mon, 22 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://inspenet.com/en/inspenet-tv/buzzard-platform-in-the-north-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Buzzard platform drives a new phase of automation</a> — Sun, 21 Jun 2026 — inspenet.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "uk1166",
