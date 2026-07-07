@@ -163,7 +163,12 @@ def choose_source(source_arg: Optional[str]) -> Path:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--source", help="CSV/JSON export from Wix CMS `platforms` collection")
-    ap.add_argument("--output", default=str(DEFAULT_OUTPUT), help="Output static map data JSON")
+    ap.add_argument("--output", default=str(DEFAULT_OUTPUT), help="Output compact GitHub/static map data JSON")
+    ap.add_argument(
+        "--wix-feed-output",
+        default="/home/zac/rigoil/00 ALL DATA/09_website_wix/website_assets/platforms.json",
+        help="Optional Vercel/Wix feeder compatibility JSON path; pass empty string to skip",
+    )
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
@@ -213,8 +218,42 @@ def main() -> int:
         backup_path = output.with_name(f"{output.stem}_BACKUP_{stamp}{output.suffix}")
         shutil.copy2(output, backup_path)
 
+    wix_feed_path = Path(args.wix_feed_output).expanduser().resolve() if args.wix_feed_output else None
+    wix_feed_backup = None
+    wix_feed_payload = None
+    if wix_feed_path:
+        wix_feed_payload = {
+            "generatedAt": payload["generatedAt"],
+            "source": "RigOil CMS static map export",
+            "count": len(exported),
+            "platforms": [
+                {
+                    "name": p.get("n", ""),
+                    "latitude": p.get("lat"),
+                    "longitude": p.get("lng"),
+                    "routeSlug": p.get("slug", ""),
+                    "slug": p.get("slug", ""),
+                    "photo": p.get("img", ""),
+                    "image": p.get("img", ""),
+                    "fieldName": p.get("field", ""),
+                    "country": p.get("country", ""),
+                    "block": p.get("block", ""),
+                    "platformType": p.get("type", ""),
+                    "operator": p.get("operator", ""),
+                    "searchAliases": p.get("aliases", []),
+                }
+                for p in exported
+            ],
+        }
+        if wix_feed_path.exists() and not args.dry_run:
+            wix_feed_backup = wix_feed_path.with_name(f"{wix_feed_path.name}.bak-static-map-{now.strftime('%Y%m%dT%H%M%SZ')}")
+            shutil.copy2(wix_feed_path, wix_feed_backup)
+
     if not args.dry_run:
         output.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        if wix_feed_path and wix_feed_payload is not None:
+            wix_feed_path.parent.mkdir(parents=True, exist_ok=True)
+            wix_feed_path.write_text(json.dumps(wix_feed_payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
     log = {
         "status": "dry_run" if args.dry_run else "success",
@@ -230,6 +269,9 @@ def main() -> int:
         "missingSlugsOrUrls": missing_slugs,
         "duplicates": duplicates,
         "outputBytes": output.stat().st_size if output.exists() and not args.dry_run else None,
+        "wixFeedOutput": str(wix_feed_path) if wix_feed_path else None,
+        "wixFeedBackup": str(wix_feed_backup) if wix_feed_backup else None,
+        "wixFeedBytes": wix_feed_path.stat().st_size if wix_feed_path and wix_feed_path.exists() and not args.dry_run else None,
     }
     log_path = LOG_DIR / f"platform_map_data_export_{stamp}.json"
     if not args.dry_run:

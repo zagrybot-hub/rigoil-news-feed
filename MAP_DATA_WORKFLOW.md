@@ -17,6 +17,20 @@ From this directory:
 python3 scripts/export_platform_map_data.py
 ```
 
+This writes both:
+
+- `platform_map_data.json` for the standalone GitHub Pages map.
+- `/home/zac/rigoil/00 ALL DATA/09_website_wix/website_assets/platforms.json` as the lightweight Vercel/Wix-feeder compatibility file used by current live Wix custom code.
+
+Deploy the current live Wix feeder data:
+
+```bash
+cd "/home/zac/rigoil/00 ALL DATA/10_archive/original-root-leftovers-2026-05-28/public"
+cp "/home/zac/rigoil/00 ALL DATA/09_website_wix/website_assets/platforms.json" ./platforms.json
+set -a; . "/home/zac/01 All Tokens/01 Vercel_Token.env"; set +a
+npx vercel deploy --prod --yes --token "$VERCEL_TOKEN"
+```
+
 Default source priority:
 
 1. local mirror of Wix CMS/public platforms data: `/home/zac/rigoil/00 ALL DATA/09_website_wix/website_assets/platforms.json`
