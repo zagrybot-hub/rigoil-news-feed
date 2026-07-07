@@ -37,6 +37,27 @@ DEFAULT_SOURCE_CANDIDATES = [
 SITE_BASE = "https://bookbitemedia.wixsite.com/rigoil-zac"
 DETAIL_PATH = "/blank-3?slug="
 
+# CMS production chart data, loaded once from public__platforms.json
+CMS_PROD_CHART_MAP: Dict[str, str] = {}
+
+
+def load_cms_production_charts() -> None:
+    """Load productionChart field from CMS JSON for all platforms."""
+    global CMS_PROD_CHART_MAP
+    cms_path = Path("/home/zac/rigoil/00 ALL DATA/09_website_wix/website_assets/public__platforms.json")
+    if not cms_path.exists():
+        return
+    try:
+        cms = json.loads(cms_path.read_text(encoding="utf-8"))
+        ps = cms.get("platforms", cms) if isinstance(cms, dict) else cms
+        for p in ps:
+            if isinstance(p, dict) and p.get("productionChart"):
+                slug = (p.get("slug") or "").lower().strip()
+                if slug:
+                    CMS_PROD_CHART_MAP[slug] = str(p["productionChart"])
+    except Exception:
+        pass
+
 @dataclass
 class SkipRecord:
     name: str
@@ -194,6 +215,7 @@ def main() -> int:
     LOG_DIR.mkdir(parents=True, exist_ok=True)
 
     rows = load_rows(source)
+    load_cms_production_charts()
     exported: List[Dict[str, Any]] = []
     skipped: List[SkipRecord] = []
     seen: Dict[str, str] = {}
@@ -209,7 +231,11 @@ def main() -> int:
                 missing_slugs.append({"name": skip.name, "slug": skip.slug})
             continue
         assert rec is not None
-        key = rec.get("slug") or f"{rec['n']}:{rec['lat']}:{rec['lng']}"
+        # Enrich with production chart data from CMS JSON if available
+        slug = rec.get("slug", "")
+        if slug and slug in CMS_PROD_CHART_MAP:
+            rec["pc"] = CMS_PROD_CHART_MAP[slug]
+        key = slug or f"{rec['n']}:{rec['lat']}:{rec['lng']}"
         if key in seen:
             duplicates.append({"slug": key, "first": seen[key], "duplicate": rec["n"]})
             skipped.append(SkipRecord(name=rec["n"], slug=str(key), reason="duplicate slug/record"))
@@ -271,6 +297,7 @@ def main() -> int:
                     "newsGroup": p.get("news_group", ""),
                     "group": p.get("group", ""),
                     "fieldObj": p.get("field_obj", ""),
+                    "productionChart": p.get("pc", ""),
                 }
                 for p in exported
             ],
