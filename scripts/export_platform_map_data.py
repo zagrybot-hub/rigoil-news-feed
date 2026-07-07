@@ -27,10 +27,10 @@ DEFAULT_OUTPUT = ROOT / "platform_map_data.json"
 LOG_DIR = ROOT / "logs"
 
 DEFAULT_SOURCE_CANDIDATES = [
-    # Preferred local mirror of Wix CMS `platforms` collection / public platform payload.
+    # Authoritative master CSV with curated platform names, photos, layout links.
+    Path("/home/zac/rigoil/00 ALL DATA/02_processed_data/master_spreadsheets/rigoil-platforms-master-review-v1.0-2026-05-28.csv"),
     Path("/home/zac/rigoil/00 ALL DATA/09_website_wix/website_assets/platforms.json"),
     Path("/home/zac/rigoil/00 ALL DATA/09_website_wix/website_assets/public__platforms.json"),
-    # Older named live export fallback.
     Path("/home/zac/rigoil/00 ALL DATA/09_website_wix/wix_exports/platform_name_update_2026-07-04/exports__wix-live-export__platforms_import1_live_export__names_from_master.csv"),
 ]
 
@@ -95,7 +95,7 @@ def load_rows(path: Path) -> List[Dict[str, Any]]:
         if not isinstance(data, list):
             raise ValueError(f"JSON source is not a list: {path}")
         return [x for x in data if isinstance(x, dict)]
-    with path.open("r", encoding="utf-8-sig", newline="") as f:
+    with path.open("r", encoding="utf-8-sig", errors="replace", newline="") as f:
         return list(csv.DictReader(f))
 
 
@@ -126,12 +126,14 @@ def normalize(row: Dict[str, Any]) -> Tuple[Optional[Dict[str, Any]], Optional[S
     asset_type = first(row, "Platform type", "assetType", "type", "Category", "category")
     operator = first(row, "Operator", "operator")
     aliases = split_aliases(first(row, "aliases", "Aliases", "alternativeNames", "Alternative Names"))
+    layout = first(row, "layout", "Layout")
 
     rec = {
         "n": name,
         "lat": round(lat, 7),
         "lng": round(lng, 7),
         "img": image,
+        "ly": layout,
         "slug": slug,
         "url": f"{SITE_BASE}{DETAIL_PATH}{slug}",
         "a": aliases,
@@ -235,6 +237,7 @@ def main() -> int:
                     "slug": p.get("slug", ""),
                     "photo": p.get("img", ""),
                     "image": p.get("img", ""),
+                    "layout": p.get("ly", ""),
                     "fieldName": p.get("field", ""),
                     "country": p.get("country", ""),
                     "block": p.get("block", ""),

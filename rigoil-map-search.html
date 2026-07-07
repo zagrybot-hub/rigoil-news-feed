@@ -42,8 +42,9 @@ function keyFor(loc){return norm(loc.routeSlug||loc.slug||(loc.title+'-'+loc.lat
 function openMarker(marker){
   var loc=marker.rigData||{};
   var img=loc.image?'<div class="image-wrapper"><span>Loading...</span><img loading="lazy" decoding="async" src="'+esc(loc.image)+'" onload="this.style.display=\'block\';this.previousElementSibling.style.display=\'none\'"></div>':'';
+  var layout=loc.layout?'<div class="image-wrapper"><span>Loading...</span><img loading="lazy" decoding="async" src="'+esc(loc.layout)+'" onload="this.style.display=\'block\';this.previousElementSibling.style.display=\'none\'"></div>':'';
   var link=String(loc.link||'').trim();
-  infoWindow.setContent('<div class="info-window"><strong>'+esc(loc.title)+'</strong>'+img+'<a class="button-link" href="#" onclick="window.parent.postMessage({type:\'navigate\',url:\''+link+'\'},\'*\');return false">Details</a></div>');
+  infoWindow.setContent('<div class="info-window"><strong>'+esc(loc.title)+'</strong>'+img+layout+'<a class="button-link" href="#" onclick="window.parent.postMessage({type:\'navigate\',url:\''+link+'\'},\'*\');return false">Details</a></div>');
   infoWindow.open(map,marker);
 }
 
@@ -130,6 +131,7 @@ function normalizeLocation(p){
     title:p.n||p.name||p.title||slug,
     operator:p.op||p.operator||'',
     image:p.img||p.photo||p.image||p.imageUrl||p.platformImage||p.assetImage||'',
+    layout:p.ly||p.layout||'',
     lat:lat,
     lng:lng,
     country:p.c||p.country||'',
