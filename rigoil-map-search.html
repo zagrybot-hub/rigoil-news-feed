@@ -27,10 +27,11 @@ html,body{height:100%;width:100%;margin:0;padding:0;font-family:Arial,sans-serif
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC5D1c5JKOPnfJCIZ9_9_1pXE0jljfMc28"></script>
 </head>
 <body>
-<div id="mapSearch" class="map-search"><div class="search-row"><input id="platformSearch" type="search" placeholder="Search platform, field, operator, country, block..." autocomplete="off" /><button id="platformSearchButton" type="button">Search</button></div><div id="platformSuggestions" class="suggestions" hidden></div><div id="platformSearchStatus" class="search-status" aria-live="polite">Loading map...</div></div>
+<div id="mapSearch" class="map-search"><div class="search-row"><input id="platformSearch" type="search" placeholder="Search platform, field, country, block..." autocomplete="off" /><button id="platformSearchButton" type="button">Search</button></div><div id="platformSuggestions" class="suggestions" hidden></div><div id="platformSearchStatus" class="search-status" aria-live="polite">Loading map...</div></div>
 <div id="map"></div>
 <script>
 let map,infoWindow,markers=[],overlays=[],markerByKey={},searchIndex=[],activeSuggestionIndex=-1,currentSuggestions=[];
+const MAP_DATA_URL='platform_map_data.json';
 const grayStyle=[{elementType:'geometry',stylers:[{color:'#f5f5f5'}]},{elementType:'labels.icon',stylers:[{visibility:'off'}]},{elementType:'labels.text.fill',stylers:[{color:'#616161'}]},{elementType:'labels.text.stroke',stylers:[{color:'#f5f5f5'}]},{featureType:'water',elementType:'geometry',stylers:[{color:'#cbd5e1'}]}];
 
 function esc(s){return String(s||'').replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
@@ -40,9 +41,9 @@ function keyFor(loc){return norm(loc.routeSlug||loc.slug||(loc.title+'-'+loc.lat
 
 function openMarker(marker){
   var loc=marker.rigData||{};
-  var img=loc.image?'<div class="image-wrapper"><span>Loading...</span><img src="'+esc(loc.image)+'" onload="this.style.display=\'block\';this.previousElementSibling.style.display=\'none\'"></div>':'';
+  var img=loc.image?'<div class="image-wrapper"><span>Loading...</span><img loading="lazy" decoding="async" src="'+esc(loc.image)+'" onload="this.style.display=\'block\';this.previousElementSibling.style.display=\'none\'"></div>':'';
   var link=String(loc.link||'').trim();
-  infoWindow.setContent('<div class="info-window"><strong>'+esc(loc.title)+'</strong><br><span style="font-size:12px">'+esc(loc.operator||'')+'</span>'+img+'<a class="button-link" href="#" onclick="window.parent.postMessage({type:\'navigate\',url:\''+link+'\'},\'*\');return false">Details</a></div>');
+  infoWindow.setContent('<div class="info-window"><strong>'+esc(loc.title)+'</strong>'+img+'<a class="button-link" href="#" onclick="window.parent.postMessage({type:\'navigate\',url:\''+link+'\'},\'*\');return false">Details</a></div>');
   infoWindow.open(map,marker);
 }
 
@@ -52,7 +53,7 @@ function buildSearch(locs){
     var loc=marker.rigData||{},key=keyFor(loc);
     markerByKey[key]=marker;
     var fields=[loc.title,loc.operator,loc.field,loc.fieldGroup,loc.country,loc.block,loc.assetType,loc.slug,loc.routeSlug].concat(arr(loc.aliases),arr(loc.similar));
-    searchIndex.push({key:key,marker:marker,loc:loc,text:norm(fields.join(' ')),title:norm(loc.title),aliases:arr(loc.aliases).map(norm),field:norm((loc.field||'')+' '+(loc.fieldGroup||'')),meta:norm([loc.operator,loc.country,loc.block,loc.assetType].join(' '))});
+    searchIndex.push({key:key,marker:marker,loc:loc,text:norm(fields.join(' ')),title:norm(loc.title),aliases:arr(loc.aliases).map(norm),field:norm((loc.field||'')+' '+(loc.fieldGroup||'')),meta:norm([loc.country,loc.block,loc.assetType].join(' '))});
   });
 }
 
@@ -72,7 +73,7 @@ function renderSuggestions(list){
   var box=document.getElementById('platformSuggestions');
   currentSuggestions=list;activeSuggestionIndex=-1;
   if(!list.length){box.hidden=true;return}
-  box.innerHTML=list.map(function(r,i){return'<div class="suggestion" data-i="'+i+'"><div class="suggestion-title">'+esc(r.loc.title)+'</div><div class="suggestion-meta">'+esc([r.loc.operator,r.loc.country,r.loc.block].filter(Boolean).join(' — '))+'</div></div>'}).join('');
+  box.innerHTML=list.map(function(r,i){return'<div class="suggestion" data-i="'+i+'"><div class="suggestion-title">'+esc(r.loc.title)+'</div><div class="suggestion-meta">'+esc([r.loc.country,r.loc.block].filter(Boolean).join(' — '))+'</div></div>'}).join('');
   box.hidden=false;box.querySelectorAll('.suggestion').forEach(function(el){el.onclick=function(){selectPlatform(list[Number(el.dataset.i)])}});
 }
 
@@ -126,22 +127,22 @@ function normalizeLocation(p){
   if(!isFinite(lat)||!isFinite(lng))return null;
   var slug=String(p.routeSlug||p.slug||'').toLowerCase();
   return {
-    title:p.name||p.title||slug,
-    operator:p.operator||'',
-    image:p.photo||p.image||p.imageUrl||p.platformImage||p.assetImage||'',
+    title:p.n||p.name||p.title||slug,
+    operator:p.op||p.operator||'',
+    image:p.img||p.photo||p.image||p.imageUrl||p.platformImage||p.assetImage||'',
     lat:lat,
     lng:lng,
-    country:p.country||'',
-    block:p.block||p.blockLocation||'',
+    country:p.c||p.country||'',
+    block:p.b||p.block||p.blockLocation||'',
     field:p.field||'',
-    fieldGroup:p.fieldGroup||p.newsGroup||'',
-    assetType:p.assetType||p.type||'',
+    fieldGroup:p.fg||p.fieldGroup||p.newsGroup||'',
+    assetType:p.t||p.assetType||p.type||'',
     status:p.status||p.currentStatus||'',
     slug:p.slug||'',
     routeSlug:p.routeSlug||slug,
-    aliases:p.aliases||[],
+    aliases:p.a||p.aliases||[],
     similar:p.similar||[],
-    link:'https://bookbitemedia.wixsite.com/rigoil-zac/blank-3?slug='+encodeURIComponent(slug)
+    link:p.url||('https://bookbitemedia.wixsite.com/rigoil-zac/blank-3?slug='+encodeURIComponent(slug))
   };
 }
 
@@ -174,14 +175,14 @@ function initMap(locations){
     overlay.setMap(map);overlays.push(overlay);
   });
   buildSearch(locations);wireSearch();
-  setStatus(locations.length+' platforms loaded. Search by name, field, operator...');
+  setStatus(locations.length+' platforms loaded. Search by name, field, country or block.');
 }
 
-function loadCmsLocations(){
-  fetch('https://public-zagrybot.vercel.app/platforms.json',{cache:'no-store'})
+function loadStaticMapData(){
+  fetch(MAP_DATA_URL,{cache:'default'})
     .then(function(r){return r.json()})
     .then(function(j){initMap(j)})
-    .catch(function(e){setStatus('Map data failed to load');console.warn('RigOil map CMS load failed',e)});
+    .catch(function(e){setStatus('Map data failed to load');console.warn('RigOil static map data load failed',e)});
 }
 
 function doZoomTo(lat,lng){
@@ -195,7 +196,7 @@ window.onmessage=function(event){
   if(event.data&&(event.data.locations||event.data.platforms||event.data.data))initMap(event.data);
   if(event.data&&event.data.type==='zoomTo')doZoomTo(Number(event.data.lat),Number(event.data.lng));
 };
-if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',loadCmsLocations);else loadCmsLocations();
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',loadStaticMapData);else loadStaticMapData();
 </script>
 </body>
 </html>
