@@ -1,0 +1,465 @@
+{
+  "status": "success",
+  "exportedAt": "2026-07-07T06:16:17.998460+00:00",
+  "source": "/home/zac/rigoil/00 ALL DATA/09_website_wix/website_assets/public__platforms.json",
+  "output": "/home/zac/rigoil/00 ALL DATA/09_website_wix/news_intelligence/github_pages_repo/platform_map_data.json",
+  "backup": "/home/zac/rigoil/00 ALL DATA/09_website_wix/news_intelligence/github_pages_repo/platform_map_data_BACKUP_2026-07-07_06-16-17.json",
+  "cmsRecordsRead": 733,
+  "platformsExported": 727,
+  "platformsSkipped": 6,
+  "skipped": [
+    {
+      "name": "Brae A",
+      "slug": "uk0687",
+      "reason": "duplicate slug/record"
+    },
+    {
+      "name": "Leman AP",
+      "slug": "uk0587",
+      "reason": "duplicate slug/record"
+    },
+    {
+      "name": "Leman BP",
+      "slug": "uk0594",
+      "reason": "duplicate slug/record"
+    },
+    {
+      "name": "Leman CD",
+      "slug": "uk0598",
+      "reason": "duplicate slug/record"
+    },
+    {
+      "name": "Leman CP",
+      "slug": "uk0600",
+      "reason": "duplicate slug/record"
+    },
+    {
+      "name": "Leman G",
+      "slug": "uk0611",
+      "reason": "duplicate slug/record"
+    }
+  ],
+  "missingImages": [
+    {
+      "name": "Al Shaheen offshore complex",
+      "slug": "al-shaheen-offshore-complex"
+    },
+    {
+      "name": "Angel platform",
+      "slug": "angel-platform"
+    },
+    {
+      "name": "Dalia FPSO",
+      "slug": "dalia-fpso"
+    },
+    {
+      "name": "Egina FPSO",
+      "slug": "egina-fpso"
+    },
+    {
+      "name": "FPSO Cidade de Itaguaí",
+      "slug": "fpso-cidade-de-itagua"
+    },
+    {
+      "name": "Goodwyn A platform",
+      "slug": "goodwyn-a-platform"
+    },
+    {
+      "name": "Greater Plutonio FPSO",
+      "slug": "greater-plutonio-fpso"
+    },
+    {
+      "name": "Gumusut-Kakap semi-submersible",
+      "slug": "gumusut-kakap-semi-submersible"
+    },
+    {
+      "name": "Hebron platform",
+      "slug": "hebron-platform"
+    },
+    {
+      "name": "Hibernia platform",
+      "slug": "hibernia-platform"
+    },
+    {
+      "name": "Ichthys Explorer CPF",
+      "slug": "ichthys-explorer-cpf"
+    },
+    {
+      "name": "Kaombo Norte FPSO",
+      "slug": "kaombo-norte-fpso"
+    },
+    {
+      "name": "Kaombo Sul FPSO",
+      "slug": "kaombo-sul-fpso"
+    },
+    {
+      "name": "Malikai TLP",
+      "slug": "malikai-tlp"
+    },
+    {
+      "name": "Manifa offshore complex",
+      "slug": "manifa-offshore-complex"
+    },
+    {
+      "name": "North Rankin Complex",
+      "slug": "north-rankin-complex"
+    },
+    {
+      "name": "P-75 FPSO",
+      "slug": "p-75-fpso"
+    },
+    {
+      "name": "P-76 FPSO",
+      "slug": "p-76-fpso"
+    },
+    {
+      "name": "P-77 FPSO",
+      "slug": "p-77-fpso"
+    },
+    {
+      "name": "P-78 FPSO",
+      "slug": "p-78-fpso"
+    },
+    {
+      "name": "P-79 FPSO",
+      "slug": "p-79-fpso"
+    },
+    {
+      "name": "PFLNG Dua",
+      "slug": "pflng-dua"
+    },
+    {
+      "name": "PFLNG Satu",
+      "slug": "pflng-satu"
+    },
+    {
+      "name": "Prelude FLNG",
+      "slug": "prelude-flng"
+    },
+    {
+      "name": "Safaniya offshore complex",
+      "slug": "safaniya-offshore-complex"
+    },
+    {
+      "name": "SeaRose FPSO",
+      "slug": "searose-fpso"
+    },
+    {
+      "name": "Terra Nova FPSO",
+      "slug": "terra-nova-fpso"
+    },
+    {
+      "name": "Umm Shaif offshore complex",
+      "slug": "umm-shaif-offshore-complex"
+    },
+    {
+      "name": "Upper Zakum offshore complex",
+      "slug": "upper-zakum-offshore-complex"
+    },
+    {
+      "name": "Wheatstone platform",
+      "slug": "wheatstone-platform"
+    },
+    {
+      "name": "FPSO Kwame Nkrumah",
+      "slug": "fpso-kwame-nkrumah"
+    },
+    {
+      "name": "FPSO John Agyekum Kufuor",
+      "slug": "fpso-john-agyekum-kufuor"
+    },
+    {
+      "name": "FPSO John Evans Atta Mills",
+      "slug": "fpso-john-evans-atta-mills"
+    },
+    {
+      "name": "Girassol FPSO",
+      "slug": "girassol-fpso"
+    },
+    {
+      "name": "Pazflor FPSO",
+      "slug": "pazflor-fpso"
+    },
+    {
+      "name": "CLOV FPSO",
+      "slug": "clov-fpso"
+    },
+    {
+      "name": "Kizomba A FPSO",
+      "slug": "kizomba-a-fpso"
+    },
+    {
+      "name": "Kizomba B FPSO",
+      "slug": "kizomba-b-fpso"
+    },
+    {
+      "name": "Bonga FPSO",
+      "slug": "bonga-fpso"
+    },
+    {
+      "name": "Agbami FPSO",
+      "slug": "agbami-fpso"
+    },
+    {
+      "name": "Akpo FPSO",
+      "slug": "akpo-fpso"
+    },
+    {
+      "name": "Usan FPSO",
+      "slug": "usan-fpso"
+    },
+    {
+      "name": "Coral Sul FLNG",
+      "slug": "coral-sul-flng"
+    },
+    {
+      "name": "Zohr offshore production complex",
+      "slug": "zohr-offshore-production-complex"
+    },
+    {
+      "name": "Leviathan production platform",
+      "slug": "leviathan-production-platform"
+    },
+    {
+      "name": "Tamar production platform",
+      "slug": "tamar-production-platform"
+    },
+    {
+      "name": "Kikeh FPSO",
+      "slug": "kikeh-fpso"
+    },
+    {
+      "name": "Kebabangan platform",
+      "slug": "kebabangan-platform"
+    },
+    {
+      "name": "Arthit central processing platform",
+      "slug": "arthit-central-processing-platform"
+    },
+    {
+      "name": "Bongkot central processing platform",
+      "slug": "bongkot-central-processing-platform"
+    },
+    {
+      "name": "Bayu-Undan offshore complex",
+      "slug": "bayu-undan-offshore-complex"
+    },
+    {
+      "name": "Liwan 3-1 platform",
+      "slug": "liwan-3-1-platform"
+    },
+    {
+      "name": "Berkut platform",
+      "slug": "berkut-platform"
+    },
+    {
+      "name": "Molikpaq platform",
+      "slug": "molikpaq-platform"
+    },
+    {
+      "name": "Lun-A platform",
+      "slug": "lun-a-platform"
+    },
+    {
+      "name": "Central Azeri platform",
+      "slug": "central-azeri-platform"
+    },
+    {
+      "name": "Shah Deniz Bravo platform",
+      "slug": "shah-deniz-bravo-platform"
+    },
+    {
+      "name": "Liza Destiny FPSO",
+      "slug": "liza-destiny-fpso"
+    },
+    {
+      "name": "Liza Unity FPSO",
+      "slug": "liza-unity-fpso"
+    },
+    {
+      "name": "Prosperity FPSO",
+      "slug": "prosperity-fpso"
+    },
+    {
+      "name": "ONE GUYANA FPSO",
+      "slug": "one-guyana-fpso"
+    },
+    {
+      "name": "Nabarima FSO",
+      "slug": "nabarima-fso"
+    },
+    {
+      "name": "Bass Strait Marlin platform",
+      "slug": "bass-strait-marlin-platform"
+    },
+    {
+      "name": "Bass Strait Barracouta platform",
+      "slug": "bass-strait-barracouta-platform"
+    },
+    {
+      "name": "Glen Lyon FPSO",
+      "slug": "glen-lyon-fpso"
+    },
+    {
+      "name": "Schiehallion FPSO",
+      "slug": "schiehallion-fpso"
+    },
+    {
+      "name": "Safaniya offshore platforms",
+      "slug": "safaniya-offshore-platforms"
+    },
+    {
+      "name": "Marjan offshore platforms",
+      "slug": "marjan-offshore-platforms"
+    },
+    {
+      "name": "Zuluf offshore platforms",
+      "slug": "zuluf-offshore-platforms"
+    },
+    {
+      "name": "Berri offshore platforms",
+      "slug": "berri-offshore-platforms"
+    },
+    {
+      "name": "Hasbah offshore platform",
+      "slug": "hasbah-offshore-platform"
+    },
+    {
+      "name": "Tapis platform",
+      "slug": "tapis-platform"
+    },
+    {
+      "name": "Dulang platform",
+      "slug": "dulang-platform"
+    },
+    {
+      "name": "Bokor platform",
+      "slug": "bokor-platform"
+    },
+    {
+      "name": "Yadana production platform",
+      "slug": "yadana-production-platform"
+    },
+    {
+      "name": "Yetagun production platform",
+      "slug": "yetagun-production-platform"
+    },
+    {
+      "name": "Shwe platform",
+      "slug": "shwe-platform"
+    },
+    {
+      "name": "Hải Thạch platform",
+      "slug": "h-i-th-ch-platform"
+    },
+    {
+      "name": "Bạch Hổ central platform",
+      "slug": "b-ch-h-central-platform"
+    },
+    {
+      "name": "North Rankin B platform",
+      "slug": "north-rankin-b-platform"
+    },
+    {
+      "name": "Pyrenees FPSO",
+      "slug": "pyrenees-fpso"
+    },
+    {
+      "name": "Vincent FPSO",
+      "slug": "vincent-fpso"
+    },
+    {
+      "name": "P-66 FPSO",
+      "slug": "p-66-fpso"
+    },
+    {
+      "name": "P-67 FPSO",
+      "slug": "p-67-fpso"
+    },
+    {
+      "name": "P-68 FPSO",
+      "slug": "p-68-fpso"
+    },
+    {
+      "name": "P-69 FPSO",
+      "slug": "p-69-fpso"
+    },
+    {
+      "name": "P-70 FPSO",
+      "slug": "p-70-fpso"
+    },
+    {
+      "name": "P-71 FPSO",
+      "slug": "p-71-fpso"
+    },
+    {
+      "name": "FPSO Guanabara",
+      "slug": "fpso-guanabara"
+    },
+    {
+      "name": "FPSO Almirante Barroso",
+      "slug": "fpso-almirante-barroso"
+    },
+    {
+      "name": "FPSO Dalia",
+      "slug": "fpso-dalia"
+    },
+    {
+      "name": "FPSO N’Goma",
+      "slug": "fpso-n-goma"
+    },
+    {
+      "name": "FPSO Armada Olombendo",
+      "slug": "fpso-armada-olombendo"
+    },
+    {
+      "name": "FPSO Xikomba",
+      "slug": "fpso-xikomba"
+    },
+    {
+      "name": "Zafiro Producer FPSO",
+      "slug": "zafiro-producer-fpso"
+    },
+    {
+      "name": "Ceiba FPSO",
+      "slug": "ceiba-fpso"
+    }
+  ],
+  "missingSlugsOrUrls": [],
+  "duplicates": [
+    {
+      "slug": "uk0687",
+      "first": "Brae A",
+      "duplicate": "Brae A"
+    },
+    {
+      "slug": "uk0587",
+      "first": "Leman AP",
+      "duplicate": "Leman AP"
+    },
+    {
+      "slug": "uk0594",
+      "first": "Leman BP",
+      "duplicate": "Leman BP"
+    },
+    {
+      "slug": "uk0598",
+      "first": "Leman CD",
+      "duplicate": "Leman CD"
+    },
+    {
+      "slug": "uk0600",
+      "first": "Leman CP",
+      "duplicate": "Leman CP"
+    },
+    {
+      "slug": "uk0611",
+      "first": "Leman G",
+      "duplicate": "Leman G"
+    }
+  ],
+  "outputBytes": 205715,
+  "wixFeedOutput": "/home/zac/rigoil/00 ALL DATA/09_website_wix/website_assets/platforms.json",
+  "wixFeedBackup": "/home/zac/rigoil/00 ALL DATA/09_website_wix/website_assets/platforms.json.bak-static-map-20260707T061617Z",
+  "wixFeedBytes": 257433
+}
