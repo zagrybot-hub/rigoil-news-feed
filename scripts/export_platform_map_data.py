@@ -121,7 +121,7 @@ def normalize(row: Dict[str, Any]) -> Tuple[Optional[Dict[str, Any]], Optional[S
     country = first(row, "Country", "country")
     block = first(row, "Location (blocks)", "blockLocation", "Block", "block", "location")
     # Keep map payload small: use only compact field/group fields, not long CMS rich-text `Field` descriptions.
-    field = first(row, "Field name", "fieldName", case_insensitive=False)
+    field = first(row, "Field name", "fieldName", "Field", "field", case_insensitive=False)
     field_group = first(row, "Field group", "fieldGroup", "assetGroup", "newsGroup", case_insensitive=False)
     asset_type = first(row, "Platform type", "assetType", "type", "Category", "category")
     operator = first(row, "Operator", "operator")
@@ -143,6 +143,19 @@ def normalize(row: Dict[str, Any]) -> Tuple[Optional[Dict[str, Any]], Optional[S
         "b": block,
         "t": asset_type,
         "op": operator,
+        "st": first(row, "status", "Current Status", "Status"),
+        "intro": first(row, "intro", "Intro"),
+        "rm": first(row, "remarks", "Remarks"),
+        "fac": first(row, "facilities", "Facilities"),
+        "news": first(row, "news", "News"),
+        "prod": first(row, "primaryProduction", "Primary production", "primaryProduction", "Production"),
+        "water": first(row, "waterDepth", "Water Depth", "Water Depth (m)"),
+        "cat": first(row, "category", "Category"),
+        "fn": first(row, "function", "Function"),
+        "ops": first(row, "operationsStart", "Operations start"),
+        "field_obj": first(row, "fieldObj", "fieldObj"),
+        "news_group": first(row, "newsGroup", "newsGroup", "Field group", "fieldGroup"),
+        "group": first(row, "group", "Group"),
     }
     # drop empty optional keys, keep compact payload
     rec = {k: v for k, v in rec.items() if v not in ("", [], None)}
@@ -239,11 +252,25 @@ def main() -> int:
                     "image": p.get("img", ""),
                     "layout": p.get("ly", ""),
                     "fieldName": p.get("field", ""),
-                    "country": p.get("country", ""),
-                    "block": p.get("block", ""),
-                    "platformType": p.get("type", ""),
-                    "operator": p.get("operator", ""),
-                    "searchAliases": p.get("aliases", []),
+                    "country": p.get("c", ""),
+                    "block": p.get("b", ""),
+                    "platformType": p.get("t", ""),
+                    "operator": p.get("op", ""),
+                    "status": p.get("st", ""),
+                    "intro": p.get("intro", ""),
+                    "remarks": p.get("rm", ""),
+                    "facilities": p.get("fac", ""),
+                    "news": p.get("news", ""),
+                    "primaryProduction": p.get("prod", ""),
+                    "waterDepth": p.get("water", ""),
+                    "category": p.get("cat", ""),
+                    "function": p.get("fn", ""),
+                    "operationsStart": p.get("ops", ""),
+                    "searchAliases": p.get("a", []),
+                    "fieldGroup": p.get("fg", ""),
+                    "newsGroup": p.get("news_group", ""),
+                    "group": p.get("group", ""),
+                    "fieldObj": p.get("field_obj", ""),
                 }
                 for p in exported
             ],
