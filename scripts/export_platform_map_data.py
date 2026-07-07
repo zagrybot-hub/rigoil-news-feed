@@ -215,7 +215,6 @@ def main() -> int:
     LOG_DIR.mkdir(parents=True, exist_ok=True)
 
     rows = load_rows(source)
-    load_cms_production_charts()
     exported: List[Dict[str, Any]] = []
     skipped: List[SkipRecord] = []
     seen: Dict[str, str] = {}
@@ -233,8 +232,6 @@ def main() -> int:
         assert rec is not None
         # Enrich with production chart data from CMS JSON if available
         slug = rec.get("slug", "")
-        if slug and slug in CMS_PROD_CHART_MAP:
-            rec["pc"] = CMS_PROD_CHART_MAP[slug]
         key = slug or f"{rec['n']}:{rec['lat']}:{rec['lng']}"
         if key in seen:
             duplicates.append({"slug": key, "first": seen[key], "duplicate": rec["n"]})
@@ -297,7 +294,6 @@ def main() -> int:
                     "newsGroup": p.get("news_group", ""),
                     "group": p.get("group", ""),
                     "fieldObj": p.get("field_obj", ""),
-                    "productionChart": p.get("pc", ""),
                 }
                 for p in exported
             ],
