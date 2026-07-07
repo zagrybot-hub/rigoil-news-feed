@@ -1,0 +1,251 @@
+{
+  "status": "success",
+  "exportedAt": "2026-07-07T07:10:50.434961+00:00",
+  "source": "/home/zac/rigoil/00 ALL DATA/02_processed_data/master_spreadsheets/rigoil-platforms-master-review-v1.0-2026-05-28.csv",
+  "output": "/home/zac/rigoil/00 ALL DATA/09_website_wix/news_intelligence/github_pages_repo/platform_map_data.json",
+  "backup": "/home/zac/rigoil/00 ALL DATA/09_website_wix/news_intelligence/github_pages_repo/platform_map_data_BACKUP_2026-07-07_07-10-50.json",
+  "cmsRecordsRead": 727,
+  "platformsExported": 727,
+  "platformsSkipped": 0,
+  "skipped": [],
+  "missingImages": [
+    {
+      "name": "John Evans Atta Mills FPSO",
+      "slug": "fpso-john-evans-atta-mills"
+    },
+    {
+      "name": "Girassol FPSO",
+      "slug": "girassol-fpso"
+    },
+    {
+      "name": "Pazflor FPSO",
+      "slug": "pazflor-fpso"
+    },
+    {
+      "name": "CLOV FPSO",
+      "slug": "clov-fpso"
+    },
+    {
+      "name": "Kizomba A FPSO",
+      "slug": "kizomba-a-fpso"
+    },
+    {
+      "name": "Kizomba B FPSO",
+      "slug": "kizomba-b-fpso"
+    },
+    {
+      "name": "Bonga FPSO",
+      "slug": "bonga-fpso"
+    },
+    {
+      "name": "Agbami FPSO",
+      "slug": "agbami-fpso"
+    },
+    {
+      "name": "Akpo FPSO",
+      "slug": "akpo-fpso"
+    },
+    {
+      "name": "Usan FPSO",
+      "slug": "usan-fpso"
+    },
+    {
+      "name": "Coral Sul FLNG",
+      "slug": "coral-sul-flng"
+    },
+    {
+      "name": "Zohr",
+      "slug": "zohr-offshore-production-complex"
+    },
+    {
+      "name": "Leviathan",
+      "slug": "leviathan-production-platform"
+    },
+    {
+      "name": "Tamar",
+      "slug": "tamar-production-platform"
+    },
+    {
+      "name": "Kikeh FPSO",
+      "slug": "kikeh-fpso"
+    },
+    {
+      "name": "Kebabangan",
+      "slug": "kebabangan-platform"
+    },
+    {
+      "name": "Arthit",
+      "slug": "arthit-central-processing-platform"
+    },
+    {
+      "name": "Bongkot",
+      "slug": "bongkot-central-processing-platform"
+    },
+    {
+      "name": "Bayu-Undan",
+      "slug": "bayu-undan-offshore-complex"
+    },
+    {
+      "name": "Liwan 3-1",
+      "slug": "liwan-3-1-platform"
+    },
+    {
+      "name": "Berkut",
+      "slug": "berkut-platform"
+    },
+    {
+      "name": "Molikpaq",
+      "slug": "molikpaq-platform"
+    },
+    {
+      "name": "Lun-A",
+      "slug": "lun-a-platform"
+    },
+    {
+      "name": "Central Azeri",
+      "slug": "central-azeri-platform"
+    },
+    {
+      "name": "Shah Deniz Bravo",
+      "slug": "shah-deniz-bravo-platform"
+    },
+    {
+      "name": "Liza Destiny FPSO",
+      "slug": "liza-destiny-fpso"
+    },
+    {
+      "name": "Liza Unity FPSO",
+      "slug": "liza-unity-fpso"
+    },
+    {
+      "name": "Prosperity FPSO",
+      "slug": "prosperity-fpso"
+    },
+    {
+      "name": "One Guyana FPSO",
+      "slug": "one-guyana-fpso"
+    },
+    {
+      "name": "Nabarima FSO",
+      "slug": "nabarima-fso"
+    },
+    {
+      "name": "Bass Strait Barracouta",
+      "slug": "bass-strait-barracouta-platform"
+    },
+    {
+      "name": "Marjan",
+      "slug": "marjan-offshore-platforms"
+    },
+    {
+      "name": "Zuluf",
+      "slug": "zuluf-offshore-platforms"
+    },
+    {
+      "name": "Berri",
+      "slug": "berri-offshore-platforms"
+    },
+    {
+      "name": "Hasbah",
+      "slug": "hasbah-offshore-platform"
+    },
+    {
+      "name": "Tapis",
+      "slug": "tapis-platform"
+    },
+    {
+      "name": "Dulang",
+      "slug": "dulang-platform"
+    },
+    {
+      "name": "Bokor",
+      "slug": "bokor-platform"
+    },
+    {
+      "name": "Yadana",
+      "slug": "yadana-production-platform"
+    },
+    {
+      "name": "Yetagun",
+      "slug": "yetagun-production-platform"
+    },
+    {
+      "name": "Shwe",
+      "slug": "shwe-platform"
+    },
+    {
+      "name": "Hai Thach",
+      "slug": "h-i-th-ch-platform"
+    },
+    {
+      "name": "Bach Ho",
+      "slug": "b-ch-h-central-platform"
+    },
+    {
+      "name": "Pyrenees FPSO",
+      "slug": "pyrenees-fpso"
+    },
+    {
+      "name": "Vincent FPSO",
+      "slug": "vincent-fpso"
+    },
+    {
+      "name": "P-66 FPSO",
+      "slug": "p-66-fpso"
+    },
+    {
+      "name": "P-67 FPSO",
+      "slug": "p-67-fpso"
+    },
+    {
+      "name": "P-68 FPSO",
+      "slug": "p-68-fpso"
+    },
+    {
+      "name": "P-69 FPSO",
+      "slug": "p-69-fpso"
+    },
+    {
+      "name": "P-70 FPSO",
+      "slug": "p-70-fpso"
+    },
+    {
+      "name": "P-71 FPSO",
+      "slug": "p-71-fpso"
+    },
+    {
+      "name": "Guanabara FPSO",
+      "slug": "fpso-guanabara"
+    },
+    {
+      "name": "Almirante Barroso FPSO",
+      "slug": "fpso-almirante-barroso"
+    },
+    {
+      "name": "N'Goma FPSO",
+      "slug": "fpso-n-goma"
+    },
+    {
+      "name": "Armada Olombendo FPSO",
+      "slug": "fpso-armada-olombendo"
+    },
+    {
+      "name": "Xikomba FPSO",
+      "slug": "fpso-xikomba"
+    },
+    {
+      "name": "Zafiro Producer FPSO",
+      "slug": "zafiro-producer-fpso"
+    },
+    {
+      "name": "Ceiba FPSO",
+      "slug": "ceiba-fpso"
+    }
+  ],
+  "missingSlugsOrUrls": [],
+  "duplicates": [],
+  "outputBytes": 268687,
+  "wixFeedOutput": "/home/zac/rigoil/00 ALL DATA/09_website_wix/website_assets/platforms.json",
+  "wixFeedBackup": "/home/zac/rigoil/00 ALL DATA/09_website_wix/website_assets/platforms.json.bak-static-map-20260707T071050Z",
+  "wixFeedBytes": 326431
+}
