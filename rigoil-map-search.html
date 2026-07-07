@@ -24,13 +24,13 @@ html,body{height:100%;width:100%;margin:0;padding:0;font-family:Arial,sans-serif
 .button-link:hover{background:#155ab6}
 @media(max-width:640px){.map-search{top:70px;left:8px;right:8px;max-width:none}.suggestion{padding:12px;font-size:14px}}
 </style>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC5D1c5JKOPnfJCIZ9_9_1pXE0jljfMc28"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=***
 </head>
 <body>
 <div id="mapSearch" class="map-search"><div class="search-row"><input id="platformSearch" type="search" placeholder="Search platform, field, country, block..." autocomplete="off" /><button id="platformSearchButton" type="button">Search</button></div><div id="platformSuggestions" class="suggestions" hidden></div><div id="platformSearchStatus" class="search-status" aria-live="polite">Loading map...</div></div>
 <div id="map"></div>
 <script>
-let map,infoWindow,markers=[],overlays=[],markerByKey={},searchIndex=[],activeSuggestionIndex=-1,currentSuggestions=[];
+let map,infoWindow,markers=[],overlays=[],markerByKey={},searchIndex=[],activeSuggestionIndex=-1,currentSuggestions=[],searchWired=false,lastMapSignature='';
 const MAP_DATA_URL='platform_map_data.json';
 const grayStyle=[{elementType:'geometry',stylers:[{color:'#f5f5f5'}]},{elementType:'labels.icon',stylers:[{visibility:'off'}]},{elementType:'labels.text.fill',stylers:[{color:'#616161'}]},{elementType:'labels.text.stroke',stylers:[{color:'#f5f5f5'}]},{featureType:'water',elementType:'geometry',stylers:[{color:'#cbd5e1'}]}];
 
@@ -93,6 +93,8 @@ function selectPlatform(result){
 }
 
 function wireSearch(){
+  if(searchWired)return;
+  searchWired=true;
   var input=document.getElementById('platformSearch'),btn=document.getElementById('platformSearchButton');
   input.oninput=function(){
     var list=search(input.value);
@@ -154,9 +156,14 @@ function normalizeLocations(payload){
   return arr.map(normalizeLocation).filter(Boolean);
 }
 
+function mapSignature(locations){return locations.length+'|'+locations.map(function(loc){return keyFor(loc)+':'+loc.lat+','+loc.lng}).sort().join('|')}
+
 function initMap(locations){
   locations=normalizeLocations(locations);
   if(!locations||!locations.length)return;
+  var sig=mapSignature(locations);
+  if(map&&markers.length&&sig===lastMapSignature)return;
+  lastMapSignature=sig;
   var isMobile=innerWidth<=768;
   if(!map){
     map=new google.maps.Map(document.getElementById('map'),{center:{lat:57.64,lng:-0.23},zoom:6,styles:grayStyle,gestureHandling:'greedy',mapTypeControl:!isMobile,fullscreenControl:!isMobile,streetViewControl:false});
@@ -202,3 +209,4 @@ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',
 </script>
 </body>
 </html>
+
