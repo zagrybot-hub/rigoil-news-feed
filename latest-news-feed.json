@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-08T08:46:56.082256+00:00",
+  "updatedAt": "2026-07-09T08:46:40.617513+00:00",
   "source": "rigoil-news-intelligence",
-  "assetCount": 77,
+  "assetCount": 90,
   "assets": [
     {
       "assetRefId": "1001",
@@ -419,6 +419,82 @@
       "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/politics/uks-likely-next-prime-minister-calls-to-safeguard-domestic-energy/2-1-2010941\" target=\"_blank\" rel=\"noopener noreferrer\">Front Runner Offshore News Update</a> Mon, 29 Jun 2026 — upstreamonline.com <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/politics/uks-likely-next-prime-minister-calls-to-safeguard-domestic-energy/2-1-2010941\" target=\"_blank\" rel=\"noopener noreferrer\">Front Runner Offshore News Update</a> Mon, 29 Jun 2026 — upstreamonline.com <span class=\"news-category\">Operations</span></li></ul></div>"
+    },
+    {
+      "assetRefId": "1665",
+      "assetName": "Constitution",
+      "siteSlug": "1665",
+      "sourceAssetRefIds": [
+        "PLAT-0574"
+      ],
+      "sourceAssetNames": [
+        "Constitution"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 1,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "ranking members huffman and heinrich lead call for investigation into trump admins plan to merge offshore energy agencies",
+          "url": "https://huffman.house.gov/media-center/press-releases/ranking-members-huffman-and-heinrich-lead-call-for-investigation-into-trump-admins-plan-to-merge-offshore-energy-agencies",
+          "sourceName": "huffman.house.gov",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-09T04:54:28+00:00",
+          "articleId": "NEWS-001215",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0574",
+          "sourceAssetName": "Constitution"
+        }
+      ],
+      "latestNewsText": "ranking members huffman and heinrich lead call for investigation into trump admins plan to merge offshore energy agencies Wed, 08 Jul 2026 — huffman.house.gov",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://huffman.house.gov/media-center/press-releases/ranking-members-huffman-and-heinrich-lead-call-for-investigation-into-trump-admins-plan-to-merge-offshore-energy-agencies\" target=\"_blank\" rel=\"noopener noreferrer\">ranking members huffman and heinrich lead call for investigation into trump admins plan to merge offshore energy agencies</a> Wed, 08 Jul 2026 — huffman.house.gov</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://huffman.house.gov/media-center/press-releases/ranking-members-huffman-and-heinrich-lead-call-for-investigation-into-trump-admins-plan-to-merge-offshore-energy-agencies\" target=\"_blank\" rel=\"noopener noreferrer\">ranking members huffman and heinrich lead call for investigation into trump admins plan to merge offshore energy agencies</a> Wed, 08 Jul 2026 — huffman.house.gov</li></ul></div>"
+    },
+    {
+      "assetRefId": "1766",
+      "assetName": "Independence",
+      "siteSlug": "1766",
+      "sourceAssetRefIds": [
+        "PLAT-0591"
+      ],
+      "sourceAssetNames": [
+        "Independence"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 1,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "541027 boem advances third us gulf lease sale",
+          "url": "https://www.oedigital.com/news/541027-boem-advances-third-us-gulf-lease-sale",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-09T04:15:50+00:00",
+          "articleId": "NEWS-001226",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "Ownership",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0591",
+          "sourceAssetName": "Independence"
+        }
+      ],
+      "latestNewsText": "541027 boem advances third us gulf lease sale Wed, 08 Jul 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/541027-boem-advances-third-us-gulf-lease-sale\" target=\"_blank\" rel=\"noopener noreferrer\">541027 boem advances third us gulf lease sale</a> Wed, 08 Jul 2026 — oedigital.com <span class=\"news-category\">Ownership</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/541027-boem-advances-third-us-gulf-lease-sale\" target=\"_blank\" rel=\"noopener noreferrer\">541027 boem advances third us gulf lease sale</a> Wed, 08 Jul 2026 — oedigital.com <span class=\"news-category\">Ownership</span></li></ul></div>"
     },
     {
       "assetRefId": "1819",
@@ -1555,6 +1631,99 @@
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://caliber.az/en/post/azerbaijan-s-offshore-giants-shah-deniz-and-acg-demand-new-technologies-bp\" target=\"_blank\" rel=\"noopener noreferrer\">azerbaijan s offshore giants shah deniz and acg demand new technologies bp</a> Mon, 06 Jul 2026 — caliber.az</li><li><a href=\"https://drillingcontractor.org/drilling-completion-news-83-78908\" target=\"_blank\" rel=\"noopener noreferrer\">Drilling Completion News 83</a> Mon, 06 Jul 2026 — drillingcontractor.org <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
+      "assetRefId": "PLAT-0803",
+      "assetName": "Pacassa platform",
+      "siteSlug": "PLAT-0803",
+      "sourceAssetRefIds": [
+        "PLAT-0803"
+      ],
+      "sourceAssetNames": [
+        "Pacassa platform"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "afentra targets 2027 start for kwanza basin drilling campaign 78986",
+          "url": "https://drillingcontractor.org/afentra-targets-2027-start-for-kwanza-basin-drilling-campaign-78986",
+          "sourceName": "drillingcontractor.org",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-09T06:00:15+00:00",
+          "articleId": "NEWS-001213",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Operations",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0803",
+          "sourceAssetName": "Pacassa platform"
+        }
+      ],
+      "latestNewsText": "afentra targets 2027 start for kwanza basin drilling campaign 78986 Wed, 08 Jul 2026 — drillingcontractor.org",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://drillingcontractor.org/afentra-targets-2027-start-for-kwanza-basin-drilling-campaign-78986\" target=\"_blank\" rel=\"noopener noreferrer\">afentra targets 2027 start for kwanza basin drilling campaign 78986</a> Wed, 08 Jul 2026 — drillingcontractor.org <span class=\"news-category\">Operations</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://drillingcontractor.org/afentra-targets-2027-start-for-kwanza-basin-drilling-campaign-78986\" target=\"_blank\" rel=\"noopener noreferrer\">afentra targets 2027 start for kwanza basin drilling campaign 78986</a> Wed, 08 Jul 2026 — drillingcontractor.org <span class=\"news-category\">Operations</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+    },
+    {
+      "assetRefId": "PLAT-0808",
+      "assetName": "Elgin wellhead platform",
+      "siteSlug": "PLAT-0808",
+      "sourceAssetRefIds": [
+        "PLAT-0808"
+      ],
+      "sourceAssetNames": [
+        "Elgin wellhead platform"
+      ],
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "Elgin Wellhead Platform Offshore News Update",
+          "url": "https://www.upstreamonline.com/people/neonext-issues-final-warning-as-workers-prepare-to-go-on-strike/2-1-2014728",
+          "sourceName": "upstreamonline.com",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:16:17+00:00",
+          "articleId": "NEWS-001201",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0808",
+          "sourceAssetName": "Elgin wellhead platform"
+        },
+        {
+          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
+          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
+          "sourceName": "energyvoice.com",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:16:17+00:00",
+          "articleId": "NEWS-000765",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0808",
+          "sourceAssetName": "Elgin wellhead platform"
+        }
+      ],
+      "latestNewsText": "Elgin Wellhead Platform Offshore News Update Thu, 09 Jul 2026 — upstreamonline.com\nCnooc North Sea Buzzard Golden Eagle Scott Results Production Thu, 09 Jul 2026 — energyvoice.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/people/neonext-issues-final-warning-as-workers-prepare-to-go-on-strike/2-1-2014728\" target=\"_blank\" rel=\"noopener noreferrer\">Elgin Wellhead Platform Offshore News Update</a> Thu, 09 Jul 2026 — upstreamonline.com</li><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Thu, 09 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/people/neonext-issues-final-warning-as-workers-prepare-to-go-on-strike/2-1-2014728\" target=\"_blank\" rel=\"noopener noreferrer\">Elgin Wellhead Platform Offshore News Update</a> Thu, 09 Jul 2026 — upstreamonline.com</li><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Thu, 09 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li></ul></div>"
+    },
+    {
       "assetRefId": "PLAT-0825",
       "assetName": "Zuluf expansion offshore platform package",
       "siteSlug": "PLAT-0825",
@@ -1826,6 +1995,44 @@
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://atmos.earth/political-landscapes/a-fight-over-offshore-drilling-in-a-seaside-town-gets-heated/\" target=\"_blank\" rel=\"noopener noreferrer\">A Fight Over Offshore Drilling in a Seaside Town Gets Heated</a> Thu, 25 Jun 2026 — atmos.earth <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
+      "assetRefId": "hebron-platform",
+      "assetName": "Hebron platform",
+      "siteSlug": "hebron-platform",
+      "sourceAssetRefIds": [
+        "PLAT-0646"
+      ],
+      "sourceAssetNames": [
+        "Hebron platform"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 1,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "Bp Eni Greenlight Crossblock Project Offshore Angola 23 Jun 2026 Article",
+          "url": "https://www.rigzone.com/news/bp_eni_greenlight_crossblock_project_offshore_angola-23-jun-2026-183973-article/",
+          "sourceName": "rigzone.com",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-09T04:08:57+00:00",
+          "articleId": "NEWS-000249",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0646",
+          "sourceAssetName": "Hebron platform"
+        }
+      ],
+      "latestNewsText": "Bp Eni Greenlight Crossblock Project Offshore Angola 23 Jun 2026 Article Wed, 08 Jul 2026 — rigzone.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.rigzone.com/news/bp_eni_greenlight_crossblock_project_offshore_angola-23-jun-2026-183973-article/\" target=\"_blank\" rel=\"noopener noreferrer\">Bp Eni Greenlight Crossblock Project Offshore Angola 23 Jun 2026 Article</a> Wed, 08 Jul 2026 — rigzone.com</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.rigzone.com/news/bp_eni_greenlight_crossblock_project_offshore_angola-23-jun-2026-183973-article/\" target=\"_blank\" rel=\"noopener noreferrer\">Bp Eni Greenlight Crossblock Project Offshore Angola 23 Jun 2026 Article</a> Wed, 08 Jul 2026 — rigzone.com</li></ul></div>"
+    },
+    {
       "assetRefId": "hibernia-platform",
       "assetName": "Hibernia platform",
       "siteSlug": "hibernia-platform",
@@ -1836,9 +2043,9 @@
         "Hibernia platform"
       ],
       "totalNewsCount": 8,
-      "latestNewsCount": 7,
+      "latestNewsCount": 8,
       "olderCount": 0,
-      "archiveCount": 1,
+      "archiveCount": 0,
       "items": [
         {
           "title": "op ed best investment canada ever made was one the private",
@@ -1849,10 +2056,10 @@
           "articleId": "NEWS-001165",
           "relationshipType": "Field-Level",
           "categoryLabel": "General",
-          "isFeatured": "False",
+          "isFeatured": "True",
           "isArchived": "False",
           "archiveGroup": "",
-          "displaySection": "Archive",
+          "displaySection": "Latest",
           "linkStatus": "Active",
           "sourceAssetRefId": "PLAT-0647",
           "sourceAssetName": "Hibernia platform"
@@ -1978,9 +2185,9 @@
         }
       ],
       "latestNewsText": "op ed best investment canada ever made was one the private Tue, 07 Jul 2026 — saltwire.com\nReport Hibernia Platform Spill Could Have Caused Serious Casualty Tue, 30 Jun 2026 — starconcord.com.sg\nInvestigation Continues After Hibernia Hydrocarbon Release Raises Explosion Risk Tue, 30 Jun 2026 — hazardexonthenet.net\ngas leak and crude spill intercepted on hibernia platform Mon, 29 Jun 2026 — ground.news\nHibernia Platform Offshore News Update Mon, 29 Jun 2026 — thesafetymag.com\nHibernia Platform Offshore News Update Mon, 29 Jun 2026 — upstreamonline.com\nNo Injuries But Hibernia Oil Spill Posed Threat of Deadly Blast and Fire Regulator Mon, 29 Jun 2026 — northeastnow.com\nreport hibernia platform spill could have caused serious casualty Mon, 29 Jun 2026 — maritime-executive.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://starconcord.com.sg/report-hibernia-platform-spill-could-have-caused-serious-casualty/\" target=\"_blank\" rel=\"noopener noreferrer\">Report Hibernia Platform Spill Could Have Caused Serious Casualty</a> Tue, 30 Jun 2026 — starconcord.com.sg <span class=\"news-category\">Incidents</span></li><li><a href=\"https://www.hazardexonthenet.net/article/222817/Investigation-continues-after-Hibernia-hydrocarbon-release-raises-explosion-risk.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Investigation Continues After Hibernia Hydrocarbon Release Raises Explosion Risk</a> Tue, 30 Jun 2026 — hazardexonthenet.net <span class=\"news-category\">Incidents</span></li><li><a href=\"https://ground.news/article/gas-leak-and-crude-spill-intercepted-on-hibernia-platform\" target=\"_blank\" rel=\"noopener noreferrer\">gas leak and crude spill intercepted on hibernia platform</a> Mon, 29 Jun 2026 — ground.news <span class=\"news-category\">Incidents</span></li><li><a href=\"https://www.thesafetymag.com/ca/topics/ohs-law-and-legislation/crude-breach-on-hibernia-platform-triggers-regulator-review/547660\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> Mon, 29 Jun 2026 — thesafetymag.com <span class=\"news-category\">Regulatory</span></li><li><a href=\"https://www.upstreamonline.com/safety/major-hydrocarbon-release-being-investigated-at-canada-platform/2-1-2010851\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> Mon, 29 Jun 2026 — upstreamonline.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://northeastnow.com/2026/06/28/no-injuries-but-hibernia-oil-spill-posed-threat-of-deadly-blast-and-fire-regulator/\" target=\"_blank\" rel=\"noopener noreferrer\">No Injuries But Hibernia Oil Spill Posed Threat of Deadly Blast and Fire Regulator</a> Mon, 29 Jun 2026 — northeastnow.com <span class=\"news-category\">Incidents</span></li><li><a href=\"https://maritime-executive.com/article/report-hibernia-platform-spill-could-have-caused-serious-casualty\" target=\"_blank\" rel=\"noopener noreferrer\">report hibernia platform spill could have caused serious casualty</a> Mon, 29 Jun 2026 — maritime-executive.com <span class=\"news-category\">Incidents</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.saltwire.com/newfoundland-labrador/op-ed-best-investment-canada-ever-made-was-one-the-private\" target=\"_blank\" rel=\"noopener noreferrer\">op ed best investment canada ever made was one the private</a> Tue, 07 Jul 2026 — saltwire.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
-      "hasArchive": true,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://starconcord.com.sg/report-hibernia-platform-spill-could-have-caused-serious-casualty/\" target=\"_blank\" rel=\"noopener noreferrer\">Report Hibernia Platform Spill Could Have Caused Serious Casualty</a> Tue, 30 Jun 2026 — starconcord.com.sg <span class=\"news-category\">Incidents</span></li><li><a href=\"https://www.hazardexonthenet.net/article/222817/Investigation-continues-after-Hibernia-hydrocarbon-release-raises-explosion-risk.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Investigation Continues After Hibernia Hydrocarbon Release Raises Explosion Risk</a> Tue, 30 Jun 2026 — hazardexonthenet.net <span class=\"news-category\">Incidents</span></li><li><a href=\"https://ground.news/article/gas-leak-and-crude-spill-intercepted-on-hibernia-platform\" target=\"_blank\" rel=\"noopener noreferrer\">gas leak and crude spill intercepted on hibernia platform</a> Mon, 29 Jun 2026 — ground.news <span class=\"news-category\">Incidents</span></li><li><a href=\"https://www.thesafetymag.com/ca/topics/ohs-law-and-legislation/crude-breach-on-hibernia-platform-triggers-regulator-review/547660\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> Mon, 29 Jun 2026 — thesafetymag.com <span class=\"news-category\">Regulatory</span></li><li><a href=\"https://www.upstreamonline.com/safety/major-hydrocarbon-release-being-investigated-at-canada-platform/2-1-2010851\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> Mon, 29 Jun 2026 — upstreamonline.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://northeastnow.com/2026/06/28/no-injuries-but-hibernia-oil-spill-posed-threat-of-deadly-blast-and-fire-regulator/\" target=\"_blank\" rel=\"noopener noreferrer\">No Injuries But Hibernia Oil Spill Posed Threat of Deadly Blast and Fire Regulator</a> Mon, 29 Jun 2026 — northeastnow.com <span class=\"news-category\">Incidents</span></li><li><a href=\"https://maritime-executive.com/article/report-hibernia-platform-spill-could-have-caused-serious-casualty\" target=\"_blank\" rel=\"noopener noreferrer\">report hibernia platform spill could have caused serious casualty</a> Mon, 29 Jun 2026 — maritime-executive.com <span class=\"news-category\">Incidents</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.saltwire.com/newfoundland-labrador/op-ed-best-investment-canada-ever-made-was-one-the-private\" target=\"_blank\" rel=\"noopener noreferrer\">op ed best investment canada ever made was one the private</a> Tue, 07 Jul 2026 — saltwire.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.saltwire.com/newfoundland-labrador/op-ed-best-investment-canada-ever-made-was-one-the-private\" target=\"_blank\" rel=\"noopener noreferrer\">op ed best investment canada ever made was one the private</a> Tue, 07 Jul 2026 — saltwire.com</li><li><a href=\"https://starconcord.com.sg/report-hibernia-platform-spill-could-have-caused-serious-casualty/\" target=\"_blank\" rel=\"noopener noreferrer\">Report Hibernia Platform Spill Could Have Caused Serious Casualty</a> Tue, 30 Jun 2026 — starconcord.com.sg <span class=\"news-category\">Incidents</span></li><li><a href=\"https://www.hazardexonthenet.net/article/222817/Investigation-continues-after-Hibernia-hydrocarbon-release-raises-explosion-risk.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Investigation Continues After Hibernia Hydrocarbon Release Raises Explosion Risk</a> Tue, 30 Jun 2026 — hazardexonthenet.net <span class=\"news-category\">Incidents</span></li><li><a href=\"https://ground.news/article/gas-leak-and-crude-spill-intercepted-on-hibernia-platform\" target=\"_blank\" rel=\"noopener noreferrer\">gas leak and crude spill intercepted on hibernia platform</a> Mon, 29 Jun 2026 — ground.news <span class=\"news-category\">Incidents</span></li><li><a href=\"https://www.thesafetymag.com/ca/topics/ohs-law-and-legislation/crude-breach-on-hibernia-platform-triggers-regulator-review/547660\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> Mon, 29 Jun 2026 — thesafetymag.com <span class=\"news-category\">Regulatory</span></li><li><a href=\"https://www.upstreamonline.com/safety/major-hydrocarbon-release-being-investigated-at-canada-platform/2-1-2010851\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> Mon, 29 Jun 2026 — upstreamonline.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://northeastnow.com/2026/06/28/no-injuries-but-hibernia-oil-spill-posed-threat-of-deadly-blast-and-fire-regulator/\" target=\"_blank\" rel=\"noopener noreferrer\">No Injuries But Hibernia Oil Spill Posed Threat of Deadly Blast and Fire Regulator</a> Mon, 29 Jun 2026 — northeastnow.com <span class=\"news-category\">Incidents</span></li><li><a href=\"https://maritime-executive.com/article/report-hibernia-platform-spill-could-have-caused-serious-casualty\" target=\"_blank\" rel=\"noopener noreferrer\">report hibernia platform spill could have caused serious casualty</a> Mon, 29 Jun 2026 — maritime-executive.com <span class=\"news-category\">Incidents</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.saltwire.com/newfoundland-labrador/op-ed-best-investment-canada-ever-made-was-one-the-private\" target=\"_blank\" rel=\"noopener noreferrer\">op ed best investment canada ever made was one the private</a> Tue, 07 Jul 2026 — saltwire.com</li><li><a href=\"https://starconcord.com.sg/report-hibernia-platform-spill-could-have-caused-serious-casualty/\" target=\"_blank\" rel=\"noopener noreferrer\">Report Hibernia Platform Spill Could Have Caused Serious Casualty</a> Tue, 30 Jun 2026 — starconcord.com.sg <span class=\"news-category\">Incidents</span></li><li><a href=\"https://www.hazardexonthenet.net/article/222817/Investigation-continues-after-Hibernia-hydrocarbon-release-raises-explosion-risk.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Investigation Continues After Hibernia Hydrocarbon Release Raises Explosion Risk</a> Tue, 30 Jun 2026 — hazardexonthenet.net <span class=\"news-category\">Incidents</span></li><li><a href=\"https://ground.news/article/gas-leak-and-crude-spill-intercepted-on-hibernia-platform\" target=\"_blank\" rel=\"noopener noreferrer\">gas leak and crude spill intercepted on hibernia platform</a> Mon, 29 Jun 2026 — ground.news <span class=\"news-category\">Incidents</span></li><li><a href=\"https://www.thesafetymag.com/ca/topics/ohs-law-and-legislation/crude-breach-on-hibernia-platform-triggers-regulator-review/547660\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> Mon, 29 Jun 2026 — thesafetymag.com <span class=\"news-category\">Regulatory</span></li><li><a href=\"https://www.upstreamonline.com/safety/major-hydrocarbon-release-being-investigated-at-canada-platform/2-1-2010851\" target=\"_blank\" rel=\"noopener noreferrer\">Hibernia Platform Offshore News Update</a> Mon, 29 Jun 2026 — upstreamonline.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://northeastnow.com/2026/06/28/no-injuries-but-hibernia-oil-spill-posed-threat-of-deadly-blast-and-fire-regulator/\" target=\"_blank\" rel=\"noopener noreferrer\">No Injuries But Hibernia Oil Spill Posed Threat of Deadly Blast and Fire Regulator</a> Mon, 29 Jun 2026 — northeastnow.com <span class=\"news-category\">Incidents</span></li><li><a href=\"https://maritime-executive.com/article/report-hibernia-platform-spill-could-have-caused-serious-casualty\" target=\"_blank\" rel=\"noopener noreferrer\">report hibernia platform spill could have caused serious casualty</a> Mon, 29 Jun 2026 — maritime-executive.com <span class=\"news-category\">Incidents</span></li></ul></div>"
     },
     {
       "assetRefId": "nl104",
@@ -2095,6 +2302,61 @@
       "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540941-hugin-b-platform-topside-en-route-to-north-sea-development\" target=\"_blank\" rel=\"noopener noreferrer\">540941 hugin b platform topside en route to north sea development</a> Tue, 07 Jul 2026 — oedigital.com</li></ul></div>",
       "hasArchive": false,
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540941-hugin-b-platform-topside-en-route-to-north-sea-development\" target=\"_blank\" rel=\"noopener noreferrer\">540941 hugin b platform topside en route to north sea development</a> Tue, 07 Jul 2026 — oedigital.com</li></ul></div>"
+    },
+    {
+      "assetRefId": "no023",
+      "assetName": "Kristin",
+      "siteSlug": "no023",
+      "sourceAssetRefIds": [
+        "PLAT-0317"
+      ],
+      "sourceAssetNames": [
+        "Kristin"
+      ],
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "540972 equinor awards over 600m in contracts for four subsea projects",
+          "url": "https://www.oedigital.com/news/540972-equinor-awards-over-600m-in-contracts-for-four-subsea-projects",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-09T04:00:12+00:00",
+          "articleId": "NEWS-001133",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "Infrastructure",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0317",
+          "sourceAssetName": "Kristin"
+        },
+        {
+          "title": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania",
+          "url": "https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-09T04:00:12+00:00",
+          "articleId": "NEWS-000444",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0317",
+          "sourceAssetName": "Kristin"
+        }
+      ],
+      "latestNewsText": "540972 equinor awards over 600m in contracts for four subsea projects Wed, 08 Jul 2026 — oedigital.com\nTotalenergies and Petronas Embark on Major Oil Gas Search in Oceania Wed, 08 Jul 2026 — offshore-energy.biz",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540972-equinor-awards-over-600m-in-contracts-for-four-subsea-projects\" target=\"_blank\" rel=\"noopener noreferrer\">540972 equinor awards over 600m in contracts for four subsea projects</a> Wed, 08 Jul 2026 — oedigital.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Wed, 08 Jul 2026 — offshore-energy.biz</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/news/540972-equinor-awards-over-600m-in-contracts-for-four-subsea-projects\" target=\"_blank\" rel=\"noopener noreferrer\">540972 equinor awards over 600m in contracts for four subsea projects</a> Wed, 08 Jul 2026 — oedigital.com <span class=\"news-category\">Infrastructure</span></li><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Wed, 08 Jul 2026 — offshore-energy.biz</li></ul></div>"
     },
     {
       "assetRefId": "no028",
@@ -7255,9 +7517,9 @@
         "Tamar production platform"
       ],
       "totalNewsCount": 1,
-      "latestNewsCount": 0,
+      "latestNewsCount": 1,
       "olderCount": 0,
-      "archiveCount": 1,
+      "archiveCount": 0,
       "items": [
         {
           "title": "israel launches fifth offshore bidding round to expand natural gas reserves",
@@ -7268,19 +7530,57 @@
           "articleId": "NEWS-001166",
           "relationshipType": "Field-Level",
           "categoryLabel": "General",
-          "isFeatured": "False",
+          "isFeatured": "True",
           "isArchived": "False",
           "archiveGroup": "",
-          "displaySection": "Archive",
+          "displaySection": "Latest",
           "linkStatus": "Active",
           "sourceAssetRefId": "PLAT-0683",
           "sourceAssetName": "Tamar production platform"
         }
       ],
       "latestNewsText": "israel launches fifth offshore bidding round to expand natural gas reserves Tue, 07 Jul 2026 — knews.kathimerini.com.cy",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://knews.kathimerini.com.cy/en/business/israel-launches-fifth-offshore-bidding-round-to-expand-natural-gas-reserves\" target=\"_blank\" rel=\"noopener noreferrer\">israel launches fifth offshore bidding round to expand natural gas reserves</a> Tue, 07 Jul 2026 — knews.kathimerini.com.cy</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
-      "hasArchive": true,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://knews.kathimerini.com.cy/en/business/israel-launches-fifth-offshore-bidding-round-to-expand-natural-gas-reserves\" target=\"_blank\" rel=\"noopener noreferrer\">israel launches fifth offshore bidding round to expand natural gas reserves</a> Tue, 07 Jul 2026 — knews.kathimerini.com.cy</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://knews.kathimerini.com.cy/en/business/israel-launches-fifth-offshore-bidding-round-to-expand-natural-gas-reserves\" target=\"_blank\" rel=\"noopener noreferrer\">israel launches fifth offshore bidding round to expand natural gas reserves</a> Tue, 07 Jul 2026 — knews.kathimerini.com.cy</li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://knews.kathimerini.com.cy/en/business/israel-launches-fifth-offshore-bidding-round-to-expand-natural-gas-reserves\" target=\"_blank\" rel=\"noopener noreferrer\">israel launches fifth offshore bidding round to expand natural gas reserves</a> Tue, 07 Jul 2026 — knews.kathimerini.com.cy</li></ul></div>"
+    },
+    {
+      "assetRefId": "uk0023",
+      "assetName": "Anasuria FPSO",
+      "siteSlug": "uk0023",
+      "sourceAssetRefIds": [
+        "PLAT-0024"
+      ],
+      "sourceAssetNames": [
+        "Anasuria FPSO"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 1,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
+          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
+          "sourceName": "energyvoice.com",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-09T05:18:38+00:00",
+          "articleId": "NEWS-000765",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0024",
+          "sourceAssetName": "Anasuria FPSO"
+        }
+      ],
+      "latestNewsText": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production Wed, 08 Jul 2026 — energyvoice.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Wed, 08 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Wed, 08 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li></ul></div>"
     },
     {
       "assetRefId": "uk0118",
@@ -7292,11 +7592,28 @@
       "sourceAssetNames": [
         "Forties Unity Riser Platform"
       ],
-      "totalNewsCount": 1,
-      "latestNewsCount": 1,
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
       "olderCount": 0,
       "archiveCount": 0,
       "items": [
+        {
+          "title": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania",
+          "url": "https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:27:01+00:00",
+          "articleId": "NEWS-000444",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0180",
+          "sourceAssetName": "Forties Unity Riser Platform"
+        },
         {
           "title": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News",
           "url": "https://www.bitget.com/amp/news/detail/12560605468246",
@@ -7315,10 +7632,10 @@
           "sourceAssetName": "Forties Unity Riser Platform"
         }
       ],
-      "latestNewsText": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "latestNewsText": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania Thu, 09 Jul 2026 — offshore-energy.biz\nBrent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "uk0194",
@@ -7469,6 +7786,218 @@
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.klsescreener.com/v2/news/view/1748117/unisem-duopharma-southern-cable-reservoir-link-energy-jentayu-sustainables-bumi-armada\" target=\"_blank\" rel=\"noopener noreferrer\">unisem duopharma southern cable reservoir link energy jentayu sustainables bumi armada</a> Sat, 04 Jul 2026 — klsescreener.com</li></ul></div>"
     },
     {
+      "assetRefId": "uk0685",
+      "assetName": "Beryl B",
+      "siteSlug": "uk0685",
+      "sourceAssetRefIds": [
+        "PLAT-0041"
+      ],
+      "sourceAssetNames": [
+        "Beryl B"
+      ],
+      "totalNewsCount": 5,
+      "latestNewsCount": 4,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "540983 well safe solutions expands beryl field decom scope to 260 wells",
+          "url": "https://www.oedigital.com/amp/news/540983-well-safe-solutions-expands-beryl-field-decom-scope-to-260-wells",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:27:01+00:00",
+          "articleId": "NEWS-001186",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0041",
+          "sourceAssetName": "Beryl B"
+        },
+        {
+          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
+          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
+          "sourceName": "energyvoice.com",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:27:01+00:00",
+          "articleId": "NEWS-000765",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0041",
+          "sourceAssetName": "Beryl B"
+        },
+        {
+          "title": "well safe solutions secures apache beryl field decommissioning contract 78991",
+          "url": "https://drillingcontractor.org/well-safe-solutions-secures-apache-beryl-field-decommissioning-contract-78991",
+          "sourceName": "drillingcontractor.org",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:10:16+00:00",
+          "articleId": "NEWS-001204",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Decommissioning",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0041",
+          "sourceAssetName": "Beryl B"
+        },
+        {
+          "title": "540988 oceaneering wins offshore brazil contract with petrobras for rov services",
+          "url": "https://www.oedigital.com/news/540988-oceaneering-wins-offshore-brazil-contract-with-petrobras-for-rov-services",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-08T09:35:51+00:00",
+          "articleId": "NEWS-001244",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0041",
+          "sourceAssetName": "Beryl B"
+        },
+        {
+          "title": "541018 petrobras pays 58m for extended wells compliance deadline",
+          "url": "https://www.oedigital.com/amp/news/541018-petrobras-pays-58m-for-extended-wells-compliance-deadline",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-08T09:35:51+00:00",
+          "articleId": "NEWS-001243",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0041",
+          "sourceAssetName": "Beryl B"
+        }
+      ],
+      "latestNewsText": "540983 well safe solutions expands beryl field decom scope to 260 wells Thu, 09 Jul 2026 — oedigital.com\nCnooc North Sea Buzzard Golden Eagle Scott Results Production Thu, 09 Jul 2026 — energyvoice.com\nwell safe solutions secures apache beryl field decommissioning contract 78991 Thu, 09 Jul 2026 — drillingcontractor.org\n540988 oceaneering wins offshore brazil contract with petrobras for rov services Wed, 08 Jul 2026 — oedigital.com\n541018 petrobras pays 58m for extended wells compliance deadline Wed, 08 Jul 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540983-well-safe-solutions-expands-beryl-field-decom-scope-to-260-wells\" target=\"_blank\" rel=\"noopener noreferrer\">540983 well safe solutions expands beryl field decom scope to 260 wells</a> Thu, 09 Jul 2026 — oedigital.com</li><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Thu, 09 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.oedigital.com/news/540988-oceaneering-wins-offshore-brazil-contract-with-petrobras-for-rov-services\" target=\"_blank\" rel=\"noopener noreferrer\">540988 oceaneering wins offshore brazil contract with petrobras for rov services</a> Wed, 08 Jul 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/541018-petrobras-pays-58m-for-extended-wells-compliance-deadline\" target=\"_blank\" rel=\"noopener noreferrer\">541018 petrobras pays 58m for extended wells compliance deadline</a> Wed, 08 Jul 2026 — oedigital.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://drillingcontractor.org/well-safe-solutions-secures-apache-beryl-field-decommissioning-contract-78991\" target=\"_blank\" rel=\"noopener noreferrer\">well safe solutions secures apache beryl field decommissioning contract 78991</a> Thu, 09 Jul 2026 — drillingcontractor.org <span class=\"news-category\">Decommissioning</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540983-well-safe-solutions-expands-beryl-field-decom-scope-to-260-wells\" target=\"_blank\" rel=\"noopener noreferrer\">540983 well safe solutions expands beryl field decom scope to 260 wells</a> Thu, 09 Jul 2026 — oedigital.com</li><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Thu, 09 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.oedigital.com/news/540988-oceaneering-wins-offshore-brazil-contract-with-petrobras-for-rov-services\" target=\"_blank\" rel=\"noopener noreferrer\">540988 oceaneering wins offshore brazil contract with petrobras for rov services</a> Wed, 08 Jul 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/541018-petrobras-pays-58m-for-extended-wells-compliance-deadline\" target=\"_blank\" rel=\"noopener noreferrer\">541018 petrobras pays 58m for extended wells compliance deadline</a> Wed, 08 Jul 2026 — oedigital.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://drillingcontractor.org/well-safe-solutions-secures-apache-beryl-field-decommissioning-contract-78991\" target=\"_blank\" rel=\"noopener noreferrer\">well safe solutions secures apache beryl field decommissioning contract 78991</a> Thu, 09 Jul 2026 — drillingcontractor.org <span class=\"news-category\">Decommissioning</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+    },
+    {
+      "assetRefId": "uk0686",
+      "assetName": "Beryl Riser tower",
+      "siteSlug": "uk0686",
+      "sourceAssetRefIds": [
+        "PLAT-0042"
+      ],
+      "sourceAssetNames": [
+        "Beryl Riser tower"
+      ],
+      "totalNewsCount": 5,
+      "latestNewsCount": 4,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "540983 well safe solutions expands beryl field decom scope to 260 wells",
+          "url": "https://www.oedigital.com/amp/news/540983-well-safe-solutions-expands-beryl-field-decom-scope-to-260-wells",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:27:01+00:00",
+          "articleId": "NEWS-001186",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0042",
+          "sourceAssetName": "Beryl Riser tower"
+        },
+        {
+          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
+          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
+          "sourceName": "energyvoice.com",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:27:01+00:00",
+          "articleId": "NEWS-000765",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0042",
+          "sourceAssetName": "Beryl Riser tower"
+        },
+        {
+          "title": "well safe solutions secures apache beryl field decommissioning contract 78991",
+          "url": "https://drillingcontractor.org/well-safe-solutions-secures-apache-beryl-field-decommissioning-contract-78991",
+          "sourceName": "drillingcontractor.org",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:10:16+00:00",
+          "articleId": "NEWS-001204",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Decommissioning",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0042",
+          "sourceAssetName": "Beryl Riser tower"
+        },
+        {
+          "title": "540988 oceaneering wins offshore brazil contract with petrobras for rov services",
+          "url": "https://www.oedigital.com/news/540988-oceaneering-wins-offshore-brazil-contract-with-petrobras-for-rov-services",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-08T09:35:51+00:00",
+          "articleId": "NEWS-001244",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0042",
+          "sourceAssetName": "Beryl Riser tower"
+        },
+        {
+          "title": "541018 petrobras pays 58m for extended wells compliance deadline",
+          "url": "https://www.oedigital.com/amp/news/541018-petrobras-pays-58m-for-extended-wells-compliance-deadline",
+          "sourceName": "oedigital.com",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-08T09:35:51+00:00",
+          "articleId": "NEWS-001243",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0042",
+          "sourceAssetName": "Beryl Riser tower"
+        }
+      ],
+      "latestNewsText": "540983 well safe solutions expands beryl field decom scope to 260 wells Thu, 09 Jul 2026 — oedigital.com\nCnooc North Sea Buzzard Golden Eagle Scott Results Production Thu, 09 Jul 2026 — energyvoice.com\nwell safe solutions secures apache beryl field decommissioning contract 78991 Thu, 09 Jul 2026 — drillingcontractor.org\n540988 oceaneering wins offshore brazil contract with petrobras for rov services Wed, 08 Jul 2026 — oedigital.com\n541018 petrobras pays 58m for extended wells compliance deadline Wed, 08 Jul 2026 — oedigital.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540983-well-safe-solutions-expands-beryl-field-decom-scope-to-260-wells\" target=\"_blank\" rel=\"noopener noreferrer\">540983 well safe solutions expands beryl field decom scope to 260 wells</a> Thu, 09 Jul 2026 — oedigital.com</li><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Thu, 09 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.oedigital.com/news/540988-oceaneering-wins-offshore-brazil-contract-with-petrobras-for-rov-services\" target=\"_blank\" rel=\"noopener noreferrer\">540988 oceaneering wins offshore brazil contract with petrobras for rov services</a> Wed, 08 Jul 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/541018-petrobras-pays-58m-for-extended-wells-compliance-deadline\" target=\"_blank\" rel=\"noopener noreferrer\">541018 petrobras pays 58m for extended wells compliance deadline</a> Wed, 08 Jul 2026 — oedigital.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://drillingcontractor.org/well-safe-solutions-secures-apache-beryl-field-decommissioning-contract-78991\" target=\"_blank\" rel=\"noopener noreferrer\">well safe solutions secures apache beryl field decommissioning contract 78991</a> Thu, 09 Jul 2026 — drillingcontractor.org <span class=\"news-category\">Decommissioning</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.oedigital.com/amp/news/540983-well-safe-solutions-expands-beryl-field-decom-scope-to-260-wells\" target=\"_blank\" rel=\"noopener noreferrer\">540983 well safe solutions expands beryl field decom scope to 260 wells</a> Thu, 09 Jul 2026 — oedigital.com</li><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Thu, 09 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.oedigital.com/news/540988-oceaneering-wins-offshore-brazil-contract-with-petrobras-for-rov-services\" target=\"_blank\" rel=\"noopener noreferrer\">540988 oceaneering wins offshore brazil contract with petrobras for rov services</a> Wed, 08 Jul 2026 — oedigital.com</li><li><a href=\"https://www.oedigital.com/amp/news/541018-petrobras-pays-58m-for-extended-wells-compliance-deadline\" target=\"_blank\" rel=\"noopener noreferrer\">541018 petrobras pays 58m for extended wells compliance deadline</a> Wed, 08 Jul 2026 — oedigital.com</li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://drillingcontractor.org/well-safe-solutions-secures-apache-beryl-field-decommissioning-contract-78991\" target=\"_blank\" rel=\"noopener noreferrer\">well safe solutions secures apache beryl field decommissioning contract 78991</a> Thu, 09 Jul 2026 — drillingcontractor.org <span class=\"news-category\">Decommissioning</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+    },
+    {
       "assetRefId": "uk0707",
       "assetName": "Forties FA",
       "siteSlug": "uk0707",
@@ -7478,11 +8007,28 @@
       "sourceAssetNames": [
         "Forties FA"
       ],
-      "totalNewsCount": 1,
-      "latestNewsCount": 1,
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
       "olderCount": 0,
       "archiveCount": 0,
       "items": [
+        {
+          "title": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania",
+          "url": "https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:27:01+00:00",
+          "articleId": "NEWS-000444",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0175",
+          "sourceAssetName": "Forties FA"
+        },
         {
           "title": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News",
           "url": "https://www.bitget.com/amp/news/detail/12560605468246",
@@ -7501,10 +8047,10 @@
           "sourceAssetName": "Forties FA"
         }
       ],
-      "latestNewsText": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "latestNewsText": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania Thu, 09 Jul 2026 — offshore-energy.biz\nBrent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "uk0708",
@@ -7516,11 +8062,28 @@
       "sourceAssetNames": [
         "Forties FB"
       ],
-      "totalNewsCount": 1,
-      "latestNewsCount": 1,
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
       "olderCount": 0,
       "archiveCount": 0,
       "items": [
+        {
+          "title": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania",
+          "url": "https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:27:01+00:00",
+          "articleId": "NEWS-000444",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0176",
+          "sourceAssetName": "Forties FB"
+        },
         {
           "title": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News",
           "url": "https://www.bitget.com/amp/news/detail/12560605468246",
@@ -7539,10 +8102,10 @@
           "sourceAssetName": "Forties FB"
         }
       ],
-      "latestNewsText": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "latestNewsText": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania Thu, 09 Jul 2026 — offshore-energy.biz\nBrent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "uk0709",
@@ -7554,11 +8117,28 @@
       "sourceAssetNames": [
         "Forties FC"
       ],
-      "totalNewsCount": 1,
-      "latestNewsCount": 1,
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
       "olderCount": 0,
       "archiveCount": 0,
       "items": [
+        {
+          "title": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania",
+          "url": "https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:27:01+00:00",
+          "articleId": "NEWS-000444",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0177",
+          "sourceAssetName": "Forties FC"
+        },
         {
           "title": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News",
           "url": "https://www.bitget.com/amp/news/detail/12560605468246",
@@ -7577,10 +8157,10 @@
           "sourceAssetName": "Forties FC"
         }
       ],
-      "latestNewsText": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "latestNewsText": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania Thu, 09 Jul 2026 — offshore-energy.biz\nBrent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "uk0710",
@@ -7592,11 +8172,28 @@
       "sourceAssetNames": [
         "Forties FD"
       ],
-      "totalNewsCount": 1,
-      "latestNewsCount": 1,
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
       "olderCount": 0,
       "archiveCount": 0,
       "items": [
+        {
+          "title": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania",
+          "url": "https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:27:01+00:00",
+          "articleId": "NEWS-000444",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0178",
+          "sourceAssetName": "Forties FD"
+        },
         {
           "title": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News",
           "url": "https://www.bitget.com/amp/news/detail/12560605468246",
@@ -7615,10 +8212,10 @@
           "sourceAssetName": "Forties FD"
         }
       ],
-      "latestNewsText": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "latestNewsText": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania Thu, 09 Jul 2026 — offshore-energy.biz\nBrent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "uk0711",
@@ -7630,11 +8227,28 @@
       "sourceAssetNames": [
         "Forties FE"
       ],
-      "totalNewsCount": 1,
-      "latestNewsCount": 1,
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
       "olderCount": 0,
       "archiveCount": 0,
       "items": [
+        {
+          "title": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania",
+          "url": "https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:27:01+00:00",
+          "articleId": "NEWS-000444",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0179",
+          "sourceAssetName": "Forties FE"
+        },
         {
           "title": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News",
           "url": "https://www.bitget.com/amp/news/detail/12560605468246",
@@ -7653,10 +8267,10 @@
           "sourceAssetName": "Forties FE"
         }
       ],
-      "latestNewsText": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "latestNewsText": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania Thu, 09 Jul 2026 — offshore-energy.biz\nBrent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
       "assetRefId": "uk0716",
@@ -7964,6 +8578,171 @@
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://bharatfast.com/english/brand-post/t-krishna-goud-the-driving-force-behind-eaglespeed-overseas-logistics-rising-success/33274/\" target=\"_blank\" rel=\"noopener noreferrer\">Nelson Offshore News Update</a> Thu, 25 Jun 2026 — bharatfast.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://briefglance.com/articles/deepwater-dominance-baker-hughes-anchors-angolas-51b-energy-future\" target=\"_blank\" rel=\"noopener noreferrer\">deepwater dominance baker hughes anchors angolas 51b energy future</a> Thu, 25 Jun 2026 — briefglance.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.abc.net.au/news/2026-06-25/john-stinker-clarke-fisherman-rescued-fingal-bay/106841080\" target=\"_blank\" rel=\"noopener noreferrer\">Nelson Offshore News Update</a> Thu, 25 Jun 2026 — abc.net.au <span class=\"news-category\">Operations</span></li></ul></div>"
     },
     {
+      "assetRefId": "uk0904",
+      "assetName": "Elgin PUQ",
+      "siteSlug": "uk0904",
+      "sourceAssetRefIds": [
+        "PLAT-0158"
+      ],
+      "sourceAssetNames": [
+        "Elgin PUQ Platform"
+      ],
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "Elgin PUQ Platform Offshore News Update",
+          "url": "https://www.upstreamonline.com/people/neonext-issues-final-warning-as-workers-prepare-to-go-on-strike/2-1-2014728",
+          "sourceName": "upstreamonline.com",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:16:17+00:00",
+          "articleId": "NEWS-001201",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0158",
+          "sourceAssetName": "Elgin PUQ Platform"
+        },
+        {
+          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
+          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
+          "sourceName": "energyvoice.com",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:16:17+00:00",
+          "articleId": "NEWS-000765",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0158",
+          "sourceAssetName": "Elgin PUQ Platform"
+        }
+      ],
+      "latestNewsText": "Elgin PUQ Platform Offshore News Update Thu, 09 Jul 2026 — upstreamonline.com\nCnooc North Sea Buzzard Golden Eagle Scott Results Production Thu, 09 Jul 2026 — energyvoice.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/people/neonext-issues-final-warning-as-workers-prepare-to-go-on-strike/2-1-2014728\" target=\"_blank\" rel=\"noopener noreferrer\">Elgin PUQ Platform Offshore News Update</a> Thu, 09 Jul 2026 — upstreamonline.com</li><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Thu, 09 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/people/neonext-issues-final-warning-as-workers-prepare-to-go-on-strike/2-1-2014728\" target=\"_blank\" rel=\"noopener noreferrer\">Elgin PUQ Platform Offshore News Update</a> Thu, 09 Jul 2026 — upstreamonline.com</li><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Thu, 09 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li></ul></div>"
+    },
+    {
+      "assetRefId": "uk0905",
+      "assetName": "Elgin WHP",
+      "siteSlug": "uk0905",
+      "sourceAssetRefIds": [
+        "PLAT-0159"
+      ],
+      "sourceAssetNames": [
+        "Elgin WHP"
+      ],
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "Elgin WHP Offshore News Update",
+          "url": "https://www.upstreamonline.com/people/neonext-issues-final-warning-as-workers-prepare-to-go-on-strike/2-1-2014728",
+          "sourceName": "upstreamonline.com",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:16:17+00:00",
+          "articleId": "NEWS-001201",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0159",
+          "sourceAssetName": "Elgin WHP"
+        },
+        {
+          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
+          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
+          "sourceName": "energyvoice.com",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:16:17+00:00",
+          "articleId": "NEWS-000765",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0159",
+          "sourceAssetName": "Elgin WHP"
+        }
+      ],
+      "latestNewsText": "Elgin WHP Offshore News Update Thu, 09 Jul 2026 — upstreamonline.com\nCnooc North Sea Buzzard Golden Eagle Scott Results Production Thu, 09 Jul 2026 — energyvoice.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/people/neonext-issues-final-warning-as-workers-prepare-to-go-on-strike/2-1-2014728\" target=\"_blank\" rel=\"noopener noreferrer\">Elgin WHP Offshore News Update</a> Thu, 09 Jul 2026 — upstreamonline.com</li><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Thu, 09 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/people/neonext-issues-final-warning-as-workers-prepare-to-go-on-strike/2-1-2014728\" target=\"_blank\" rel=\"noopener noreferrer\">Elgin WHP Offshore News Update</a> Thu, 09 Jul 2026 — upstreamonline.com</li><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Thu, 09 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li></ul></div>"
+    },
+    {
+      "assetRefId": "uk1161",
+      "assetName": "Elgin WHP B",
+      "siteSlug": "uk1161",
+      "sourceAssetRefIds": [
+        "PLAT-0160"
+      ],
+      "sourceAssetNames": [
+        "Elgin WHP B"
+      ],
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
+      "olderCount": 0,
+      "archiveCount": 0,
+      "items": [
+        {
+          "title": "Elgin WHP B Offshore News Update",
+          "url": "https://www.upstreamonline.com/people/neonext-issues-final-warning-as-workers-prepare-to-go-on-strike/2-1-2014728",
+          "sourceName": "upstreamonline.com",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:16:17+00:00",
+          "articleId": "NEWS-001201",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0160",
+          "sourceAssetName": "Elgin WHP B"
+        },
+        {
+          "title": "Cnooc North Sea Buzzard Golden Eagle Scott Results Production",
+          "url": "https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/",
+          "sourceName": "energyvoice.com",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:16:17+00:00",
+          "articleId": "NEWS-000765",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0160",
+          "sourceAssetName": "Elgin WHP B"
+        }
+      ],
+      "latestNewsText": "Elgin WHP B Offshore News Update Thu, 09 Jul 2026 — upstreamonline.com\nCnooc North Sea Buzzard Golden Eagle Scott Results Production Thu, 09 Jul 2026 — energyvoice.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/people/neonext-issues-final-warning-as-workers-prepare-to-go-on-strike/2-1-2014728\" target=\"_blank\" rel=\"noopener noreferrer\">Elgin WHP B Offshore News Update</a> Thu, 09 Jul 2026 — upstreamonline.com</li><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Thu, 09 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li></ul></div>",
+      "hasArchive": false,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.upstreamonline.com/people/neonext-issues-final-warning-as-workers-prepare-to-go-on-strike/2-1-2014728\" target=\"_blank\" rel=\"noopener noreferrer\">Elgin WHP B Offshore News Update</a> Thu, 09 Jul 2026 — upstreamonline.com</li><li><a href=\"https://www.energyvoice.com/oilandgas/north-sea/599994/cnooc-north-sea-buzzard-golden-eagle-scott-results-production/\" target=\"_blank\" rel=\"noopener noreferrer\">Cnooc North Sea Buzzard Golden Eagle Scott Results Production</a> Thu, 09 Jul 2026 — energyvoice.com <span class=\"news-category\">Production</span></li></ul></div>"
+    },
+    {
       "assetRefId": "uk1166",
       "assetName": "Forties Alpha Satellite",
       "siteSlug": "uk1166",
@@ -7973,11 +8752,28 @@
       "sourceAssetNames": [
         "Forties Alpha Satellite"
       ],
-      "totalNewsCount": 1,
-      "latestNewsCount": 1,
+      "totalNewsCount": 2,
+      "latestNewsCount": 2,
       "olderCount": 0,
       "archiveCount": 0,
       "items": [
+        {
+          "title": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania",
+          "url": "https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/",
+          "sourceName": "offshore-energy.biz",
+          "publishedDate": "Thu, 09 Jul 2026",
+          "sortDate": "2026-07-09T08:27:01+00:00",
+          "articleId": "NEWS-000444",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "True",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Latest",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0174",
+          "sourceAssetName": "Forties Alpha Satellite"
+        },
         {
           "title": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News",
           "url": "https://www.bitget.com/amp/news/detail/12560605468246",
@@ -7996,10 +8792,65 @@
           "sourceAssetName": "Forties Alpha Satellite"
         }
       ],
-      "latestNewsText": "Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
+      "latestNewsText": "Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania Thu, 09 Jul 2026 — offshore-energy.biz\nBrent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News Sun, 21 Jun 2026 — bitget.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/\" target=\"_blank\" rel=\"noopener noreferrer\">Totalenergies and Petronas Embark on Major Oil Gas Search in Oceania</a> Thu, 09 Jul 2026 — offshore-energy.biz</li><li><a href=\"https://www.bitget.com/amp/news/detail/12560605468246\" target=\"_blank\" rel=\"noopener noreferrer\">Brent spot premium collapses, physical premium shrinks from April peak to nearly nothing, market bets on return of supply surplus | Bitget News</a> Sun, 21 Jun 2026 — bitget.com <span class=\"news-category\">Operations</span></li></ul></div>"
+    },
+    {
+      "assetRefId": "usan-fpso",
+      "assetName": "Usan FPSO",
+      "siteSlug": "usan-fpso",
+      "sourceAssetRefIds": [
+        "PLAT-0679"
+      ],
+      "sourceAssetNames": [
+        "Usan FPSO"
+      ],
+      "totalNewsCount": 2,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 2,
+      "items": [
+        {
+          "title": "Esso Exploration and Production Nigeria Offshore East Limited Announces Start of Usan Infill Project",
+          "url": "https://www.energyfocusreport.com/esso-exploration-and-production-nigeria-offshore-east-limited-announces-start-of-usan-infill-project/",
+          "sourceName": "energyfocusreport.com",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-09T04:44:55+00:00",
+          "articleId": "NEWS-001218",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0679",
+          "sourceAssetName": "Usan FPSO"
+        },
+        {
+          "title": "Oil Prices Sink Further as Trump Signs Deal to Reopen Hormuz",
+          "url": "https://punchng.com/oil-prices-sink-further-as-trump-signs-deal-to-reopen-hormuz/",
+          "sourceName": "punchng.com",
+          "publishedDate": "Wed, 08 Jul 2026",
+          "sortDate": "2026-07-09T04:44:55+00:00",
+          "articleId": "NEWS-000757",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0679",
+          "sourceAssetName": "Usan FPSO"
+        }
+      ],
+      "latestNewsText": "Esso Exploration and Production Nigeria Offshore East Limited Announces Start of Usan Infill Project Wed, 08 Jul 2026 — energyfocusreport.com\nOil Prices Sink Further as Trump Signs Deal to Reopen Hormuz Wed, 08 Jul 2026 — punchng.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (2 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.energyfocusreport.com/esso-exploration-and-production-nigeria-offshore-east-limited-announces-start-of-usan-infill-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Esso Exploration and Production Nigeria Offshore East Limited Announces Start of Usan Infill Project</a> Wed, 08 Jul 2026 — energyfocusreport.com <span class=\"news-category\">Production</span></li><li><a href=\"https://punchng.com/oil-prices-sink-further-as-trump-signs-deal-to-reopen-hormuz/\" target=\"_blank\" rel=\"noopener noreferrer\">Oil Prices Sink Further as Trump Signs Deal to Reopen Hormuz</a> Wed, 08 Jul 2026 — punchng.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (2 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.energyfocusreport.com/esso-exploration-and-production-nigeria-offshore-east-limited-announces-start-of-usan-infill-project/\" target=\"_blank\" rel=\"noopener noreferrer\">Esso Exploration and Production Nigeria Offshore East Limited Announces Start of Usan Infill Project</a> Wed, 08 Jul 2026 — energyfocusreport.com <span class=\"news-category\">Production</span></li><li><a href=\"https://punchng.com/oil-prices-sink-further-as-trump-signs-deal-to-reopen-hormuz/\" target=\"_blank\" rel=\"noopener noreferrer\">Oil Prices Sink Further as Trump Signs Deal to Reopen Hormuz</a> Wed, 08 Jul 2026 — punchng.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "vincent-fpso",
