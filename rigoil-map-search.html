@@ -166,7 +166,7 @@ function initMap(locations){
   lastMapSignature=sig;
   var isMobile=innerWidth<=768;
   if(!map){
-    map=new google.maps.Map(document.getElementById('map'),{center:{lat:57.64,lng:-0.23},zoom:6,styles:grayStyle,gestureHandling:'greedy',mapTypeControl:!isMobile,fullscreenControl:!isMobile,streetViewControl:false});
+    map=new google.maps.Map(document.getElementById('map'),{center:{lat:20,lng:0},zoom:2,styles:grayStyle,gestureHandling:'greedy',mapTypeControl:!isMobile,fullscreenControl:!isMobile,streetViewControl:false});
     infoWindow=new google.maps.InfoWindow();
   }else{
     clearMap();
