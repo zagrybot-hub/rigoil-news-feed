@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+
+  <style>
+    html, body, #map {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .marker-label {
+      position: absolute;
+      transform: translate(-50%, -35px);
+      background: white;
+      padding: 2px 5px;
+      border-radius: 3px;
+      font-size: 12px;
+      font-weight: normal;
+      color: black;
+      border: 1px solid #666;
+      white-space: nowrap;
+      pointer-events: none;
+    }
+
+    .info-window {
+      max-width: 180px;
+    }
+
+    .image-wrapper {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      background: #e0e0e0;
+      border-radius: 4px;
+      margin-top: 6px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .image-wrapper span {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      color: #666;
+    }
+
+    .image-wrapper img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: none;
+    }
+
+    .button-link {
+      display: inline-block;
+      margin-top: 6px;
+      padding: 6px 12px;
+      font-size: 12px;
+      font-weight: bold;
+      color: #ffffff;
+      background-color: #1a73e8;
+      border-radius: 4px;
+      text-decoration: none;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+    }
+
+    .button-link:hover {
+      background-color: #155ab6;
+    }
+  </style>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC5D1c5JKOPnfJCIZ9_9_1pXE0jljfMc28"></script>
+</head>
+
+<body>
+  <div id="map"></div>
+
+  <script>
+    let map;
+    let infoWindow;
+    let markers = [];
+
+    const grayStyle = [
+      { elementType: "geometry", stylers: [{ color: "#f5f5f5" }] },
+      { elementType: "labels.icon", stylers: [{ visibility: "off" }] },
+      { elementType: "labels.text.fill", stylers: [{ color: "#616161" }] },
+      { elementType: "labels.text.stroke", stylers: [{ color: "#f5f5f5" }] },
+      { featureType: "water", elementType: "geometry", stylers: [{ color: "#cbd5e1" }] }
+    ];
+
+    function initMap(locations) {
+      if (!locations || !locations.length) return;
+
+      const isMobile = window.innerWidth <= 768;
+
+      map = new google.maps.Map(document.getElementById("map"), {
+        center: { lat: 20, lng: 0 },
+        zoom: 2,
+        styles: grayStyle,
+        gestureHandling: "greedy",
+        mapTypeControl: !isMobile,
+        fullscreenControl: !isMobile,
+        streetViewControl: false
+      });
+
+      infoWindow = new google.maps.InfoWindow();
+      markers = [];
+
+      locations.forEach(loc => {
+
+        const marker = new google.maps.Marker({
+          position: { lat: loc.lat, lng: loc.lng },
+          map: map,
+          title: loc.title,
+          icon: {
+            url: "https://static.wixstatic.com/media/85fa72_74509ba04324434aa892edbce9e73228~mv2.png",
+            scaledSize: new google.maps.Size(32, 32)
+          },
+          animation: google.maps.Animation.DROP
+        });
+
+        marker.rigData = loc;
+        markers.push(marker);
+
+        marker.addListener("click", () => {
+
+          const imageSection = loc.image ? `
+            <div class="image-wrapper">
+              <span>Loading image…</span>
+              <img src="${loc.image}" onload="
+                this.style.display='block';
+                this.previousElementSibling.style.display='none';
+              ">
+            </div>
+          ` : "";
+
+          infoWindow.setContent(`
+            <div class="info-window">
+              <strong>${loc.title}</strong><br>
+              <span style="font-size:12px;">${loc.operator || ""}</span>
+              ${imageSection}
+              <a class="button-link" href="#" onclick="window.parent.postMessage({ type: 'navigate', url: '${loc.link}' }, '*'); return false;">
+                Details
+              </a>
+            </div>
+          `);
+
+          infoWindow.open(map, marker);
+        });
+
+        /* ---------- LABEL OVERLAY RESTORED ---------- */
+
+        const labelDiv = document.createElement("div");
+        labelDiv.className = "marker-label";
+        labelDiv.innerText = loc.title;
+
+        const overlay = new google.maps.OverlayView();
+
+        overlay.onAdd = function () {
+          this.getPanes().overlayMouseTarget.appendChild(labelDiv);
+        };
+
+        overlay.draw = function () {
+          const projection = this.getProjection();
+          const position = projection.fromLatLngToDivPixel(marker.getPosition());
+          if (position) {
+            labelDiv.style.left = position.x + "px";
+            labelDiv.style.top = position.y + "px";
+          }
+        };
+
+        overlay.onRemove = function () {
+          if (labelDiv.parentNode) {
+            labelDiv.parentNode.removeChild(labelDiv);
+          }
+        };
+
+        overlay.setMap(map);
+      });
+    }
+
+    window.onmessage = (event) => {
+
+      if (event.data?.locations) {
+        initMap(event.data.locations);
+      }
+
+      if (event.data?.type === "zoomTo") {
+
+        const { lat, lng } = event.data;
+        const position = new google.maps.LatLng(lat, lng);
+
+        map.panTo(position);
+        map.setZoom(9);
+
+        const targetMarker = markers.find(m =>
+          m.getPosition().lat() === lat &&
+          m.getPosition().lng() === lat
+        );
+
+        if (targetMarker) {
+          google.maps.event.trigger(targetMarker, "click");
+        }
+      }
+    };
+  </script>
+</body>
+</html>
