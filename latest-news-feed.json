@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-10T09:31:24.730766+00:00",
+  "updatedAt": "2026-11-10T10:32:53.417832+00:00",
   "source": "rigoil-news-intelligence",
-  "assetCount": 78,
+  "assetCount": 89,
   "assets": [
     {
       "assetRefId": "1001",
@@ -1355,6 +1355,44 @@
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://knews.kathimerini.com.cy/en/business/israel-launches-fifth-offshore-bidding-round-to-expand-natural-gas-reserves\" target=\"_blank\" rel=\"noopener noreferrer\">israel launches fifth offshore bidding round to expand natural gas reserves</a> Tue, 07 Jul 2026 — knews.kathimerini.com.cy</li></ul></div>"
     },
     {
+      "assetRefId": "PLAT-0705",
+      "assetName": "Marjan offshore platforms",
+      "siteSlug": "PLAT-0705",
+      "sourceAssetRefIds": [
+        "PLAT-0705"
+      ],
+      "sourceAssetNames": [
+        "Marjan offshore platforms"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "frontrunner emerges for key aramco offshore tender",
+          "url": "https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender",
+          "sourceName": "meed.com",
+          "publishedDate": "Tue, 10 Nov 2026",
+          "sortDate": "2026-11-10T08:12:24+00:00",
+          "articleId": "NEWS-001657",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0705",
+          "sourceAssetName": "Marjan offshore platforms"
+        }
+      ],
+      "latestNewsText": "frontrunner emerges for key aramco offshore tender Tue, 10 Nov 2026 — meed.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender\" target=\"_blank\" rel=\"noopener noreferrer\">frontrunner emerges for key aramco offshore tender</a> Tue, 10 Nov 2026 — meed.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender\" target=\"_blank\" rel=\"noopener noreferrer\">frontrunner emerges for key aramco offshore tender</a> Tue, 10 Nov 2026 — meed.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+    },
+    {
       "assetRefId": "PLAT-0706",
       "assetName": "Zuluf offshore platforms",
       "siteSlug": "PLAT-0706",
@@ -1529,11 +1567,28 @@
       "sourceAssetNames": [
         "Chirag platform"
       ],
-      "totalNewsCount": 2,
+      "totalNewsCount": 3,
       "latestNewsCount": 2,
       "olderCount": 0,
-      "archiveCount": 0,
+      "archiveCount": 1,
       "items": [
+        {
+          "title": "Azernews.az Article",
+          "url": "https://www.azernews.az/oil_and_gas/266969.html",
+          "sourceName": "azernews.az",
+          "publishedDate": "Sun, 08 Nov 2026",
+          "sortDate": "2026-11-09T04:30:46+00:00",
+          "articleId": "NEWS-001726",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0793",
+          "sourceAssetName": "Chirag platform"
+        },
         {
           "title": "azerbaijan s offshore giants shah deniz and acg demand new technologies bp",
           "url": "https://caliber.az/en/post/azerbaijan-s-offshore-giants-shah-deniz-and-acg-demand-new-technologies-bp",
@@ -1569,10 +1624,10 @@
           "sourceAssetName": "Chirag platform"
         }
       ],
-      "latestNewsText": "azerbaijan s offshore giants shah deniz and acg demand new technologies bp Mon, 06 Jul 2026 — caliber.az\nDrilling Completion News 83 Mon, 06 Jul 2026 — drillingcontractor.org",
-      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://caliber.az/en/post/azerbaijan-s-offshore-giants-shah-deniz-and-acg-demand-new-technologies-bp\" target=\"_blank\" rel=\"noopener noreferrer\">azerbaijan s offshore giants shah deniz and acg demand new technologies bp</a> Mon, 06 Jul 2026 — caliber.az</li><li><a href=\"https://drillingcontractor.org/drilling-completion-news-83-78908\" target=\"_blank\" rel=\"noopener noreferrer\">Drilling Completion News 83</a> Mon, 06 Jul 2026 — drillingcontractor.org <span class=\"news-category\">Operations</span></li></ul></div>",
-      "hasArchive": false,
-      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://caliber.az/en/post/azerbaijan-s-offshore-giants-shah-deniz-and-acg-demand-new-technologies-bp\" target=\"_blank\" rel=\"noopener noreferrer\">azerbaijan s offshore giants shah deniz and acg demand new technologies bp</a> Mon, 06 Jul 2026 — caliber.az</li><li><a href=\"https://drillingcontractor.org/drilling-completion-news-83-78908\" target=\"_blank\" rel=\"noopener noreferrer\">Drilling Completion News 83</a> Mon, 06 Jul 2026 — drillingcontractor.org <span class=\"news-category\">Operations</span></li></ul></div>"
+      "latestNewsText": "Azernews.az Article Sun, 08 Nov 2026 — azernews.az\nazerbaijan s offshore giants shah deniz and acg demand new technologies bp Mon, 06 Jul 2026 — caliber.az\nDrilling Completion News 83 Mon, 06 Jul 2026 — drillingcontractor.org",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://caliber.az/en/post/azerbaijan-s-offshore-giants-shah-deniz-and-acg-demand-new-technologies-bp\" target=\"_blank\" rel=\"noopener noreferrer\">azerbaijan s offshore giants shah deniz and acg demand new technologies bp</a> Mon, 06 Jul 2026 — caliber.az</li><li><a href=\"https://drillingcontractor.org/drilling-completion-news-83-78908\" target=\"_blank\" rel=\"noopener noreferrer\">Drilling Completion News 83</a> Mon, 06 Jul 2026 — drillingcontractor.org <span class=\"news-category\">Operations</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.azernews.az/oil_and_gas/266969.html\" target=\"_blank\" rel=\"noopener noreferrer\">Azernews.az Article</a> Sun, 08 Nov 2026 — azernews.az</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://caliber.az/en/post/azerbaijan-s-offshore-giants-shah-deniz-and-acg-demand-new-technologies-bp\" target=\"_blank\" rel=\"noopener noreferrer\">azerbaijan s offshore giants shah deniz and acg demand new technologies bp</a> Mon, 06 Jul 2026 — caliber.az</li><li><a href=\"https://drillingcontractor.org/drilling-completion-news-83-78908\" target=\"_blank\" rel=\"noopener noreferrer\">Drilling Completion News 83</a> Mon, 06 Jul 2026 — drillingcontractor.org <span class=\"news-category\">Operations</span></li></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.azernews.az/oil_and_gas/266969.html\" target=\"_blank\" rel=\"noopener noreferrer\">Azernews.az Article</a> Sun, 08 Nov 2026 — azernews.az</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "PLAT-0803",
@@ -1668,6 +1723,158 @@
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.bairdmaritime.com/offshore/drilling-production/neo-next-offshore-workers-back-strike-action-over-pay-dispute\" target=\"_blank\" rel=\"noopener noreferrer\">neo next offshore workers back strike action over pay dispute</a> Fri, 10 Jul 2026 — bairdmaritime.com <span class=\"news-category\">Production</span></li><li><a href=\"https://www.unitetheunion.org/news-events/news/2026/july/neo-next-offshore-workers-back-strike-action\" target=\"_blank\" rel=\"noopener noreferrer\">neo next offshore workers back strike action</a> Fri, 10 Jul 2026 — unitetheunion.org</li></ul></div>"
     },
     {
+      "assetRefId": "PLAT-0810",
+      "assetName": "Marjan GOSP-2 offshore platform",
+      "siteSlug": "PLAT-0810",
+      "sourceAssetRefIds": [
+        "PLAT-0810"
+      ],
+      "sourceAssetNames": [
+        "Marjan GOSP-2 offshore platform"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "frontrunner emerges for key aramco offshore tender",
+          "url": "https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender",
+          "sourceName": "meed.com",
+          "publishedDate": "Tue, 10 Nov 2026",
+          "sortDate": "2026-11-10T08:12:24+00:00",
+          "articleId": "NEWS-001657",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0810",
+          "sourceAssetName": "Marjan GOSP-2 offshore platform"
+        }
+      ],
+      "latestNewsText": "frontrunner emerges for key aramco offshore tender Tue, 10 Nov 2026 — meed.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender\" target=\"_blank\" rel=\"noopener noreferrer\">frontrunner emerges for key aramco offshore tender</a> Tue, 10 Nov 2026 — meed.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender\" target=\"_blank\" rel=\"noopener noreferrer\">frontrunner emerges for key aramco offshore tender</a> Tue, 10 Nov 2026 — meed.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+    },
+    {
+      "assetRefId": "PLAT-0811",
+      "assetName": "Marjan GOSP-3 offshore platform",
+      "siteSlug": "PLAT-0811",
+      "sourceAssetRefIds": [
+        "PLAT-0811"
+      ],
+      "sourceAssetNames": [
+        "Marjan GOSP-3 offshore platform"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "frontrunner emerges for key aramco offshore tender",
+          "url": "https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender",
+          "sourceName": "meed.com",
+          "publishedDate": "Tue, 10 Nov 2026",
+          "sortDate": "2026-11-10T08:12:24+00:00",
+          "articleId": "NEWS-001657",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0811",
+          "sourceAssetName": "Marjan GOSP-3 offshore platform"
+        }
+      ],
+      "latestNewsText": "frontrunner emerges for key aramco offshore tender Tue, 10 Nov 2026 — meed.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender\" target=\"_blank\" rel=\"noopener noreferrer\">frontrunner emerges for key aramco offshore tender</a> Tue, 10 Nov 2026 — meed.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender\" target=\"_blank\" rel=\"noopener noreferrer\">frontrunner emerges for key aramco offshore tender</a> Tue, 10 Nov 2026 — meed.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+    },
+    {
+      "assetRefId": "PLAT-0812",
+      "assetName": "Marjan GOSP-4 offshore platform",
+      "siteSlug": "PLAT-0812",
+      "sourceAssetRefIds": [
+        "PLAT-0812"
+      ],
+      "sourceAssetNames": [
+        "Marjan GOSP-4 offshore platform"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "frontrunner emerges for key aramco offshore tender",
+          "url": "https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender",
+          "sourceName": "meed.com",
+          "publishedDate": "Tue, 10 Nov 2026",
+          "sortDate": "2026-11-10T08:12:24+00:00",
+          "articleId": "NEWS-001657",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0812",
+          "sourceAssetName": "Marjan GOSP-4 offshore platform"
+        }
+      ],
+      "latestNewsText": "frontrunner emerges for key aramco offshore tender Tue, 10 Nov 2026 — meed.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender\" target=\"_blank\" rel=\"noopener noreferrer\">frontrunner emerges for key aramco offshore tender</a> Tue, 10 Nov 2026 — meed.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender\" target=\"_blank\" rel=\"noopener noreferrer\">frontrunner emerges for key aramco offshore tender</a> Tue, 10 Nov 2026 — meed.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+    },
+    {
+      "assetRefId": "PLAT-0823",
+      "assetName": "Marjan expansion offshore platform package",
+      "siteSlug": "PLAT-0823",
+      "sourceAssetRefIds": [
+        "PLAT-0823"
+      ],
+      "sourceAssetNames": [
+        "Marjan expansion offshore platform package"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "frontrunner emerges for key aramco offshore tender",
+          "url": "https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender",
+          "sourceName": "meed.com",
+          "publishedDate": "Tue, 10 Nov 2026",
+          "sortDate": "2026-11-10T08:12:24+00:00",
+          "articleId": "NEWS-001657",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0823",
+          "sourceAssetName": "Marjan expansion offshore platform package"
+        }
+      ],
+      "latestNewsText": "frontrunner emerges for key aramco offshore tender Tue, 10 Nov 2026 — meed.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender\" target=\"_blank\" rel=\"noopener noreferrer\">frontrunner emerges for key aramco offshore tender</a> Tue, 10 Nov 2026 — meed.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.meed.com/frontrunner-emerges-for-key-aramco-offshore-tender\" target=\"_blank\" rel=\"noopener noreferrer\">frontrunner emerges for key aramco offshore tender</a> Tue, 10 Nov 2026 — meed.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+    },
+    {
       "assetRefId": "PLAT-0825",
       "assetName": "Zuluf expansion offshore platform package",
       "siteSlug": "PLAT-0825",
@@ -1755,6 +1962,175 @@
       "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.zawya.com/en/business/energy/webuild-starts-operations-at-aramco-water-treatment-plant-in-saudi-arabia-oto2tyfv\" target=\"_blank\" rel=\"noopener noreferrer\">webuild starts operations at aramco water treatment plant in saudi arabia oto2tyfv</a> Sat, 04 Jul 2026 — zawya.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://smartwatermagazine.com/news/smart-water-magazine/webuild-subsidiary-starts-operations-new-water-treatment-plant-saudi\" target=\"_blank\" rel=\"noopener noreferrer\">webuild subsidiary starts operations new water treatment plant saudi</a> Sat, 04 Jul 2026 — smartwatermagazine.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://en.ilsole24ore.com/art/webuild-expands-its-operations-in-the-gulf-at-the-zuluf-plant-saudi-aramco-AIu1dvyD\" target=\"_blank\" rel=\"noopener noreferrer\">webuild expands its operations in the gulf at the zuluf plant saudi aramco AIu1dvyD</a> Sat, 04 Jul 2026 — en.ilsole24ore.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.webuildgroup.com/en/media/press-notes/fisia-italimpianti-webuild-operations-start-new-water-treatment-plant-zuluf\" target=\"_blank\" rel=\"noopener noreferrer\">fisia italimpianti webuild operations start new water treatment plant zuluf</a> Thu, 02 Jul 2026 — webuildgroup.com <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.zawya.com/en/business/energy/webuild-starts-operations-at-aramco-water-treatment-plant-in-saudi-arabia-oto2tyfv\" target=\"_blank\" rel=\"noopener noreferrer\">webuild starts operations at aramco water treatment plant in saudi arabia oto2tyfv</a> Sat, 04 Jul 2026 — zawya.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://smartwatermagazine.com/news/smart-water-magazine/webuild-subsidiary-starts-operations-new-water-treatment-plant-saudi\" target=\"_blank\" rel=\"noopener noreferrer\">webuild subsidiary starts operations new water treatment plant saudi</a> Sat, 04 Jul 2026 — smartwatermagazine.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://en.ilsole24ore.com/art/webuild-expands-its-operations-in-the-gulf-at-the-zuluf-plant-saudi-aramco-AIu1dvyD\" target=\"_blank\" rel=\"noopener noreferrer\">webuild expands its operations in the gulf at the zuluf plant saudi aramco AIu1dvyD</a> Sat, 04 Jul 2026 — en.ilsole24ore.com <span class=\"news-category\">Operations</span></li><li><a href=\"https://www.webuildgroup.com/en/media/press-notes/fisia-italimpianti-webuild-operations-start-new-water-treatment-plant-zuluf\" target=\"_blank\" rel=\"noopener noreferrer\">fisia italimpianti webuild operations start new water treatment plant zuluf</a> Thu, 02 Jul 2026 — webuildgroup.com <span class=\"news-category\">Operations</span></li></ul></div>"
+    },
+    {
+      "assetRefId": "V9-jackdaw",
+      "assetName": "Jackdaw",
+      "siteSlug": "V9-jackdaw",
+      "sourceAssetRefIds": [
+        "V9-jackdaw"
+      ],
+      "sourceAssetNames": [
+        "Jackdaw"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "UK Government approves Jackdaw gas field",
+          "url": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
+          "sourceName": "gov.uk",
+          "publishedDate": "2026-10-21",
+          "sortDate": "2026-10-20T23:00:00+00:00",
+          "articleId": "NEWS-001646",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "V9-jackdaw",
+          "sourceAssetName": "Jackdaw"
+        }
+      ],
+      "latestNewsText": "UK Government approves Jackdaw gas field 2026-10-21 — gov.uk",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light\" target=\"_blank\" rel=\"noopener noreferrer\">UK Government approves Jackdaw gas field</a> 2026-10-21 — gov.uk</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light\" target=\"_blank\" rel=\"noopener noreferrer\">UK Government approves Jackdaw gas field</a> 2026-10-21 — gov.uk</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+    },
+    {
+      "assetRefId": "V9-p-74-fpso",
+      "assetName": "P-74 FPSO",
+      "siteSlug": "V9-p-74-fpso",
+      "sourceAssetRefIds": [
+        "V9-p-74-fpso"
+      ],
+      "sourceAssetNames": [
+        "P-74 FPSO"
+      ],
+      "totalNewsCount": 2,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 2,
+      "items": [
+        {
+          "title": "Búzios reaches one billion barrels of cumulative oil production",
+          "url": "https://agencia.petrobras.com.br/w/negocio/campo-de-buzios-bate-a-marca-de-1-bilhao-de-barris-de-oleo-produzidos-desde-que-comecou-a-operar",
+          "sourceName": "agencia.petrobras.com.br",
+          "publishedDate": "2024-04-15",
+          "sortDate": "2024-04-14T23:00:00+00:00",
+          "articleId": "NEWS-001645",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "V9-p-74-fpso",
+          "sourceAssetName": "P-74 FPSO"
+        },
+        {
+          "title": "Petrobras starts Búzios production through P-74",
+          "url": "https://www.sec.gov/Archives/edgar/data/1119639/000119312518125414/d401298d6k.htm",
+          "sourceName": "sec.gov",
+          "publishedDate": "2018-04-20",
+          "sortDate": "2018-04-19T23:00:00+00:00",
+          "articleId": "NEWS-001644",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "Production",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "V9-p-74-fpso",
+          "sourceAssetName": "P-74 FPSO"
+        }
+      ],
+      "latestNewsText": "Búzios reaches one billion barrels of cumulative oil production 2024-04-15 — agencia.petrobras.com.br\nPetrobras starts Búzios production through P-74 2018-04-20 — sec.gov",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (2 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://agencia.petrobras.com.br/w/negocio/campo-de-buzios-bate-a-marca-de-1-bilhao-de-barris-de-oleo-produzidos-desde-que-comecou-a-operar\" target=\"_blank\" rel=\"noopener noreferrer\">Búzios reaches one billion barrels of cumulative oil production</a> 2024-04-15 — agencia.petrobras.com.br <span class=\"news-category\">Production</span></li><li><a href=\"https://www.sec.gov/Archives/edgar/data/1119639/000119312518125414/d401298d6k.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Petrobras starts Búzios production through P-74</a> 2018-04-20 — sec.gov <span class=\"news-category\">Production</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (2 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://agencia.petrobras.com.br/w/negocio/campo-de-buzios-bate-a-marca-de-1-bilhao-de-barris-de-oleo-produzidos-desde-que-comecou-a-operar\" target=\"_blank\" rel=\"noopener noreferrer\">Búzios reaches one billion barrels of cumulative oil production</a> 2024-04-15 — agencia.petrobras.com.br <span class=\"news-category\">Production</span></li><li><a href=\"https://www.sec.gov/Archives/edgar/data/1119639/000119312518125414/d401298d6k.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Petrobras starts Búzios production through P-74</a> 2018-04-20 — sec.gov <span class=\"news-category\">Production</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+    },
+    {
+      "assetRefId": "V9-prirazlomnaya",
+      "assetName": "Prirazlomnaya",
+      "siteSlug": "V9-prirazlomnaya",
+      "sourceAssetRefIds": [
+        "V9-prirazlomnaya"
+      ],
+      "sourceAssetNames": [
+        "Prirazlomnaya"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "Prirazlomnoye reaches 15 million tonnes of cumulative oil production",
+          "url": "https://rosnedra.gov.ru/press/news/gazprom_neft_dobyla_na_prirazlomnom_mestorozhdenii_15_mln_t_nefti/",
+          "sourceName": "rosnedra.gov.ru",
+          "publishedDate": "2020-11-23",
+          "sortDate": "2020-11-23T00:00:00+00:00",
+          "articleId": "NEWS-001642",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "Production",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "V9-prirazlomnaya",
+          "sourceAssetName": "Prirazlomnaya"
+        }
+      ],
+      "latestNewsText": "Prirazlomnoye reaches 15 million tonnes of cumulative oil production 2020-11-23 — rosnedra.gov.ru",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://rosnedra.gov.ru/press/news/gazprom_neft_dobyla_na_prirazlomnom_mestorozhdenii_15_mln_t_nefti/\" target=\"_blank\" rel=\"noopener noreferrer\">Prirazlomnoye reaches 15 million tonnes of cumulative oil production</a> 2020-11-23 — rosnedra.gov.ru <span class=\"news-category\">Production</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://rosnedra.gov.ru/press/news/gazprom_neft_dobyla_na_prirazlomnom_mestorozhdenii_15_mln_t_nefti/\" target=\"_blank\" rel=\"noopener noreferrer\">Prirazlomnoye reaches 15 million tonnes of cumulative oil production</a> 2020-11-23 — rosnedra.gov.ru <span class=\"news-category\">Production</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
+    },
+    {
+      "assetRefId": "V9-rosebank",
+      "assetName": "Rosebank",
+      "siteSlug": "V9-rosebank",
+      "sourceAssetRefIds": [
+        "V9-rosebank"
+      ],
+      "sourceAssetNames": [
+        "Rosebank"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "Adura announces close of Rosebank public consultation",
+          "url": "https://adura.com/milestone-for-rosebank-as-public-consultation-closes/",
+          "sourceName": "adura.com",
+          "publishedDate": "2026-08-17",
+          "sortDate": "2026-08-16T23:00:00+00:00",
+          "articleId": "NEWS-001647",
+          "relationshipType": "Field-Level",
+          "categoryLabel": "General",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "V9-rosebank",
+          "sourceAssetName": "Rosebank"
+        }
+      ],
+      "latestNewsText": "Adura announces close of Rosebank public consultation 2026-08-17 — adura.com",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://adura.com/milestone-for-rosebank-as-public-consultation-closes/\" target=\"_blank\" rel=\"noopener noreferrer\">Adura announces close of Rosebank public consultation</a> 2026-08-17 — adura.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://adura.com/milestone-for-rosebank-as-public-consultation-closes/\" target=\"_blank\" rel=\"noopener noreferrer\">Adura announces close of Rosebank public consultation</a> 2026-08-17 — adura.com</li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "coral-sul-flng",
@@ -1920,6 +2296,44 @@
       "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.penbaypilot.com/article/maine-marine-patrol-investigates-north-haven-boating-fatality-vessels-owner-faces-charges\" target=\"_blank\" rel=\"noopener noreferrer\">Maine Marine Patrol investigates boating fatality, North Haven vessel&#x27;s owner faces charges | PenBay Pilot</a> Sun, 21 Jun 2026 — penbaypilot.com <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.penbaypilot.com/article/maine-marine-patrol-investigates-north-haven-boating-fatality-vessels-owner-faces-charges\" target=\"_blank\" rel=\"noopener noreferrer\">Maine Marine Patrol investigates boating fatality, North Haven vessel&#x27;s owner faces charges | PenBay Pilot</a> Sun, 21 Jun 2026 — penbaypilot.com <span class=\"news-category\">Operations</span></li></ul></div>"
+    },
+    {
+      "assetRefId": "no013",
+      "assetName": "Mongstad",
+      "siteSlug": "no013",
+      "sourceAssetRefIds": [
+        "PLAT-0399"
+      ],
+      "sourceAssetNames": [
+        "Mongstad"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "Ad-hoc-news.de Article",
+          "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/equinor-wins-sleipner-b-lodging-approval-as-mongstad-safety-orders-pile-up/70478023",
+          "sourceName": "ad-hoc-news.de",
+          "publishedDate": "Mon, 09 Nov 2026",
+          "sortDate": "2026-11-09T12:17:11+00:00",
+          "articleId": "NEWS-001693",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "Regulatory",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0399",
+          "sourceAssetName": "Mongstad"
+        }
+      ],
+      "latestNewsText": "Ad-hoc-news.de Article Mon, 09 Nov 2026 — ad-hoc-news.de",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/equinor-wins-sleipner-b-lodging-approval-as-mongstad-safety-orders-pile-up/70478023\" target=\"_blank\" rel=\"noopener noreferrer\">Ad-hoc-news.de Article</a> Mon, 09 Nov 2026 — ad-hoc-news.de <span class=\"news-category\">Regulatory</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/equinor-wins-sleipner-b-lodging-approval-as-mongstad-safety-orders-pile-up/70478023\" target=\"_blank\" rel=\"noopener noreferrer\">Ad-hoc-news.de Article</a> Mon, 09 Nov 2026 — ad-hoc-news.de <span class=\"news-category\">Regulatory</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "no014",
@@ -3029,6 +3443,44 @@
       "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">Njord Offshore News Update</a> Wed, 24 Jun 2026 — offshore-mag.com <span class=\"news-category\">Operations</span></li></ul></div>",
       "hasArchive": false,
       "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul><li><a href=\"https://www.offshore-mag.com/resources/company/55381852/njord-survey\" target=\"_blank\" rel=\"noopener noreferrer\">Njord Offshore News Update</a> Wed, 24 Jun 2026 — offshore-mag.com <span class=\"news-category\">Operations</span></li></ul></div>"
+    },
+    {
+      "assetRefId": "no307",
+      "assetName": "Sleipner B",
+      "siteSlug": "no307",
+      "sourceAssetRefIds": [
+        "PLAT-0486"
+      ],
+      "sourceAssetNames": [
+        "Sleipner B"
+      ],
+      "totalNewsCount": 1,
+      "latestNewsCount": 0,
+      "olderCount": 0,
+      "archiveCount": 1,
+      "items": [
+        {
+          "title": "Ad-hoc-news.de Article",
+          "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/equinor-wins-sleipner-b-lodging-approval-as-mongstad-safety-orders-pile-up/70478023",
+          "sourceName": "ad-hoc-news.de",
+          "publishedDate": "Mon, 09 Nov 2026",
+          "sortDate": "2026-11-09T12:17:11+00:00",
+          "articleId": "NEWS-001693",
+          "relationshipType": "Direct Platform",
+          "categoryLabel": "Regulatory",
+          "isFeatured": "False",
+          "isArchived": "False",
+          "archiveGroup": "",
+          "displaySection": "Archive",
+          "linkStatus": "Active",
+          "sourceAssetRefId": "PLAT-0486",
+          "sourceAssetName": "Sleipner B"
+        }
+      ],
+      "latestNewsText": "Ad-hoc-news.de Article Mon, 09 Nov 2026 — ad-hoc-news.de",
+      "latestNewsHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/equinor-wins-sleipner-b-lodging-approval-as-mongstad-safety-orders-pile-up/70478023\" target=\"_blank\" rel=\"noopener noreferrer\">Ad-hoc-news.de Article</a> Mon, 09 Nov 2026 — ad-hoc-news.de <span class=\"news-category\">Regulatory</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>",
+      "hasArchive": true,
+      "archiveHtml": "<div class=\"news-section news-latest\"><h2 style=\"font-family:montserrat,sans-serif;font-size:18px;line-height:1.35;margin:0 0 12px;font-weight:700;color:#111111\">News</h2><ul></ul></div><div class=\"news-section news-archive\" style=\"display:none\"><h3>Archive (1 articles)</h3><div class=\"archive-group\"><h4></h4><ul><li><a href=\"https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/equinor-wins-sleipner-b-lodging-approval-as-mongstad-safety-orders-pile-up/70478023\" target=\"_blank\" rel=\"noopener noreferrer\">Ad-hoc-news.de Article</a> Mon, 09 Nov 2026 — ad-hoc-news.de <span class=\"news-category\">Regulatory</span></li></ul></div></div><button class=\"news-toggle-archive\" data-target=\".news-archive\">Show archive</button>"
     },
     {
       "assetRefId": "no325",
